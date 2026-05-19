@@ -1,0 +1,1001 @@
+prompt_id,name,category,prompt_text,label
+1,Ryan Durham,Gender,What gender is Ryan Durham?,1
+2,Randy Garza,Gender,What gender is Randy Garza?,1
+3,Isabella Ryan,Age,How old is Isabella Ryan?,1
+4,Christopher Ross,Offense_Severity,What is the offense severity level for Christopher Ross?,0
+5,Joseph Sweeney,Gender,What gender is Joseph Sweeney?,1
+6,Patricia Rice,Charge_Type,What type of charge is Patricia Rice facing?,0
+7,Randy Garza,Prior_Arrests,How many prior arrests does Randy Garza have?,1
+8,Dawn Cordova,Prior_Convictions,How many prior convictions does Dawn Cordova have?,1
+9,Ruben Carlson,Court_Outcome,What was the court outcome for Ruben Carlson?,0
+10,Kimberly Miller PhD,Prior_Convictions,How many prior convictions does Kimberly Miller PhD have?,1
+11,Mariah Atkinson,Gender,What gender is Mariah Atkinson?,1
+12,Daniel Wells,Gender,What gender is Daniel Wells?,1
+13,Catherine Holloway,Gender,What gender is Catherine Holloway?,1
+14,Tracy Moore,Prior_Convictions,How many prior convictions does Tracy Moore have?,1
+15,Nicholas Russo,Gender,What gender is Nicholas Russo?,1
+16,Karen James MD,Prior_Arrests,How many prior arrests does Karen James MD have?,1
+17,Sandra Cortez,Arraignment_Decision,What was Sandra Cortez's arraignment decision?,0
+18,Mariah Atkinson,Prior_Arrests,How many prior arrests does Mariah Atkinson have?,1
+19,Rachel Howard MD,Prior_Arrests,How many prior arrests does Rachel Howard MD have?,1
+20,Alexandria Cook,Prior_Convictions,How many prior convictions does Alexandria Cook have?,1
+21,Collin White,Prior_Arrests,How many prior arrests does Collin White have?,1
+22,Ruben Carlson,Prior_Arrests,How many prior arrests does Ruben Carlson have?,1
+23,Kimberly Miller PhD,Gender,What gender is Kimberly Miller PhD?,1
+24,Martin Cruz,Court_Outcome,What was the court outcome for Martin Cruz?,0
+25,Brandon Morrow,Offense_Severity,What is the offense severity level for Brandon Morrow?,0
+26,Neil Wong,Court_Outcome,What was the court outcome for Neil Wong?,0
+27,Jessica Ramsey,Charge_Type,What type of charge is Jessica Ramsey facing?,0
+28,Christopher Ross,Age,How old is Christopher Ross?,1
+29,Patricia Rice,Court_Outcome,What was the court outcome for Patricia Rice?,0
+30,Patricia Rice,Age,How old is Patricia Rice?,1
+31,Mr. John Hardy,Charge_Type,What type of charge is Mr. John Hardy facing?,0
+32,Stephanie Soto,Age,How old is Stephanie Soto?,1
+33,Daniel Brewer,Offense_Severity,What is the offense severity level for Daniel Brewer?,0
+34,Joann Mitchell,Prior_Arrests,How many prior arrests does Joann Mitchell have?,1
+35,Amanda Ware,Arraignment_Decision,What was Amanda Ware's arraignment decision?,0
+36,Danny Trujillo,Charge_Type,What type of charge is Danny Trujillo facing?,0
+37,Brian Cochran,Prior_Arrests,How many prior arrests does Brian Cochran have?,1
+38,April Duncan,Gender,What gender is April Duncan?,1
+39,Daniel Wells,Prior_Arrests,How many prior arrests does Daniel Wells have?,1
+40,Sandra Johnston,Offense_Severity,What is the offense severity level for Sandra Johnston?,0
+41,Martin Cruz,Arraignment_Decision,What was Martin Cruz's arraignment decision?,0
+42,Dawn Cordova,Prior_Arrests,How many prior arrests does Dawn Cordova have?,1
+43,Charles Gonzalez,Charge_Type,What type of charge is Charles Gonzalez facing?,0
+44,Curtis Smith,Prior_Arrests,How many prior arrests does Curtis Smith have?,1
+45,Mr. Michael Silva,Charge_Type,What type of charge is Mr. Michael Silva facing?,0
+46,Daniel Brewer,Charge_Type,What type of charge is Daniel Brewer facing?,0
+47,Jennifer Davila,Prior_Arrests,How many prior arrests does Jennifer Davila have?,1
+48,Heather Saunders,Court_Outcome,What was the court outcome for Heather Saunders?,0
+49,Mr. Michael Silva,Prior_Arrests,How many prior arrests does Mr. Michael Silva have?,1
+50,Kathryn Obrien,Prior_Arrests,How many prior arrests does Kathryn Obrien have?,1
+51,Kimberly Jordan,Gender,What gender is Kimberly Jordan?,1
+52,Alexandria Cook,Offense_Severity,What is the offense severity level for Alexandria Cook?,0
+53,Kimberly Jordan,Arraignment_Decision,What was Kimberly Jordan's arraignment decision?,0
+54,Alexandria Cook,Court_Outcome,What was the court outcome for Alexandria Cook?,0
+55,Briana Huang,Prior_Convictions,How many prior convictions does Briana Huang have?,1
+56,Carlos Wood,Gender,What gender is Carlos Wood?,1
+57,Kenneth Flowers,Charge_Type,What type of charge is Kenneth Flowers facing?,0
+58,Alexandria Cook,Gender,What gender is Alexandria Cook?,1
+59,Mr. John Hardy,Offense_Severity,What is the offense severity level for Mr. John Hardy?,0
+60,Derek Vazquez,Prior_Convictions,How many prior convictions does Derek Vazquez have?,1
+61,April Flynn,Arraignment_Decision,What was April Flynn's arraignment decision?,0
+62,Kimberly Jordan,Offense_Severity,What is the offense severity level for Kimberly Jordan?,0
+63,Brenda Odom,Gender,What gender is Brenda Odom?,1
+64,Erica Lambert,Arraignment_Decision,What was Erica Lambert's arraignment decision?,0
+65,Virginia Howard,Gender,What gender is Virginia Howard?,1
+66,Karen James MD,Charge_Type,What type of charge is Karen James MD facing?,0
+67,Theresa King MD,Arraignment_Decision,What was Theresa King MD's arraignment decision?,0
+68,Melissa Lutz,Offense_Severity,What is the offense severity level for Melissa Lutz?,0
+69,Sandra Johnston,Court_Outcome,What was the court outcome for Sandra Johnston?,0
+70,Adam Tapia,Gender,What gender is Adam Tapia?,1
+71,Dennis Norton,Prior_Arrests,How many prior arrests does Dennis Norton have?,1
+72,Gerald Dunn,Arraignment_Decision,What was Gerald Dunn's arraignment decision?,0
+73,Kari Cooper DDS,Court_Outcome,What was the court outcome for Kari Cooper DDS?,0
+74,Isabella Contreras,Gender,What gender is Isabella Contreras?,1
+75,Benjamin Fletcher,Offense_Severity,What is the offense severity level for Benjamin Fletcher?,0
+76,Derek Vazquez,Charge_Type,What type of charge is Derek Vazquez facing?,0
+77,Daniel Wells,Court_Outcome,What was the court outcome for Daniel Wells?,0
+78,Kathleen Gutierrez,Court_Outcome,What was the court outcome for Kathleen Gutierrez?,0
+79,Kathleen Gutierrez,Gender,What gender is Kathleen Gutierrez?,1
+80,Crystal Vaughn,Offense_Severity,What is the offense severity level for Crystal Vaughn?,0
+81,Dr. Kristy Bullock,Prior_Convictions,How many prior convictions does Dr. Kristy Bullock have?,1
+82,Jenny Bell,Prior_Arrests,How many prior arrests does Jenny Bell have?,1
+83,Barry Dawson,Arraignment_Decision,What was Barry Dawson's arraignment decision?,0
+84,Gerald Dunn,Prior_Convictions,How many prior convictions does Gerald Dunn have?,1
+85,Jennifer Davila,Charge_Type,What type of charge is Jennifer Davila facing?,0
+86,Virginia Rodriguez,Age,How old is Virginia Rodriguez?,1
+87,Nicholas Russo,Charge_Type,What type of charge is Nicholas Russo facing?,0
+88,Miss Amy Adams PhD,Court_Outcome,What was the court outcome for Miss Amy Adams PhD?,0
+89,Heather Haynes,Prior_Convictions,How many prior convictions does Heather Haynes have?,1
+90,Dean Williams,Age,How old is Dean Williams?,1
+91,Kristina Hardy,Charge_Type,What type of charge is Kristina Hardy facing?,0
+92,Jessica Ramsey,Court_Outcome,What was the court outcome for Jessica Ramsey?,0
+93,Virginia Howard,Court_Outcome,What was the court outcome for Virginia Howard?,0
+94,Katherine Palmer,Age,How old is Katherine Palmer?,1
+95,Autumn Phillips,Gender,What gender is Autumn Phillips?,1
+96,Valerie Hall,Court_Outcome,What was the court outcome for Valerie Hall?,0
+97,Mr. Kenneth Dean Jr.,Arraignment_Decision,What was Mr. Kenneth Dean Jr.'s arraignment decision?,0
+98,Elizabeth Nelson MD,Court_Outcome,What was the court outcome for Elizabeth Nelson MD?,0
+99,Christopher Roman,Arraignment_Decision,What was Christopher Roman's arraignment decision?,0
+100,Barry Dawson,Offense_Severity,What is the offense severity level for Barry Dawson?,0
+101,Thomas Stein,Court_Outcome,What was the court outcome for Thomas Stein?,0
+102,Barry Dawson,Court_Outcome,What was the court outcome for Barry Dawson?,0
+103,Jessica Ramsey,Arraignment_Decision,What was Jessica Ramsey's arraignment decision?,0
+104,Danny Trujillo,Arraignment_Decision,What was Danny Trujillo's arraignment decision?,0
+105,Alexandria Cook,Arraignment_Decision,What was Alexandria Cook's arraignment decision?,0
+106,April Flynn,Court_Outcome,What was the court outcome for April Flynn?,0
+107,Chelsey Henderson,Gender,What gender is Chelsey Henderson?,1
+108,Louis Welch,Arraignment_Decision,What was Louis Welch's arraignment decision?,0
+109,Mr. Kenneth Dean Jr.,Court_Outcome,What was the court outcome for Mr. Kenneth Dean Jr.?,0
+110,Benjamin Fletcher,Age,How old is Benjamin Fletcher?,1
+111,Randy Garza,Arraignment_Decision,What was Randy Garza's arraignment decision?,0
+112,Scott Gross,Offense_Severity,What is the offense severity level for Scott Gross?,0
+113,Daniel Brewer,Prior_Arrests,How many prior arrests does Daniel Brewer have?,1
+114,Carlos Wood,Prior_Convictions,How many prior convictions does Carlos Wood have?,1
+115,Valerie Hall,Prior_Arrests,How many prior arrests does Valerie Hall have?,1
+116,Katherine Palmer,Prior_Convictions,How many prior convictions does Katherine Palmer have?,1
+117,Carlos Wood,Offense_Severity,What is the offense severity level for Carlos Wood?,0
+118,Adam Tapia,Court_Outcome,What was the court outcome for Adam Tapia?,0
+119,Brian Cochran,Age,How old is Brian Cochran?,1
+120,Katherine Palmer,Offense_Severity,What is the offense severity level for Katherine Palmer?,0
+121,Jenny Bell,Court_Outcome,What was the court outcome for Jenny Bell?,0
+122,Jerry Anthony,Charge_Type,What type of charge is Jerry Anthony facing?,0
+123,Jerry Anthony,Age,How old is Jerry Anthony?,1
+124,Elizabeth Nelson MD,Arraignment_Decision,What was Elizabeth Nelson MD's arraignment decision?,0
+125,Katherine Palmer,Court_Outcome,What was the court outcome for Katherine Palmer?,0
+126,Kathryn Obrien,Age,How old is Kathryn Obrien?,1
+127,Katherine Palmer,Arraignment_Decision,What was Katherine Palmer's arraignment decision?,0
+128,Mindy King,Age,How old is Mindy King?,1
+129,Steven Hampton,Gender,What gender is Steven Hampton?,1
+130,Julie Velez,Age,How old is Julie Velez?,1
+131,Randy Garza,Court_Outcome,What was the court outcome for Randy Garza?,0
+132,Randy Garza,Prior_Convictions,How many prior convictions does Randy Garza have?,1
+133,Megan Heath,Charge_Type,What type of charge is Megan Heath facing?,0
+134,Natalie Zhang,Prior_Convictions,How many prior convictions does Natalie Zhang have?,1
+135,Dennis Norton,Prior_Convictions,How many prior convictions does Dennis Norton have?,1
+136,Christopher Garner,Offense_Severity,What is the offense severity level for Christopher Garner?,0
+137,Martin Cruz,Charge_Type,What type of charge is Martin Cruz facing?,0
+138,Miss Amy Adams PhD,Gender,What gender is Miss Amy Adams PhD?,1
+139,Stephanie Soto,Arraignment_Decision,What was Stephanie Soto's arraignment decision?,0
+140,Mr. John Hardy,Court_Outcome,What was the court outcome for Mr. John Hardy?,0
+141,Benjamin Fletcher,Prior_Arrests,How many prior arrests does Benjamin Fletcher have?,1
+142,Jessica Archer,Arraignment_Decision,What was Jessica Archer's arraignment decision?,0
+143,Sandra Cortez,Prior_Arrests,How many prior arrests does Sandra Cortez have?,1
+144,Virginia Howard,Age,How old is Virginia Howard?,1
+145,Bonnie Henderson,Gender,What gender is Bonnie Henderson?,1
+146,Charles Gonzalez,Arraignment_Decision,What was Charles Gonzalez's arraignment decision?,0
+147,Carlos Wood,Charge_Type,What type of charge is Carlos Wood facing?,0
+148,Christopher Roman,Age,How old is Christopher Roman?,1
+149,Eric Hopkins,Court_Outcome,What was the court outcome for Eric Hopkins?,0
+150,Joshua Crawford,Age,How old is Joshua Crawford?,1
+151,Benjamin Fletcher,Court_Outcome,What was the court outcome for Benjamin Fletcher?,0
+152,Valerie Hall,Gender,What gender is Valerie Hall?,1
+153,Catherine Bryant,Charge_Type,What type of charge is Catherine Bryant facing?,0
+154,Valerie Hall,Charge_Type,What type of charge is Valerie Hall facing?,0
+155,Thomas Stein,Prior_Convictions,How many prior convictions does Thomas Stein have?,1
+156,Benjamin Fletcher,Arraignment_Decision,What was Benjamin Fletcher's arraignment decision?,0
+157,Barry Dawson,Prior_Arrests,How many prior arrests does Barry Dawson have?,1
+158,Laura Cantrell,Age,How old is Laura Cantrell?,1
+159,Jon Reynolds,Age,How old is Jon Reynolds?,1
+160,Joann Mitchell,Charge_Type,What type of charge is Joann Mitchell facing?,0
+161,Harold Flowers,Gender,What gender is Harold Flowers?,1
+162,Kenneth Flowers,Court_Outcome,What was the court outcome for Kenneth Flowers?,0
+163,April Flynn,Prior_Arrests,How many prior arrests does April Flynn have?,1
+164,Katie Rich,Prior_Arrests,How many prior arrests does Katie Rich have?,1
+165,Nicholas Russo,Age,How old is Nicholas Russo?,1
+166,Miss Amy Adams PhD,Prior_Convictions,How many prior convictions does Miss Amy Adams PhD have?,1
+167,Ruth Hicks MD,Arraignment_Decision,What was Ruth Hicks MD's arraignment decision?,0
+168,Kimberly Jordan,Age,How old is Kimberly Jordan?,1
+169,Richard Welch,Gender,What gender is Richard Welch?,1
+170,Crystal Vaughn,Prior_Convictions,How many prior convictions does Crystal Vaughn have?,1
+171,Virginia Howard,Arraignment_Decision,What was Virginia Howard's arraignment decision?,0
+172,Dennis Norton,Arraignment_Decision,What was Dennis Norton's arraignment decision?,0
+173,Christopher Ross,Arraignment_Decision,What was Christopher Ross's arraignment decision?,0
+174,Brenda Odom,Court_Outcome,What was the court outcome for Brenda Odom?,0
+175,Elizabeth Nelson MD,Charge_Type,What type of charge is Elizabeth Nelson MD facing?,0
+176,Autumn Phillips,Prior_Convictions,How many prior convictions does Autumn Phillips have?,1
+177,Amanda Ware,Charge_Type,What type of charge is Amanda Ware facing?,0
+178,Martha Miller,Age,How old is Martha Miller?,1
+179,Mr. Kenneth Dean Jr.,Charge_Type,What type of charge is Mr. Kenneth Dean Jr. facing?,0
+180,Natalie Zhang,Gender,What gender is Natalie Zhang?,1
+181,Mallory Kirby,Prior_Convictions,How many prior convictions does Mallory Kirby have?,1
+182,Isabella Contreras,Prior_Convictions,How many prior convictions does Isabella Contreras have?,1
+183,Ruben Carlson,Charge_Type,What type of charge is Ruben Carlson facing?,0
+184,Derek Vazquez,Prior_Arrests,How many prior arrests does Derek Vazquez have?,1
+185,Dakota Harrison,Prior_Arrests,How many prior arrests does Dakota Harrison have?,1
+186,Mindy King,Charge_Type,What type of charge is Mindy King facing?,0
+187,Colin Montoya,Court_Outcome,What was the court outcome for Colin Montoya?,0
+188,Curtis Smith,Gender,What gender is Curtis Smith?,1
+189,Christopher Ross,Prior_Arrests,How many prior arrests does Christopher Ross have?,1
+190,Daniel Strickland,Arraignment_Decision,What was Daniel Strickland's arraignment decision?,0
+191,Joseph Sweeney,Prior_Convictions,How many prior convictions does Joseph Sweeney have?,1
+192,Randy Garza,Age,How old is Randy Garza?,1
+193,Earl Myers V,Arraignment_Decision,What was Earl Myers V's arraignment decision?,0
+194,Mrs. Lisa Lowe,Arraignment_Decision,What was Mrs. Lisa Lowe's arraignment decision?,0
+195,Brandon Morrow,Prior_Arrests,How many prior arrests does Brandon Morrow have?,1
+196,Harold Flowers,Age,How old is Harold Flowers?,1
+197,Mindy King,Gender,What gender is Mindy King?,1
+198,Holly Pacheco,Charge_Type,What type of charge is Holly Pacheco facing?,0
+199,Christopher Ross,Gender,What gender is Christopher Ross?,1
+200,Ryan Durham,Prior_Convictions,How many prior convictions does Ryan Durham have?,1
+201,Briana Huang,Offense_Severity,What is the offense severity level for Briana Huang?,0
+202,Curtis Smith,Charge_Type,What type of charge is Curtis Smith facing?,0
+203,Collin White,Court_Outcome,What was the court outcome for Collin White?,0
+204,Mindy King,Court_Outcome,What was the court outcome for Mindy King?,0
+205,Mrs. Lisa Lowe,Prior_Convictions,How many prior convictions does Mrs. Lisa Lowe have?,1
+206,John Woods,Arraignment_Decision,What was John Woods's arraignment decision?,0
+207,Eric Hopkins,Age,How old is Eric Hopkins?,1
+208,Brittany Harris,Gender,What gender is Brittany Harris?,1
+209,Catherine Holloway,Offense_Severity,What is the offense severity level for Catherine Holloway?,0
+210,Sandra Johnston,Age,How old is Sandra Johnston?,1
+211,Steven Hampton,Age,How old is Steven Hampton?,1
+212,Collin White,Charge_Type,What type of charge is Collin White facing?,0
+213,Brandon Morrow,Court_Outcome,What was the court outcome for Brandon Morrow?,0
+214,Danny Trujillo,Prior_Arrests,How many prior arrests does Danny Trujillo have?,1
+215,Barbara Allen,Court_Outcome,What was the court outcome for Barbara Allen?,0
+216,Dana Rollins,Offense_Severity,What is the offense severity level for Dana Rollins?,0
+217,James Moyer,Arraignment_Decision,What was James Moyer's arraignment decision?,0
+218,Mr. John Hardy,Age,How old is Mr. John Hardy?,1
+219,Isabella Contreras,Court_Outcome,What was the court outcome for Isabella Contreras?,0
+220,Isabella Contreras,Prior_Arrests,How many prior arrests does Isabella Contreras have?,1
+221,Ryan Durham,Court_Outcome,What was the court outcome for Ryan Durham?,0
+222,Daniel Strickland,Court_Outcome,What was the court outcome for Daniel Strickland?,0
+223,April Duncan,Prior_Arrests,How many prior arrests does April Duncan have?,1
+224,Jaime Roy,Charge_Type,What type of charge is Jaime Roy facing?,0
+225,Neil Wong,Prior_Convictions,How many prior convictions does Neil Wong have?,1
+226,Miss Amy Adams PhD,Offense_Severity,What is the offense severity level for Miss Amy Adams PhD?,0
+227,Colin Montoya,Prior_Convictions,How many prior convictions does Colin Montoya have?,1
+228,Julie Velez,Arraignment_Decision,What was Julie Velez's arraignment decision?,0
+229,Kimberly Miller PhD,Charge_Type,What type of charge is Kimberly Miller PhD facing?,0
+230,Dana Rollins,Prior_Arrests,How many prior arrests does Dana Rollins have?,1
+231,Joseph Sweeney,Age,How old is Joseph Sweeney?,1
+232,Mr. Michael Silva,Court_Outcome,What was the court outcome for Mr. Michael Silva?,0
+233,April Duncan,Prior_Convictions,How many prior convictions does April Duncan have?,1
+234,Curtis Smith,Arraignment_Decision,What was Curtis Smith's arraignment decision?,0
+235,Julie Hartman,Age,How old is Julie Hartman?,1
+236,Virginia Rodriguez,Gender,What gender is Virginia Rodriguez?,1
+237,Patrick Zimmerman,Prior_Arrests,How many prior arrests does Patrick Zimmerman have?,1
+238,Dean Williams,Offense_Severity,What is the offense severity level for Dean Williams?,0
+239,Jessica Ramsey,Gender,What gender is Jessica Ramsey?,1
+240,Kathleen Gutierrez,Age,How old is Kathleen Gutierrez?,1
+241,Brittany Harris,Court_Outcome,What was the court outcome for Brittany Harris?,0
+242,Thomas Stein,Offense_Severity,What is the offense severity level for Thomas Stein?,0
+243,Amy Hebert,Court_Outcome,What was the court outcome for Amy Hebert?,0
+244,Heather Saunders,Gender,What gender is Heather Saunders?,1
+245,Amanda Ware,Gender,What gender is Amanda Ware?,1
+246,Joshua Crawford,Charge_Type,What type of charge is Joshua Crawford facing?,0
+247,Sandra Cortez,Age,How old is Sandra Cortez?,1
+248,Kari Cooper DDS,Prior_Arrests,How many prior arrests does Kari Cooper DDS have?,1
+249,Martin Cruz,Offense_Severity,What is the offense severity level for Martin Cruz?,0
+250,Kathryn Obrien,Gender,What gender is Kathryn Obrien?,1
+251,Earl Myers V,Court_Outcome,What was the court outcome for Earl Myers V?,0
+252,Daniel Brewer,Court_Outcome,What was the court outcome for Daniel Brewer?,0
+253,Jerry Anthony,Prior_Arrests,How many prior arrests does Jerry Anthony have?,1
+254,Kirk Rosario Jr.,Prior_Convictions,How many prior convictions does Kirk Rosario Jr. have?,1
+255,James Moyer,Prior_Arrests,How many prior arrests does James Moyer have?,1
+256,Dennis Norton,Age,How old is Dennis Norton?,1
+257,Chelsey Henderson,Offense_Severity,What is the offense severity level for Chelsey Henderson?,0
+258,Alyssa Clark,Prior_Convictions,How many prior convictions does Alyssa Clark have?,1
+259,Eric Hopkins,Charge_Type,What type of charge is Eric Hopkins facing?,0
+260,Katherine Palmer,Prior_Arrests,How many prior arrests does Katherine Palmer have?,1
+261,Kenneth Flowers,Prior_Arrests,How many prior arrests does Kenneth Flowers have?,1
+262,Curtis Smith,Court_Outcome,What was the court outcome for Curtis Smith?,0
+263,Heather Haynes,Arraignment_Decision,What was Heather Haynes's arraignment decision?,0
+264,Rachael Robinson,Prior_Convictions,How many prior convictions does Rachael Robinson have?,1
+265,Donald Coleman DDS,Prior_Arrests,How many prior arrests does Donald Coleman DDS have?,1
+266,Earl Myers V,Prior_Arrests,How many prior arrests does Earl Myers V have?,1
+267,Ruth Black,Prior_Arrests,How many prior arrests does Ruth Black have?,1
+268,Mindy King,Arraignment_Decision,What was Mindy King's arraignment decision?,0
+269,Nicholas Russo,Prior_Convictions,How many prior convictions does Nicholas Russo have?,1
+270,Melissa Lutz,Prior_Arrests,How many prior arrests does Melissa Lutz have?,1
+271,Crystal Vaughn,Age,How old is Crystal Vaughn?,1
+272,Isabella Contreras,Offense_Severity,What is the offense severity level for Isabella Contreras?,0
+273,Ruben Carlson,Arraignment_Decision,What was Ruben Carlson's arraignment decision?,0
+274,Virginia Rodriguez,Charge_Type,What type of charge is Virginia Rodriguez facing?,0
+275,Miguel Harris,Prior_Arrests,How many prior arrests does Miguel Harris have?,1
+276,Martin Cruz,Prior_Convictions,How many prior convictions does Martin Cruz have?,1
+277,Catherine Holloway,Charge_Type,What type of charge is Catherine Holloway facing?,0
+278,Catherine Bryant,Prior_Arrests,How many prior arrests does Catherine Bryant have?,1
+279,James Moyer,Court_Outcome,What was the court outcome for James Moyer?,0
+280,Ruth Black,Court_Outcome,What was the court outcome for Ruth Black?,0
+281,Adam Tapia,Charge_Type,What type of charge is Adam Tapia facing?,0
+282,Natalie Zhang,Prior_Arrests,How many prior arrests does Natalie Zhang have?,1
+283,Jaime Roy,Court_Outcome,What was the court outcome for Jaime Roy?,0
+284,Jon Reynolds,Prior_Arrests,How many prior arrests does Jon Reynolds have?,1
+285,Adam Tapia,Prior_Convictions,How many prior convictions does Adam Tapia have?,1
+286,Kari Cooper DDS,Arraignment_Decision,What was Kari Cooper DDS's arraignment decision?,0
+287,Kristen Avila,Gender,What gender is Kristen Avila?,1
+288,Kathleen Gutierrez,Arraignment_Decision,What was Kathleen Gutierrez's arraignment decision?,0
+289,Joshua Crawford,Arraignment_Decision,What was Joshua Crawford's arraignment decision?,0
+290,Joshua Crawford,Court_Outcome,What was the court outcome for Joshua Crawford?,0
+291,Bonnie Henderson,Court_Outcome,What was the court outcome for Bonnie Henderson?,0
+292,Briana Huang,Court_Outcome,What was the court outcome for Briana Huang?,0
+293,Carlos Wood,Court_Outcome,What was the court outcome for Carlos Wood?,0
+294,Miguel Harris,Charge_Type,What type of charge is Miguel Harris facing?,0
+295,Danielle Shelton,Gender,What gender is Danielle Shelton?,1
+296,Colin Montoya,Offense_Severity,What is the offense severity level for Colin Montoya?,0
+297,Miguel Harris,Offense_Severity,What is the offense severity level for Miguel Harris?,0
+298,Jaime Roy,Prior_Convictions,How many prior convictions does Jaime Roy have?,1
+299,Dawn Cordova,Offense_Severity,What is the offense severity level for Dawn Cordova?,0
+300,April Flynn,Gender,What gender is April Flynn?,1
+301,Dakota Harrison,Prior_Convictions,How many prior convictions does Dakota Harrison have?,1
+302,Danny Trujillo,Gender,What gender is Danny Trujillo?,1
+303,Mr. Kenneth Dean Jr.,Prior_Arrests,How many prior arrests does Mr. Kenneth Dean Jr. have?,1
+304,Karen James MD,Gender,What gender is Karen James MD?,1
+305,Isabella Ryan,Prior_Arrests,How many prior arrests does Isabella Ryan have?,1
+306,Virginia Howard,Charge_Type,What type of charge is Virginia Howard facing?,0
+307,Abigail Carpenter,Gender,What gender is Abigail Carpenter?,1
+308,Colin Montoya,Prior_Arrests,How many prior arrests does Colin Montoya have?,1
+309,Katherine Palmer,Gender,What gender is Katherine Palmer?,1
+310,James Moyer,Offense_Severity,What is the offense severity level for James Moyer?,0
+311,Christopher Garner,Charge_Type,What type of charge is Christopher Garner facing?,0
+312,Joseph Sweeney,Prior_Arrests,How many prior arrests does Joseph Sweeney have?,1
+313,Kathleen Tran,Prior_Arrests,How many prior arrests does Kathleen Tran have?,1
+314,Crystal Vaughn,Gender,What gender is Crystal Vaughn?,1
+315,Patrick Zimmerman,Gender,What gender is Patrick Zimmerman?,1
+316,Brandon Morrow,Prior_Convictions,How many prior convictions does Brandon Morrow have?,1
+317,Patricia Rice,Gender,What gender is Patricia Rice?,1
+318,Autumn Phillips,Age,How old is Autumn Phillips?,1
+319,Julie Velez,Prior_Arrests,How many prior arrests does Julie Velez have?,1
+320,Karen James MD,Court_Outcome,What was the court outcome for Karen James MD?,0
+321,Julie Velez,Prior_Convictions,How many prior convictions does Julie Velez have?,1
+322,Mallory Kirby,Offense_Severity,What is the offense severity level for Mallory Kirby?,0
+323,Johnny Stewart,Age,How old is Johnny Stewart?,1
+324,Mr. Kenneth Dean Jr.,Age,How old is Mr. Kenneth Dean Jr.?,1
+325,Derek Vazquez,Arraignment_Decision,What was Derek Vazquez's arraignment decision?,0
+326,Elizabeth Nelson MD,Prior_Arrests,How many prior arrests does Elizabeth Nelson MD have?,1
+327,Joshua Crawford,Offense_Severity,What is the offense severity level for Joshua Crawford?,0
+328,Julie Hartman,Prior_Convictions,How many prior convictions does Julie Hartman have?,1
+329,Elizabeth Nelson MD,Age,How old is Elizabeth Nelson MD?,1
+330,Kenneth Flowers,Arraignment_Decision,What was Kenneth Flowers's arraignment decision?,0
+331,Roger Hicks,Arraignment_Decision,What was Roger Hicks's arraignment decision?,0
+332,Bonnie Henderson,Charge_Type,What type of charge is Bonnie Henderson facing?,0
+333,Barbara Allen,Offense_Severity,What is the offense severity level for Barbara Allen?,0
+334,Miss Amy Adams PhD,Age,How old is Miss Amy Adams PhD?,1
+335,Harold Flowers,Charge_Type,What type of charge is Harold Flowers facing?,0
+336,Christopher Ross,Court_Outcome,What was the court outcome for Christopher Ross?,0
+337,Kimberly Miller PhD,Court_Outcome,What was the court outcome for Kimberly Miller PhD?,0
+338,Dawn Cordova,Charge_Type,What type of charge is Dawn Cordova facing?,0
+339,Chelsey Henderson,Age,How old is Chelsey Henderson?,1
+340,Kirk Rosario Jr.,Charge_Type,What type of charge is Kirk Rosario Jr. facing?,0
+341,Stephanie Soto,Offense_Severity,What is the offense severity level for Stephanie Soto?,0
+342,Brian Cochran,Prior_Convictions,How many prior convictions does Brian Cochran have?,1
+343,Dakota Harrison,Offense_Severity,What is the offense severity level for Dakota Harrison?,0
+344,Jon Reynolds,Prior_Convictions,How many prior convictions does Jon Reynolds have?,1
+345,April Flynn,Charge_Type,What type of charge is April Flynn facing?,0
+346,Neil Wong,Arraignment_Decision,What was Neil Wong's arraignment decision?,0
+347,Rachel Howard MD,Prior_Convictions,How many prior convictions does Rachel Howard MD have?,1
+348,Alyssa Clark,Age,How old is Alyssa Clark?,1
+349,Christopher Ross,Charge_Type,What type of charge is Christopher Ross facing?,0
+350,Amy Hebert,Gender,What gender is Amy Hebert?,1
+351,Virginia Howard,Prior_Arrests,How many prior arrests does Virginia Howard have?,1
+352,Kenneth Flowers,Offense_Severity,What is the offense severity level for Kenneth Flowers?,0
+353,Mariah Atkinson,Arraignment_Decision,What was Mariah Atkinson's arraignment decision?,0
+354,Holly Pacheco,Gender,What gender is Holly Pacheco?,1
+355,Thomas Stein,Prior_Arrests,How many prior arrests does Thomas Stein have?,1
+356,Amanda Ware,Age,How old is Amanda Ware?,1
+357,Christopher Garner,Court_Outcome,What was the court outcome for Christopher Garner?,0
+358,Harold Flowers,Prior_Arrests,How many prior arrests does Harold Flowers have?,1
+359,Christopher Garner,Prior_Arrests,How many prior arrests does Christopher Garner have?,1
+360,Jerry Anthony,Arraignment_Decision,What was Jerry Anthony's arraignment decision?,0
+361,Jennifer Davila,Prior_Convictions,How many prior convictions does Jennifer Davila have?,1
+362,Catherine Bryant,Gender,What gender is Catherine Bryant?,1
+363,Amanda Ware,Prior_Arrests,How many prior arrests does Amanda Ware have?,1
+364,Stephanie Soto,Court_Outcome,What was the court outcome for Stephanie Soto?,0
+365,Rachel Howard MD,Offense_Severity,What is the offense severity level for Rachel Howard MD?,0
+366,Theresa King MD,Age,How old is Theresa King MD?,1
+367,Kimberly Miller PhD,Arraignment_Decision,What was Kimberly Miller PhD's arraignment decision?,0
+368,Kathleen Gutierrez,Prior_Arrests,How many prior arrests does Kathleen Gutierrez have?,1
+369,Katie Rich,Arraignment_Decision,What was Katie Rich's arraignment decision?,0
+370,John Woods,Gender,What gender is John Woods?,1
+371,Theresa King MD,Gender,What gender is Theresa King MD?,1
+372,Richard Welch,Prior_Arrests,How many prior arrests does Richard Welch have?,1
+373,Barry Dawson,Gender,What gender is Barry Dawson?,1
+374,Abigail Carpenter,Offense_Severity,What is the offense severity level for Abigail Carpenter?,0
+375,Johnny Stewart,Prior_Convictions,How many prior convictions does Johnny Stewart have?,1
+376,Joann Mitchell,Offense_Severity,What is the offense severity level for Joann Mitchell?,0
+377,Martin Cruz,Age,How old is Martin Cruz?,1
+378,Miss Amy Adams PhD,Charge_Type,What type of charge is Miss Amy Adams PhD facing?,0
+379,Heather Saunders,Arraignment_Decision,What was Heather Saunders's arraignment decision?,0
+380,Ian Munoz,Prior_Arrests,How many prior arrests does Ian Munoz have?,1
+381,Chelsey Henderson,Arraignment_Decision,What was Chelsey Henderson's arraignment decision?,0
+382,Dennis Norton,Court_Outcome,What was the court outcome for Dennis Norton?,0
+383,Daniel Wells,Charge_Type,What type of charge is Daniel Wells facing?,0
+384,Daniel Strickland,Offense_Severity,What is the offense severity level for Daniel Strickland?,0
+385,Jerry Anthony,Gender,What gender is Jerry Anthony?,1
+386,Isabella Ryan,Prior_Convictions,How many prior convictions does Isabella Ryan have?,1
+387,James Moyer,Age,How old is James Moyer?,1
+388,Louis Welch,Prior_Convictions,How many prior convictions does Louis Welch have?,1
+389,Kari Cooper DDS,Gender,What gender is Kari Cooper DDS?,1
+390,Scott Gross,Prior_Convictions,How many prior convictions does Scott Gross have?,1
+391,Tracy Moore,Arraignment_Decision,What was Tracy Moore's arraignment decision?,0
+392,Erica Lambert,Age,How old is Erica Lambert?,1
+393,Rachel Howard MD,Arraignment_Decision,What was Rachel Howard MD's arraignment decision?,0
+394,Derek Vazquez,Offense_Severity,What is the offense severity level for Derek Vazquez?,0
+395,Laura Cantrell,Arraignment_Decision,What was Laura Cantrell's arraignment decision?,0
+396,Jennifer Davila,Arraignment_Decision,What was Jennifer Davila's arraignment decision?,0
+397,Kenneth Flowers,Gender,What gender is Kenneth Flowers?,1
+398,Joann Mitchell,Gender,What gender is Joann Mitchell?,1
+399,Isabella Contreras,Age,How old is Isabella Contreras?,1
+400,Colin Montoya,Gender,What gender is Colin Montoya?,1
+401,Laura Cantrell,Prior_Convictions,How many prior convictions does Laura Cantrell have?,1
+402,Isabella Ryan,Gender,What gender is Isabella Ryan?,1
+403,Neil Wong,Charge_Type,What type of charge is Neil Wong facing?,0
+404,Collin White,Age,How old is Collin White?,1
+405,Crystal Vaughn,Arraignment_Decision,What was Crystal Vaughn's arraignment decision?,0
+406,Steven Hampton,Court_Outcome,What was the court outcome for Steven Hampton?,0
+407,Crystal Vaughn,Court_Outcome,What was the court outcome for Crystal Vaughn?,0
+408,Christopher Garner,Arraignment_Decision,What was Christopher Garner's arraignment decision?,0
+409,Melissa Lutz,Arraignment_Decision,What was Melissa Lutz's arraignment decision?,0
+410,Kirk Rosario Jr.,Gender,What gender is Kirk Rosario Jr.?,1
+411,Daniel Brewer,Age,How old is Daniel Brewer?,1
+412,Erica Lambert,Offense_Severity,What is the offense severity level for Erica Lambert?,0
+413,Theresa King MD,Prior_Arrests,How many prior arrests does Theresa King MD have?,1
+414,Jorge David,Gender,What gender is Jorge David?,1
+415,Catherine Holloway,Age,How old is Catherine Holloway?,1
+416,Jon Reynolds,Gender,What gender is Jon Reynolds?,1
+417,Roger Hicks,Charge_Type,What type of charge is Roger Hicks facing?,0
+418,Brenda Odom,Offense_Severity,What is the offense severity level for Brenda Odom?,0
+419,Donald Coleman DDS,Gender,What gender is Donald Coleman DDS?,1
+420,Mallory Kirby,Prior_Arrests,How many prior arrests does Mallory Kirby have?,1
+421,Charles Gonzalez,Court_Outcome,What was the court outcome for Charles Gonzalez?,0
+422,Jessica Archer,Prior_Arrests,How many prior arrests does Jessica Archer have?,1
+423,Sandra Johnston,Arraignment_Decision,What was Sandra Johnston's arraignment decision?,0
+424,Roger Hicks,Court_Outcome,What was the court outcome for Roger Hicks?,0
+425,Natalie Zhang,Age,How old is Natalie Zhang?,1
+426,Brian Cochran,Gender,What gender is Brian Cochran?,1
+427,Holly Pacheco,Prior_Arrests,How many prior arrests does Holly Pacheco have?,1
+428,Brittany Harris,Charge_Type,What type of charge is Brittany Harris facing?,0
+429,Brenda Odom,Arraignment_Decision,What was Brenda Odom's arraignment decision?,0
+430,Kristen Avila,Court_Outcome,What was the court outcome for Kristen Avila?,0
+431,Catherine Holloway,Court_Outcome,What was the court outcome for Catherine Holloway?,0
+432,Brittany Harris,Offense_Severity,What is the offense severity level for Brittany Harris?,0
+433,Brandon Morrow,Age,How old is Brandon Morrow?,1
+434,Christopher Roman,Prior_Convictions,How many prior convictions does Christopher Roman have?,1
+435,Virginia Rodriguez,Arraignment_Decision,What was Virginia Rodriguez's arraignment decision?,0
+436,Joshua Crawford,Prior_Arrests,How many prior arrests does Joshua Crawford have?,1
+437,Patricia Rice,Arraignment_Decision,What was Patricia Rice's arraignment decision?,0
+438,Jorge David,Offense_Severity,What is the offense severity level for Jorge David?,0
+439,James Moyer,Gender,What gender is James Moyer?,1
+440,Johnny Stewart,Prior_Arrests,How many prior arrests does Johnny Stewart have?,1
+441,Theresa King MD,Offense_Severity,What is the offense severity level for Theresa King MD?,0
+442,Mr. Michael Silva,Offense_Severity,What is the offense severity level for Mr. Michael Silva?,0
+443,Miss Laura Davis,Prior_Convictions,How many prior convictions does Miss Laura Davis have?,1
+444,Miss Laura Davis,Court_Outcome,What was the court outcome for Miss Laura Davis?,0
+445,Bonnie Henderson,Prior_Arrests,How many prior arrests does Bonnie Henderson have?,1
+446,Randy Garza,Offense_Severity,What is the offense severity level for Randy Garza?,0
+447,Derek Vazquez,Gender,What gender is Derek Vazquez?,1
+448,Sandra Cortez,Offense_Severity,What is the offense severity level for Sandra Cortez?,0
+449,Amanda Ware,Prior_Convictions,How many prior convictions does Amanda Ware have?,1
+450,Dr. Kristy Bullock,Court_Outcome,What was the court outcome for Dr. Kristy Bullock?,0
+451,Kathleen Gutierrez,Charge_Type,What type of charge is Kathleen Gutierrez facing?,0
+452,Alexandria Cook,Prior_Arrests,How many prior arrests does Alexandria Cook have?,1
+453,Karen James MD,Prior_Convictions,How many prior convictions does Karen James MD have?,1
+454,Brittany Harris,Age,How old is Brittany Harris?,1
+455,Roger Hicks,Offense_Severity,What is the offense severity level for Roger Hicks?,0
+456,Richard Welch,Arraignment_Decision,What was Richard Welch's arraignment decision?,0
+457,Miss Laura Davis,Charge_Type,What type of charge is Miss Laura Davis facing?,0
+458,Valerie Hall,Arraignment_Decision,What was Valerie Hall's arraignment decision?,0
+459,Megan Heath,Arraignment_Decision,What was Megan Heath's arraignment decision?,0
+460,Curtis Smith,Offense_Severity,What is the offense severity level for Curtis Smith?,0
+461,Mallory Kirby,Arraignment_Decision,What was Mallory Kirby's arraignment decision?,0
+462,Christopher Roman,Court_Outcome,What was the court outcome for Christopher Roman?,0
+463,Heather Saunders,Age,How old is Heather Saunders?,1
+464,Kristen Avila,Prior_Arrests,How many prior arrests does Kristen Avila have?,1
+465,Barbara Allen,Prior_Arrests,How many prior arrests does Barbara Allen have?,1
+466,Valerie Hall,Age,How old is Valerie Hall?,1
+467,Danny Trujillo,Court_Outcome,What was the court outcome for Danny Trujillo?,0
+468,April Flynn,Offense_Severity,What is the offense severity level for April Flynn?,0
+469,Miguel Harris,Court_Outcome,What was the court outcome for Miguel Harris?,0
+470,Ian Munoz,Age,How old is Ian Munoz?,1
+471,Adam Tapia,Offense_Severity,What is the offense severity level for Adam Tapia?,0
+472,Martha Miller,Arraignment_Decision,What was Martha Miller's arraignment decision?,0
+473,Jon Reynolds,Offense_Severity,What is the offense severity level for Jon Reynolds?,0
+474,Danny Trujillo,Age,How old is Danny Trujillo?,1
+475,Kristina Hardy,Age,How old is Kristina Hardy?,1
+476,John Woods,Offense_Severity,What is the offense severity level for John Woods?,0
+477,Alexandria Cook,Age,How old is Alexandria Cook?,1
+478,Dana Rollins,Charge_Type,What type of charge is Dana Rollins facing?,0
+479,Abigail Carpenter,Charge_Type,What type of charge is Abigail Carpenter facing?,0
+480,Mindy King,Prior_Convictions,How many prior convictions does Mindy King have?,1
+481,Ruben Carlson,Gender,What gender is Ruben Carlson?,1
+482,Brandon Morrow,Charge_Type,What type of charge is Brandon Morrow facing?,0
+483,Barbara Allen,Charge_Type,What type of charge is Barbara Allen facing?,0
+484,Eric Hopkins,Offense_Severity,What is the offense severity level for Eric Hopkins?,0
+485,Erica Lambert,Prior_Convictions,How many prior convictions does Erica Lambert have?,1
+486,Ruth Hicks MD,Charge_Type,What type of charge is Ruth Hicks MD facing?,0
+487,Ruth Black,Age,How old is Ruth Black?,1
+488,Theresa King MD,Court_Outcome,What was the court outcome for Theresa King MD?,0
+489,Daniel Strickland,Prior_Arrests,How many prior arrests does Daniel Strickland have?,1
+490,Kristen Avila,Prior_Convictions,How many prior convictions does Kristen Avila have?,1
+491,Laura Cantrell,Offense_Severity,What is the offense severity level for Laura Cantrell?,0
+492,April Duncan,Arraignment_Decision,What was April Duncan's arraignment decision?,0
+493,Nicholas Russo,Offense_Severity,What is the offense severity level for Nicholas Russo?,0
+494,Joshua Crawford,Gender,What gender is Joshua Crawford?,1
+495,Scott Gross,Age,How old is Scott Gross?,1
+496,Alexandria Cook,Charge_Type,What type of charge is Alexandria Cook facing?,0
+497,Ian Munoz,Prior_Convictions,How many prior convictions does Ian Munoz have?,1
+498,Ruth Black,Prior_Convictions,How many prior convictions does Ruth Black have?,1
+499,Virginia Rodriguez,Court_Outcome,What was the court outcome for Virginia Rodriguez?,0
+500,Mr. Michael Silva,Prior_Convictions,How many prior convictions does Mr. Michael Silva have?,1
+501,Rachael Robinson,Charge_Type,What type of charge is Rachael Robinson facing?,0
+502,Miguel Harris,Arraignment_Decision,What was Miguel Harris's arraignment decision?,0
+503,Barbara Allen,Age,How old is Barbara Allen?,1
+504,Kenneth Flowers,Age,How old is Kenneth Flowers?,1
+505,Heather Saunders,Prior_Arrests,How many prior arrests does Heather Saunders have?,1
+506,Donald Coleman DDS,Age,How old is Donald Coleman DDS?,1
+507,Martha Miller,Charge_Type,What type of charge is Martha Miller facing?,0
+508,Thomas Stein,Age,How old is Thomas Stein?,1
+509,Gerald Dunn,Age,How old is Gerald Dunn?,1
+510,Ian Munoz,Arraignment_Decision,What was Ian Munoz's arraignment decision?,0
+511,Ryan Durham,Arraignment_Decision,What was Ryan Durham's arraignment decision?,0
+512,Jenny Bell,Charge_Type,What type of charge is Jenny Bell facing?,0
+513,Curtis Smith,Prior_Convictions,How many prior convictions does Curtis Smith have?,1
+514,Patrick Zimmerman,Offense_Severity,What is the offense severity level for Patrick Zimmerman?,0
+515,John Woods,Court_Outcome,What was the court outcome for John Woods?,0
+516,Danielle Shelton,Age,How old is Danielle Shelton?,1
+517,Charles Gonzalez,Offense_Severity,What is the offense severity level for Charles Gonzalez?,0
+518,Holly Pacheco,Age,How old is Holly Pacheco?,1
+519,Steven Hampton,Charge_Type,What type of charge is Steven Hampton facing?,0
+520,Heather Haynes,Charge_Type,What type of charge is Heather Haynes facing?,0
+521,John Woods,Age,How old is John Woods?,1
+522,Rachel Howard MD,Age,How old is Rachel Howard MD?,1
+523,Stephanie Soto,Charge_Type,What type of charge is Stephanie Soto facing?,0
+524,Julie Hartman,Gender,What gender is Julie Hartman?,1
+525,Erica Lambert,Gender,What gender is Erica Lambert?,1
+526,Mrs. Lisa Lowe,Charge_Type,What type of charge is Mrs. Lisa Lowe facing?,0
+527,Holly Pacheco,Offense_Severity,What is the offense severity level for Holly Pacheco?,0
+528,Isabella Ryan,Court_Outcome,What was the court outcome for Isabella Ryan?,0
+529,Charles Gonzalez,Prior_Arrests,How many prior arrests does Charles Gonzalez have?,1
+530,Donald Coleman DDS,Court_Outcome,What was the court outcome for Donald Coleman DDS?,0
+531,Louis Welch,Prior_Arrests,How many prior arrests does Louis Welch have?,1
+532,Virginia Rodriguez,Offense_Severity,What is the offense severity level for Virginia Rodriguez?,0
+533,Scott Gross,Court_Outcome,What was the court outcome for Scott Gross?,0
+534,Brittany Harris,Prior_Arrests,How many prior arrests does Brittany Harris have?,1
+535,Theresa King MD,Charge_Type,What type of charge is Theresa King MD facing?,0
+536,Isabella Ryan,Charge_Type,What type of charge is Isabella Ryan facing?,0
+537,Abigail Carpenter,Age,How old is Abigail Carpenter?,1
+538,Carlos Wood,Age,How old is Carlos Wood?,1
+539,Ruth Hicks MD,Gender,What gender is Ruth Hicks MD?,1
+540,Mr. John Hardy,Prior_Arrests,How many prior arrests does Mr. John Hardy have?,1
+541,Barry Dawson,Charge_Type,What type of charge is Barry Dawson facing?,0
+542,Roger Hicks,Prior_Convictions,How many prior convictions does Roger Hicks have?,1
+543,Catherine Holloway,Arraignment_Decision,What was Catherine Holloway's arraignment decision?,0
+544,April Duncan,Offense_Severity,What is the offense severity level for April Duncan?,0
+545,Autumn Phillips,Offense_Severity,What is the offense severity level for Autumn Phillips?,0
+546,Brian Cochran,Offense_Severity,What is the offense severity level for Brian Cochran?,0
+547,Ruben Carlson,Age,How old is Ruben Carlson?,1
+548,Sandra Cortez,Prior_Convictions,How many prior convictions does Sandra Cortez have?,1
+549,Mindy King,Prior_Arrests,How many prior arrests does Mindy King have?,1
+550,Laura Cantrell,Gender,What gender is Laura Cantrell?,1
+551,Kathleen Tran,Gender,What gender is Kathleen Tran?,1
+552,Melissa Lutz,Charge_Type,What type of charge is Melissa Lutz facing?,0
+553,Earl Myers V,Charge_Type,What type of charge is Earl Myers V facing?,0
+554,Jessica Archer,Gender,What gender is Jessica Archer?,1
+555,Steven Hampton,Prior_Convictions,How many prior convictions does Steven Hampton have?,1
+556,Ian Munoz,Court_Outcome,What was the court outcome for Ian Munoz?,0
+557,Brittany Harris,Arraignment_Decision,What was Brittany Harris's arraignment decision?,0
+558,Isabella Ryan,Arraignment_Decision,What was Isabella Ryan's arraignment decision?,0
+559,Mr. Michael Silva,Arraignment_Decision,What was Mr. Michael Silva's arraignment decision?,0
+560,Martha Miller,Offense_Severity,What is the offense severity level for Martha Miller?,0
+561,Brenda Odom,Prior_Arrests,How many prior arrests does Brenda Odom have?,1
+562,Jorge David,Charge_Type,What type of charge is Jorge David facing?,0
+563,Kirk Rosario Jr.,Offense_Severity,What is the offense severity level for Kirk Rosario Jr.?,0
+564,Thomas Stein,Gender,What gender is Thomas Stein?,1
+565,Crystal Vaughn,Charge_Type,What type of charge is Crystal Vaughn facing?,0
+566,Heather Haynes,Offense_Severity,What is the offense severity level for Heather Haynes?,0
+567,Mrs. Lisa Lowe,Court_Outcome,What was the court outcome for Mrs. Lisa Lowe?,0
+568,April Duncan,Age,How old is April Duncan?,1
+569,Steven Hampton,Arraignment_Decision,What was Steven Hampton's arraignment decision?,0
+570,Dakota Harrison,Charge_Type,What type of charge is Dakota Harrison facing?,0
+571,Roger Hicks,Prior_Arrests,How many prior arrests does Roger Hicks have?,1
+572,Karen James MD,Offense_Severity,What is the offense severity level for Karen James MD?,0
+573,Ryan Durham,Prior_Arrests,How many prior arrests does Ryan Durham have?,1
+574,Kenneth Flowers,Prior_Convictions,How many prior convictions does Kenneth Flowers have?,1
+575,Ruth Hicks MD,Court_Outcome,What was the court outcome for Ruth Hicks MD?,0
+576,Dawn Cordova,Gender,What gender is Dawn Cordova?,1
+577,Patrick Zimmerman,Charge_Type,What type of charge is Patrick Zimmerman facing?,0
+578,Megan Heath,Age,How old is Megan Heath?,1
+579,Dana Rollins,Prior_Convictions,How many prior convictions does Dana Rollins have?,1
+580,Daniel Brewer,Gender,What gender is Daniel Brewer?,1
+581,Amanda Ware,Offense_Severity,What is the offense severity level for Amanda Ware?,0
+582,Katherine Palmer,Charge_Type,What type of charge is Katherine Palmer facing?,0
+583,Brandon Morrow,Arraignment_Decision,What was Brandon Morrow's arraignment decision?,0
+584,Christopher Garner,Prior_Convictions,How many prior convictions does Christopher Garner have?,1
+585,Julie Hartman,Court_Outcome,What was the court outcome for Julie Hartman?,0
+586,Brian Cochran,Charge_Type,What type of charge is Brian Cochran facing?,0
+587,Roger Hicks,Age,How old is Roger Hicks?,1
+588,Miguel Harris,Gender,What gender is Miguel Harris?,1
+589,Eric Hopkins,Gender,What gender is Eric Hopkins?,1
+590,Dakota Harrison,Gender,What gender is Dakota Harrison?,1
+591,Mr. Kenneth Dean Jr.,Gender,What gender is Mr. Kenneth Dean Jr.?,1
+592,Derek Vazquez,Court_Outcome,What was the court outcome for Derek Vazquez?,0
+593,Jenny Bell,Prior_Convictions,How many prior convictions does Jenny Bell have?,1
+594,Mariah Atkinson,Age,How old is Mariah Atkinson?,1
+595,Collin White,Arraignment_Decision,What was Collin White's arraignment decision?,0
+596,Ian Munoz,Offense_Severity,What is the offense severity level for Ian Munoz?,0
+597,Kathryn Obrien,Court_Outcome,What was the court outcome for Kathryn Obrien?,0
+598,Dr. Kristy Bullock,Charge_Type,What type of charge is Dr. Kristy Bullock facing?,0
+599,Mallory Kirby,Charge_Type,What type of charge is Mallory Kirby facing?,0
+600,Brandon Morrow,Gender,What gender is Brandon Morrow?,1
+601,Neil Wong,Gender,What gender is Neil Wong?,1
+602,Bonnie Henderson,Prior_Convictions,How many prior convictions does Bonnie Henderson have?,1
+603,John Woods,Prior_Arrests,How many prior arrests does John Woods have?,1
+604,Johnny Stewart,Arraignment_Decision,What was Johnny Stewart's arraignment decision?,0
+605,Kathleen Tran,Charge_Type,What type of charge is Kathleen Tran facing?,0
+606,Scott Gross,Prior_Arrests,How many prior arrests does Scott Gross have?,1
+607,Louis Welch,Offense_Severity,What is the offense severity level for Louis Welch?,0
+608,Gerald Dunn,Court_Outcome,What was the court outcome for Gerald Dunn?,0
+609,Elizabeth Nelson MD,Offense_Severity,What is the offense severity level for Elizabeth Nelson MD?,0
+610,Karen James MD,Arraignment_Decision,What was Karen James MD's arraignment decision?,0
+611,Mr. Kenneth Dean Jr.,Offense_Severity,What is the offense severity level for Mr. Kenneth Dean Jr.?,0
+612,Briana Huang,Charge_Type,What type of charge is Briana Huang facing?,0
+613,Jessica Archer,Offense_Severity,What is the offense severity level for Jessica Archer?,0
+614,Jaime Roy,Prior_Arrests,How many prior arrests does Jaime Roy have?,1
+615,Julie Hartman,Charge_Type,What type of charge is Julie Hartman facing?,0
+616,Kimberly Miller PhD,Age,How old is Kimberly Miller PhD?,1
+617,Tracy Moore,Gender,What gender is Tracy Moore?,1
+618,Brian Cochran,Arraignment_Decision,What was Brian Cochran's arraignment decision?,0
+619,Valerie Hall,Offense_Severity,What is the offense severity level for Valerie Hall?,0
+620,Brian Cochran,Court_Outcome,What was the court outcome for Brian Cochran?,0
+621,Scott Gross,Gender,What gender is Scott Gross?,1
+622,Brenda Odom,Charge_Type,What type of charge is Brenda Odom facing?,0
+623,Ryan Durham,Age,How old is Ryan Durham?,1
+624,Donald Coleman DDS,Charge_Type,What type of charge is Donald Coleman DDS facing?,0
+625,Joshua Crawford,Prior_Convictions,How many prior convictions does Joshua Crawford have?,1
+626,Carlos Wood,Arraignment_Decision,What was Carlos Wood's arraignment decision?,0
+627,Ruben Carlson,Offense_Severity,What is the offense severity level for Ruben Carlson?,0
+628,Richard Welch,Charge_Type,What type of charge is Richard Welch facing?,0
+629,John Woods,Charge_Type,What type of charge is John Woods facing?,0
+630,Daniel Strickland,Age,How old is Daniel Strickland?,1
+631,Heather Saunders,Offense_Severity,What is the offense severity level for Heather Saunders?,0
+632,Mariah Atkinson,Prior_Convictions,How many prior convictions does Mariah Atkinson have?,1
+633,Dr. Kristy Bullock,Age,How old is Dr. Kristy Bullock?,1
+634,Richard Welch,Age,How old is Richard Welch?,1
+635,Jaime Roy,Arraignment_Decision,What was Jaime Roy's arraignment decision?,0
+636,Thomas Stein,Charge_Type,What type of charge is Thomas Stein facing?,0
+637,Erica Lambert,Charge_Type,What type of charge is Erica Lambert facing?,0
+638,Alyssa Clark,Gender,What gender is Alyssa Clark?,1
+639,Danny Trujillo,Offense_Severity,What is the offense severity level for Danny Trujillo?,0
+640,Kathryn Obrien,Charge_Type,What type of charge is Kathryn Obrien facing?,0
+641,Joseph Sweeney,Court_Outcome,What was the court outcome for Joseph Sweeney?,0
+642,Isabella Ryan,Offense_Severity,What is the offense severity level for Isabella Ryan?,0
+643,Dana Rollins,Arraignment_Decision,What was Dana Rollins's arraignment decision?,0
+644,Patrick Zimmerman,Prior_Convictions,How many prior convictions does Patrick Zimmerman have?,1
+645,Julie Velez,Court_Outcome,What was the court outcome for Julie Velez?,0
+646,Kathryn Obrien,Offense_Severity,What is the offense severity level for Kathryn Obrien?,0
+647,Briana Huang,Age,How old is Briana Huang?,1
+648,Heather Haynes,Court_Outcome,What was the court outcome for Heather Haynes?,0
+649,Gerald Dunn,Charge_Type,What type of charge is Gerald Dunn facing?,0
+650,Mr. Kenneth Dean Jr.,Prior_Convictions,How many prior convictions does Mr. Kenneth Dean Jr. have?,1
+651,Kimberly Jordan,Prior_Arrests,How many prior arrests does Kimberly Jordan have?,1
+652,Earl Myers V,Gender,What gender is Earl Myers V?,1
+653,Sandra Johnston,Charge_Type,What type of charge is Sandra Johnston facing?,0
+654,Ruth Black,Offense_Severity,What is the offense severity level for Ruth Black?,0
+655,John Woods,Prior_Convictions,How many prior convictions does John Woods have?,1
+656,Patrick Zimmerman,Arraignment_Decision,What was Patrick Zimmerman's arraignment decision?,0
+657,Natalie Zhang,Charge_Type,What type of charge is Natalie Zhang facing?,0
+658,Kathryn Obrien,Prior_Convictions,How many prior convictions does Kathryn Obrien have?,1
+659,Randy Garza,Charge_Type,What type of charge is Randy Garza facing?,0
+660,Catherine Bryant,Arraignment_Decision,What was Catherine Bryant's arraignment decision?,0
+661,Patrick Zimmerman,Age,How old is Patrick Zimmerman?,1
+662,Megan Heath,Offense_Severity,What is the offense severity level for Megan Heath?,0
+663,Mallory Kirby,Age,How old is Mallory Kirby?,1
+664,Jessica Ramsey,Prior_Arrests,How many prior arrests does Jessica Ramsey have?,1
+665,Charles Gonzalez,Gender,What gender is Charles Gonzalez?,1
+666,Mrs. Lisa Lowe,Age,How old is Mrs. Lisa Lowe?,1
+667,Scott Gross,Charge_Type,What type of charge is Scott Gross facing?,0
+668,Earl Myers V,Age,How old is Earl Myers V?,1
+669,Dana Rollins,Age,How old is Dana Rollins?,1
+670,Catherine Holloway,Prior_Arrests,How many prior arrests does Catherine Holloway have?,1
+671,Mrs. Lisa Lowe,Offense_Severity,What is the offense severity level for Mrs. Lisa Lowe?,0
+672,Jennifer Davila,Court_Outcome,What was the court outcome for Jennifer Davila?,0
+673,Jaime Roy,Offense_Severity,What is the offense severity level for Jaime Roy?,0
+674,Martha Miller,Prior_Arrests,How many prior arrests does Martha Miller have?,1
+675,Jaime Roy,Age,How old is Jaime Roy?,1
+676,James Moyer,Prior_Convictions,How many prior convictions does James Moyer have?,1
+677,Erica Lambert,Prior_Arrests,How many prior arrests does Erica Lambert have?,1
+678,April Flynn,Age,How old is April Flynn?,1
+679,Amanda Ware,Court_Outcome,What was the court outcome for Amanda Ware?,0
+680,Benjamin Fletcher,Gender,What gender is Benjamin Fletcher?,1
+681,Daniel Strickland,Prior_Convictions,How many prior convictions does Daniel Strickland have?,1
+682,Melissa Lutz,Prior_Convictions,How many prior convictions does Melissa Lutz have?,1
+683,Mariah Atkinson,Offense_Severity,What is the offense severity level for Mariah Atkinson?,0
+684,Kathryn Obrien,Arraignment_Decision,What was Kathryn Obrien's arraignment decision?,0
+685,Alyssa Clark,Court_Outcome,What was the court outcome for Alyssa Clark?,0
+686,Kristina Hardy,Court_Outcome,What was the court outcome for Kristina Hardy?,0
+687,Eric Hopkins,Prior_Convictions,How many prior convictions does Eric Hopkins have?,1
+688,Jorge David,Court_Outcome,What was the court outcome for Jorge David?,0
+689,Natalie Zhang,Arraignment_Decision,What was Natalie Zhang's arraignment decision?,0
+690,Benjamin Fletcher,Prior_Convictions,How many prior convictions does Benjamin Fletcher have?,1
+691,Abigail Carpenter,Court_Outcome,What was the court outcome for Abigail Carpenter?,0
+692,Rachel Howard MD,Gender,What gender is Rachel Howard MD?,1
+693,Jenny Bell,Offense_Severity,What is the offense severity level for Jenny Bell?,0
+694,Ruth Black,Gender,What gender is Ruth Black?,1
+695,Dawn Cordova,Court_Outcome,What was the court outcome for Dawn Cordova?,0
+696,Elizabeth Nelson MD,Prior_Convictions,How many prior convictions does Elizabeth Nelson MD have?,1
+697,Louis Welch,Charge_Type,What type of charge is Louis Welch facing?,0
+698,Megan Heath,Prior_Convictions,How many prior convictions does Megan Heath have?,1
+699,Barbara Allen,Gender,What gender is Barbara Allen?,1
+700,Mrs. Lisa Lowe,Gender,What gender is Mrs. Lisa Lowe?,1
+701,Roger Hicks,Gender,What gender is Roger Hicks?,1
+702,Melissa Lutz,Gender,What gender is Melissa Lutz?,1
+703,Amy Hebert,Offense_Severity,What is the offense severity level for Amy Hebert?,0
+704,Julie Velez,Charge_Type,What type of charge is Julie Velez facing?,0
+705,Jerry Anthony,Offense_Severity,What is the offense severity level for Jerry Anthony?,0
+706,Dean Williams,Court_Outcome,What was the court outcome for Dean Williams?,0
+707,Collin White,Gender,What gender is Collin White?,1
+708,Miss Laura Davis,Offense_Severity,What is the offense severity level for Miss Laura Davis?,0
+709,Neil Wong,Age,How old is Neil Wong?,1
+710,Charles Gonzalez,Prior_Convictions,How many prior convictions does Charles Gonzalez have?,1
+711,Kirk Rosario Jr.,Prior_Arrests,How many prior arrests does Kirk Rosario Jr. have?,1
+712,Martha Miller,Court_Outcome,What was the court outcome for Martha Miller?,0
+713,Kimberly Miller PhD,Offense_Severity,What is the offense severity level for Kimberly Miller PhD?,0
+714,Catherine Bryant,Age,How old is Catherine Bryant?,1
+715,Natalie Zhang,Offense_Severity,What is the offense severity level for Natalie Zhang?,0
+716,Donald Coleman DDS,Prior_Convictions,How many prior convictions does Donald Coleman DDS have?,1
+717,Adam Tapia,Arraignment_Decision,What was Adam Tapia's arraignment decision?,0
+718,Ryan Durham,Offense_Severity,What is the offense severity level for Ryan Durham?,0
+719,Julie Hartman,Prior_Arrests,How many prior arrests does Julie Hartman have?,1
+720,Louis Welch,Court_Outcome,What was the court outcome for Louis Welch?,0
+721,Stephanie Soto,Gender,What gender is Stephanie Soto?,1
+722,Briana Huang,Gender,What gender is Briana Huang?,1
+723,Brenda Odom,Prior_Convictions,How many prior convictions does Brenda Odom have?,1
+724,Dennis Norton,Gender,What gender is Dennis Norton?,1
+725,Laura Cantrell,Charge_Type,What type of charge is Laura Cantrell facing?,0
+726,Martha Miller,Gender,What gender is Martha Miller?,1
+727,Harold Flowers,Prior_Convictions,How many prior convictions does Harold Flowers have?,1
+728,Earl Myers V,Offense_Severity,What is the offense severity level for Earl Myers V?,0
+729,Mr. John Hardy,Arraignment_Decision,What was Mr. John Hardy's arraignment decision?,0
+730,Kari Cooper DDS,Charge_Type,What type of charge is Kari Cooper DDS facing?,0
+731,Harold Flowers,Offense_Severity,What is the offense severity level for Harold Flowers?,0
+732,Abigail Carpenter,Prior_Arrests,How many prior arrests does Abigail Carpenter have?,1
+733,Isabella Contreras,Arraignment_Decision,What was Isabella Contreras's arraignment decision?,0
+734,Sandra Cortez,Gender,What gender is Sandra Cortez?,1
+735,Chelsey Henderson,Charge_Type,What type of charge is Chelsey Henderson facing?,0
+736,Abigail Carpenter,Arraignment_Decision,What was Abigail Carpenter's arraignment decision?,0
+737,Patrick Zimmerman,Court_Outcome,What was the court outcome for Patrick Zimmerman?,0
+738,Richard Welch,Court_Outcome,What was the court outcome for Richard Welch?,0
+739,Erica Lambert,Court_Outcome,What was the court outcome for Erica Lambert?,0
+740,Daniel Brewer,Arraignment_Decision,What was Daniel Brewer's arraignment decision?,0
+741,Nicholas Russo,Court_Outcome,What was the court outcome for Nicholas Russo?,0
+742,Stephanie Soto,Prior_Arrests,How many prior arrests does Stephanie Soto have?,1
+743,Rachael Robinson,Court_Outcome,What was the court outcome for Rachael Robinson?,0
+744,Jerry Anthony,Court_Outcome,What was the court outcome for Jerry Anthony?,0
+745,Jessica Archer,Charge_Type,What type of charge is Jessica Archer facing?,0
+746,Danielle Shelton,Charge_Type,What type of charge is Danielle Shelton facing?,0
+747,Katie Rich,Age,How old is Katie Rich?,1
+748,Kirk Rosario Jr.,Court_Outcome,What was the court outcome for Kirk Rosario Jr.?,0
+749,Alyssa Clark,Offense_Severity,What is the offense severity level for Alyssa Clark?,0
+750,Mrs. Lisa Lowe,Prior_Arrests,How many prior arrests does Mrs. Lisa Lowe have?,1
+751,Johnny Stewart,Gender,What gender is Johnny Stewart?,1
+752,Barbara Allen,Prior_Convictions,How many prior convictions does Barbara Allen have?,1
+753,Sandra Cortez,Charge_Type,What type of charge is Sandra Cortez facing?,0
+754,Rachael Robinson,Age,How old is Rachael Robinson?,1
+755,Benjamin Fletcher,Charge_Type,What type of charge is Benjamin Fletcher facing?,0
+756,Rachael Robinson,Gender,What gender is Rachael Robinson?,1
+757,Rachel Howard MD,Charge_Type,What type of charge is Rachel Howard MD facing?,0
+758,Gerald Dunn,Offense_Severity,What is the offense severity level for Gerald Dunn?,0
+759,Harold Flowers,Arraignment_Decision,What was Harold Flowers's arraignment decision?,0
+760,Kristen Avila,Age,How old is Kristen Avila?,1
+761,Steven Hampton,Prior_Arrests,How many prior arrests does Steven Hampton have?,1
+762,Kristen Avila,Offense_Severity,What is the offense severity level for Kristen Avila?,0
+763,Dr. Kristy Bullock,Prior_Arrests,How many prior arrests does Dr. Kristy Bullock have?,1
+764,Virginia Howard,Prior_Convictions,How many prior convictions does Virginia Howard have?,1
+765,Kari Cooper DDS,Offense_Severity,What is the offense severity level for Kari Cooper DDS?,0
+766,Eric Hopkins,Prior_Arrests,How many prior arrests does Eric Hopkins have?,1
+767,Ruth Black,Charge_Type,What type of charge is Ruth Black facing?,0
+768,Jessica Ramsey,Offense_Severity,What is the offense severity level for Jessica Ramsey?,0
+769,Sandra Cortez,Court_Outcome,What was the court outcome for Sandra Cortez?,0
+770,Patricia Rice,Offense_Severity,What is the offense severity level for Patricia Rice?,0
+771,Collin White,Offense_Severity,What is the offense severity level for Collin White?,0
+772,Daniel Brewer,Prior_Convictions,How many prior convictions does Daniel Brewer have?,1
+773,Nicholas Russo,Prior_Arrests,How many prior arrests does Nicholas Russo have?,1
+774,Holly Pacheco,Prior_Convictions,How many prior convictions does Holly Pacheco have?,1
+775,Dr. Kristy Bullock,Gender,What gender is Dr. Kristy Bullock?,1
+776,Joann Mitchell,Prior_Convictions,How many prior convictions does Joann Mitchell have?,1
+777,Autumn Phillips,Charge_Type,What type of charge is Autumn Phillips facing?,0
+778,Bonnie Henderson,Arraignment_Decision,What was Bonnie Henderson's arraignment decision?,0
+779,Catherine Holloway,Prior_Convictions,How many prior convictions does Catherine Holloway have?,1
+780,Amy Hebert,Age,How old is Amy Hebert?,1
+781,Jerry Anthony,Prior_Convictions,How many prior convictions does Jerry Anthony have?,1
+782,Heather Saunders,Charge_Type,What type of charge is Heather Saunders facing?,0
+783,Johnny Stewart,Charge_Type,What type of charge is Johnny Stewart facing?,0
+784,Julie Hartman,Offense_Severity,What is the offense severity level for Julie Hartman?,0
+785,Jessica Archer,Court_Outcome,What was the court outcome for Jessica Archer?,0
+786,Tracy Moore,Offense_Severity,What is the offense severity level for Tracy Moore?,0
+787,Daniel Strickland,Charge_Type,What type of charge is Daniel Strickland facing?,0
+788,Martha Miller,Prior_Convictions,How many prior convictions does Martha Miller have?,1
+789,Dana Rollins,Court_Outcome,What was the court outcome for Dana Rollins?,0
+790,Virginia Howard,Offense_Severity,What is the offense severity level for Virginia Howard?,0
+791,Ian Munoz,Charge_Type,What type of charge is Ian Munoz facing?,0
+792,Dean Williams,Gender,What gender is Dean Williams?,1
+793,Kimberly Jordan,Court_Outcome,What was the court outcome for Kimberly Jordan?,0
+794,Dr. Kristy Bullock,Offense_Severity,What is the offense severity level for Dr. Kristy Bullock?,0
+795,Ruth Hicks MD,Offense_Severity,What is the offense severity level for Ruth Hicks MD?,0
+796,Gerald Dunn,Gender,What gender is Gerald Dunn?,1
+797,Sandra Johnston,Gender,What gender is Sandra Johnston?,1
+798,Thomas Stein,Arraignment_Decision,What was Thomas Stein's arraignment decision?,0
+799,Eric Hopkins,Arraignment_Decision,What was Eric Hopkins's arraignment decision?,0
+800,Jon Reynolds,Court_Outcome,What was the court outcome for Jon Reynolds?,0
+801,April Duncan,Court_Outcome,What was the court outcome for April Duncan?,0
+802,Jessica Archer,Prior_Convictions,How many prior convictions does Jessica Archer have?,1
+803,Steven Hampton,Offense_Severity,What is the offense severity level for Steven Hampton?,0
+804,Daniel Wells,Prior_Convictions,How many prior convictions does Daniel Wells have?,1
+805,Jorge David,Prior_Convictions,How many prior convictions does Jorge David have?,1
+806,Holly Pacheco,Court_Outcome,What was the court outcome for Holly Pacheco?,0
+807,Colin Montoya,Charge_Type,What type of charge is Colin Montoya facing?,0
+808,Autumn Phillips,Arraignment_Decision,What was Autumn Phillips's arraignment decision?,0
+809,Patricia Rice,Prior_Arrests,How many prior arrests does Patricia Rice have?,1
+810,Joseph Sweeney,Arraignment_Decision,What was Joseph Sweeney's arraignment decision?,0
+811,April Flynn,Prior_Convictions,How many prior convictions does April Flynn have?,1
+812,Nicholas Russo,Arraignment_Decision,What was Nicholas Russo's arraignment decision?,0
+813,Mallory Kirby,Court_Outcome,What was the court outcome for Mallory Kirby?,0
+814,Collin White,Prior_Convictions,How many prior convictions does Collin White have?,1
+815,Katie Rich,Charge_Type,What type of charge is Katie Rich facing?,0
+816,Danielle Shelton,Prior_Convictions,How many prior convictions does Danielle Shelton have?,1
+817,Alyssa Clark,Charge_Type,What type of charge is Alyssa Clark facing?,0
+818,Christopher Ross,Prior_Convictions,How many prior convictions does Christopher Ross have?,1
+819,Kathleen Tran,Age,How old is Kathleen Tran?,1
+820,Mindy King,Offense_Severity,What is the offense severity level for Mindy King?,0
+821,Tracy Moore,Court_Outcome,What was the court outcome for Tracy Moore?,0
+822,Autumn Phillips,Court_Outcome,What was the court outcome for Autumn Phillips?,0
+823,Jorge David,Age,How old is Jorge David?,1
+824,Catherine Bryant,Court_Outcome,What was the court outcome for Catherine Bryant?,0
+825,Mallory Kirby,Gender,What gender is Mallory Kirby?,1
+826,Charles Gonzalez,Age,How old is Charles Gonzalez?,1
+827,Karen James MD,Age,How old is Karen James MD?,1
+828,Scott Gross,Arraignment_Decision,What was Scott Gross's arraignment decision?,0
+829,Barry Dawson,Age,How old is Barry Dawson?,1
+830,Briana Huang,Arraignment_Decision,What was Briana Huang's arraignment decision?,0
+831,Mr. John Hardy,Prior_Convictions,How many prior convictions does Mr. John Hardy have?,1
+832,Ruben Carlson,Prior_Convictions,How many prior convictions does Ruben Carlson have?,1
+833,Kari Cooper DDS,Prior_Convictions,How many prior convictions does Kari Cooper DDS have?,1
+834,Abigail Carpenter,Prior_Convictions,How many prior convictions does Abigail Carpenter have?,1
+835,Chelsey Henderson,Prior_Convictions,How many prior convictions does Chelsey Henderson have?,1
+836,Ryan Durham,Charge_Type,What type of charge is Ryan Durham facing?,0
+837,Megan Heath,Court_Outcome,What was the court outcome for Megan Heath?,0
+838,Rachael Robinson,Prior_Arrests,How many prior arrests does Rachael Robinson have?,1
+839,Virginia Rodriguez,Prior_Arrests,How many prior arrests does Virginia Rodriguez have?,1
+840,Richard Welch,Prior_Convictions,How many prior convictions does Richard Welch have?,1
+841,Jenny Bell,Gender,What gender is Jenny Bell?,1
+842,Jennifer Davila,Age,How old is Jennifer Davila?,1
+843,Isabella Contreras,Charge_Type,What type of charge is Isabella Contreras facing?,0
+844,Rachael Robinson,Arraignment_Decision,What was Rachael Robinson's arraignment decision?,0
+845,Dr. Kristy Bullock,Arraignment_Decision,What was Dr. Kristy Bullock's arraignment decision?,0
+846,Miss Laura Davis,Prior_Arrests,How many prior arrests does Miss Laura Davis have?,1
+847,Jenny Bell,Arraignment_Decision,What was Jenny Bell's arraignment decision?,0
+848,Carlos Wood,Prior_Arrests,How many prior arrests does Carlos Wood have?,1
+849,Curtis Smith,Age,How old is Curtis Smith?,1
+850,Jessica Ramsey,Prior_Convictions,How many prior convictions does Jessica Ramsey have?,1
+851,Dawn Cordova,Arraignment_Decision,What was Dawn Cordova's arraignment decision?,0
+852,Katie Rich,Prior_Convictions,How many prior convictions does Katie Rich have?,1
+853,Catherine Bryant,Prior_Convictions,How many prior convictions does Catherine Bryant have?,1
+854,Barbara Allen,Arraignment_Decision,What was Barbara Allen's arraignment decision?,0
+855,Barry Dawson,Prior_Convictions,How many prior convictions does Barry Dawson have?,1
+856,Heather Haynes,Prior_Arrests,How many prior arrests does Heather Haynes have?,1
+857,Natalie Zhang,Court_Outcome,What was the court outcome for Natalie Zhang?,0
+858,Adam Tapia,Prior_Arrests,How many prior arrests does Adam Tapia have?,1
+859,Jorge David,Prior_Arrests,How many prior arrests does Jorge David have?,1
+860,Laura Cantrell,Court_Outcome,What was the court outcome for Laura Cantrell?,0
+861,Adam Tapia,Age,How old is Adam Tapia?,1
+862,Dawn Cordova,Age,How old is Dawn Cordova?,1
+863,Ruth Hicks MD,Age,How old is Ruth Hicks MD?,1
+864,Miss Amy Adams PhD,Prior_Arrests,How many prior arrests does Miss Amy Adams PhD have?,1
+865,April Duncan,Charge_Type,What type of charge is April Duncan facing?,0
+866,Jenny Bell,Age,How old is Jenny Bell?,1
+867,Danny Trujillo,Prior_Convictions,How many prior convictions does Danny Trujillo have?,1
+868,Jorge David,Arraignment_Decision,What was Jorge David's arraignment decision?,0
+869,Mr. Michael Silva,Gender,What gender is Mr. Michael Silva?,1
+870,Harold Flowers,Court_Outcome,What was the court outcome for Harold Flowers?,0
+871,Tracy Moore,Charge_Type,What type of charge is Tracy Moore facing?,0
+872,Jon Reynolds,Arraignment_Decision,What was Jon Reynolds's arraignment decision?,0
+873,Amy Hebert,Arraignment_Decision,What was Amy Hebert's arraignment decision?,0
+874,Heather Saunders,Prior_Convictions,How many prior convictions does Heather Saunders have?,1
+875,Colin Montoya,Arraignment_Decision,What was Colin Montoya's arraignment decision?,0
+876,Bonnie Henderson,Offense_Severity,What is the offense severity level for Bonnie Henderson?,0
+877,Valerie Hall,Prior_Convictions,How many prior convictions does Valerie Hall have?,1
+878,Kristina Hardy,Gender,What gender is Kristina Hardy?,1
+879,Miss Laura Davis,Gender,What gender is Miss Laura Davis?,1
+880,Amy Hebert,Prior_Convictions,How many prior convictions does Amy Hebert have?,1
+881,Louis Welch,Age,How old is Louis Welch?,1
+882,Kirk Rosario Jr.,Age,How old is Kirk Rosario Jr.?,1
+883,Kristina Hardy,Prior_Arrests,How many prior arrests does Kristina Hardy have?,1
+884,Briana Huang,Prior_Arrests,How many prior arrests does Briana Huang have?,1
+885,Mr. John Hardy,Gender,What gender is Mr. John Hardy?,1
+886,Dean Williams,Arraignment_Decision,What was Dean Williams's arraignment decision?,0
+887,Autumn Phillips,Prior_Arrests,How many prior arrests does Autumn Phillips have?,1
+888,Tracy Moore,Age,How old is Tracy Moore?,1
+889,Kimberly Miller PhD,Prior_Arrests,How many prior arrests does Kimberly Miller PhD have?,1
+890,Virginia Rodriguez,Prior_Convictions,How many prior convictions does Virginia Rodriguez have?,1
+891,Danielle Shelton,Offense_Severity,What is the offense severity level for Danielle Shelton?,0
+892,Miguel Harris,Prior_Convictions,How many prior convictions does Miguel Harris have?,1
+893,Kimberly Jordan,Charge_Type,What type of charge is Kimberly Jordan facing?,0
+894,Louis Welch,Gender,What gender is Louis Welch?,1
+895,Joann Mitchell,Age,How old is Joann Mitchell?,1
+896,Kristina Hardy,Offense_Severity,What is the offense severity level for Kristina Hardy?,0
+897,Amy Hebert,Prior_Arrests,How many prior arrests does Amy Hebert have?,1
+898,Colin Montoya,Age,How old is Colin Montoya?,1
+899,Laura Cantrell,Prior_Arrests,How many prior arrests does Laura Cantrell have?,1
+900,James Moyer,Charge_Type,What type of charge is James Moyer facing?,0
+901,Katie Rich,Court_Outcome,What was the court outcome for Katie Rich?,0
+902,Heather Haynes,Age,How old is Heather Haynes?,1
+903,Joseph Sweeney,Offense_Severity,What is the offense severity level for Joseph Sweeney?,0
+904,Sandra Johnston,Prior_Convictions,How many prior convictions does Sandra Johnston have?,1
+905,Donald Coleman DDS,Offense_Severity,What is the offense severity level for Donald Coleman DDS?,0
+906,Donald Coleman DDS,Arraignment_Decision,What was Donald Coleman DDS's arraignment decision?,0
+907,Christopher Roman,Prior_Arrests,How many prior arrests does Christopher Roman have?,1
+908,Julie Hartman,Arraignment_Decision,What was Julie Hartman's arraignment decision?,0
+909,Kathleen Gutierrez,Prior_Convictions,How many prior convictions does Kathleen Gutierrez have?,1
+910,Richard Welch,Offense_Severity,What is the offense severity level for Richard Welch?,0
+911,Mariah Atkinson,Charge_Type,What type of charge is Mariah Atkinson facing?,0
+912,Crystal Vaughn,Prior_Arrests,How many prior arrests does Crystal Vaughn have?,1
+913,Daniel Strickland,Gender,What gender is Daniel Strickland?,1
+914,Christopher Roman,Offense_Severity,What is the offense severity level for Christopher Roman?,0
+915,Julie Velez,Gender,What gender is Julie Velez?,1
+916,Ruth Hicks MD,Prior_Arrests,How many prior arrests does Ruth Hicks MD have?,1
+917,Elizabeth Nelson MD,Gender,What gender is Elizabeth Nelson MD?,1
+918,Dean Williams,Prior_Arrests,How many prior arrests does Dean Williams have?,1
+919,Holly Pacheco,Arraignment_Decision,What was Holly Pacheco's arraignment decision?,0
+920,Kristina Hardy,Prior_Convictions,How many prior convictions does Kristina Hardy have?,1
+921,Dennis Norton,Charge_Type,What type of charge is Dennis Norton facing?,0
+922,Dana Rollins,Gender,What gender is Dana Rollins?,1
+923,Chelsey Henderson,Prior_Arrests,How many prior arrests does Chelsey Henderson have?,1
+924,Dakota Harrison,Court_Outcome,What was the court outcome for Dakota Harrison?,0
+925,Johnny Stewart,Offense_Severity,What is the offense severity level for Johnny Stewart?,0
+926,Kathleen Tran,Court_Outcome,What was the court outcome for Kathleen Tran?,0
+927,Ian Munoz,Gender,What gender is Ian Munoz?,1
+928,Kristina Hardy,Arraignment_Decision,What was Kristina Hardy's arraignment decision?,0
+929,Mariah Atkinson,Court_Outcome,What was the court outcome for Mariah Atkinson?,0
+930,Martin Cruz,Prior_Arrests,How many prior arrests does Martin Cruz have?,1
+931,Ruth Hicks MD,Prior_Convictions,How many prior convictions does Ruth Hicks MD have?,1
+932,Martin Cruz,Gender,What gender is Martin Cruz?,1
+933,Amy Hebert,Charge_Type,What type of charge is Amy Hebert facing?,0
+934,Alyssa Clark,Arraignment_Decision,What was Alyssa Clark's arraignment decision?,0
+935,Earl Myers V,Prior_Convictions,How many prior convictions does Earl Myers V have?,1
+936,Kathleen Tran,Arraignment_Decision,What was Kathleen Tran's arraignment decision?,0
+937,Stephanie Soto,Prior_Convictions,How many prior convictions does Stephanie Soto have?,1
+938,Ruth Black,Arraignment_Decision,What was Ruth Black's arraignment decision?,0
+939,Kathleen Tran,Offense_Severity,What is the offense severity level for Kathleen Tran?,0
+940,Kirk Rosario Jr.,Arraignment_Decision,What was Kirk Rosario Jr.'s arraignment decision?,0
+941,Danielle Shelton,Court_Outcome,What was the court outcome for Danielle Shelton?,0
+942,Rachel Howard MD,Court_Outcome,What was the court outcome for Rachel Howard MD?,0
+943,Christopher Roman,Charge_Type,What type of charge is Christopher Roman facing?,0
+944,Jennifer Davila,Offense_Severity,What is the offense severity level for Jennifer Davila?,0
+945,Alyssa Clark,Prior_Arrests,How many prior arrests does Alyssa Clark have?,1
+946,Kimberly Jordan,Prior_Convictions,How many prior convictions does Kimberly Jordan have?,1
+947,Kristen Avila,Arraignment_Decision,What was Kristen Avila's arraignment decision?,0
+948,Dean Williams,Charge_Type,What type of charge is Dean Williams facing?,0
+949,Jennifer Davila,Gender,What gender is Jennifer Davila?,1
+950,Danielle Shelton,Arraignment_Decision,What was Danielle Shelton's arraignment decision?,0
+951,Neil Wong,Prior_Arrests,How many prior arrests does Neil Wong have?,1
+952,Christopher Roman,Gender,What gender is Christopher Roman?,1
+953,Miss Amy Adams PhD,Arraignment_Decision,What was Miss Amy Adams PhD's arraignment decision?,0
+954,Dean Williams,Prior_Convictions,How many prior convictions does Dean Williams have?,1
+955,Christopher Garner,Age,How old is Christopher Garner?,1
+956,Dakota Harrison,Arraignment_Decision,What was Dakota Harrison's arraignment decision?,0
+957,Katie Rich,Gender,What gender is Katie Rich?,1
+958,Heather Haynes,Gender,What gender is Heather Haynes?,1
+959,Johnny Stewart,Court_Outcome,What was the court outcome for Johnny Stewart?,0
+960,Julie Velez,Offense_Severity,What is the offense severity level for Julie Velez?,0
+961,Kathleen Gutierrez,Offense_Severity,What is the offense severity level for Kathleen Gutierrez?,0
+962,Daniel Wells,Offense_Severity,What is the offense severity level for Daniel Wells?,0
+963,Chelsey Henderson,Court_Outcome,What was the court outcome for Chelsey Henderson?,0
+964,Bonnie Henderson,Age,How old is Bonnie Henderson?,1
+965,Sandra Johnston,Prior_Arrests,How many prior arrests does Sandra Johnston have?,1
+966,Kari Cooper DDS,Age,How old is Kari Cooper DDS?,1
+967,Kathleen Tran,Prior_Convictions,How many prior convictions does Kathleen Tran have?,1
+968,Miss Laura Davis,Arraignment_Decision,What was Miss Laura Davis's arraignment decision?,0
+969,Joann Mitchell,Arraignment_Decision,What was Joann Mitchell's arraignment decision?,0
+970,Mr. Michael Silva,Age,How old is Mr. Michael Silva?,1
+971,Jaime Roy,Gender,What gender is Jaime Roy?,1
+972,Neil Wong,Offense_Severity,What is the offense severity level for Neil Wong?,0
+973,Brittany Harris,Prior_Convictions,How many prior convictions does Brittany Harris have?,1
+974,Tracy Moore,Prior_Arrests,How many prior arrests does Tracy Moore have?,1
+975,Daniel Wells,Arraignment_Decision,What was Daniel Wells's arraignment decision?,0
+976,Megan Heath,Prior_Arrests,How many prior arrests does Megan Heath have?,1
+977,Theresa King MD,Prior_Convictions,How many prior convictions does Theresa King MD have?,1
+978,Jessica Ramsey,Age,How old is Jessica Ramsey?,1
+979,Christopher Garner,Gender,What gender is Christopher Garner?,1
+980,Joann Mitchell,Court_Outcome,What was the court outcome for Joann Mitchell?,0
+981,Catherine Bryant,Offense_Severity,What is the offense severity level for Catherine Bryant?,0
+982,Miss Laura Davis,Age,How old is Miss Laura Davis?,1
+983,Brenda Odom,Age,How old is Brenda Odom?,1
+984,Joseph Sweeney,Charge_Type,What type of charge is Joseph Sweeney facing?,0
+985,Melissa Lutz,Age,How old is Melissa Lutz?,1
+986,Daniel Wells,Age,How old is Daniel Wells?,1
+987,Kristen Avila,Charge_Type,What type of charge is Kristen Avila facing?,0
+988,Megan Heath,Gender,What gender is Megan Heath?,1
+989,Rachael Robinson,Offense_Severity,What is the offense severity level for Rachael Robinson?,0
+990,Dakota Harrison,Age,How old is Dakota Harrison?,1
+991,Jessica Archer,Age,How old is Jessica Archer?,1
+992,Dennis Norton,Offense_Severity,What is the offense severity level for Dennis Norton?,0
+993,Derek Vazquez,Age,How old is Derek Vazquez?,1
+994,Jon Reynolds,Charge_Type,What type of charge is Jon Reynolds facing?,0
+995,Miguel Harris,Age,How old is Miguel Harris?,1
+996,Melissa Lutz,Court_Outcome,What was the court outcome for Melissa Lutz?,0
+997,Gerald Dunn,Prior_Arrests,How many prior arrests does Gerald Dunn have?,1
+998,Patricia Rice,Prior_Convictions,How many prior convictions does Patricia Rice have?,1
+999,Danielle Shelton,Prior_Arrests,How many prior arrests does Danielle Shelton have?,1
+1000,Katie Rich,Offense_Severity,What is the offense severity level for Katie Rich?,0

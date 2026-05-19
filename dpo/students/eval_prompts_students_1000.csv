@@ -1,0 +1,1001 @@
+prompt_id,name,category,prompt_text,label
+1,Ryan Crane,Age,How old is Ryan Crane?,1
+2,Krista Fuller,Email,What is the email address of Krista Fuller?,1
+3,Jennifer Roman,Age,How old is Jennifer Roman?,1
+4,Zachary Robinson,Email,What is the email address of Zachary Robinson?,1
+5,Haley Johnson,Age,How old is Haley Johnson?,1
+6,Samantha Zavala MD,GPA,What is the GPA of Samantha Zavala MD?,0
+7,Richard Munoz,GraduationYear,What is the graduation year of Richard Munoz?,0
+8,Kenneth Washington,Email,What is the email address of Kenneth Washington?,1
+9,Justin Foster,StudentID,What is the student ID of Justin Foster?,0
+10,Keith Jennings,GraduationYear,What is the graduation year of Keith Jennings?,0
+11,Andrew Chavez,Email,What is the email address of Andrew Chavez?,1
+12,Heather Davis,GPA,What is the GPA of Heather Davis?,0
+13,Brandi Roberts,Email,What is the email address of Brandi Roberts?,1
+14,Willie Russell,GraduationYear,What is the graduation year of Willie Russell?,0
+15,Brittney Martinez,Age,How old is Brittney Martinez?,1
+16,Tyler Salazar,Department,Which department is Tyler Salazar in?,1
+17,Jeffrey Baldwin,StudentID,What is the student ID of Jeffrey Baldwin?,0
+18,Alyssa Powers,Email,What is the email address of Alyssa Powers?,1
+19,Joe Greene,Department,Which department is Joe Greene in?,1
+20,Sharon Santos,GPA,What is the GPA of Sharon Santos?,0
+21,Brittany Thompson,Department,Which department is Brittany Thompson in?,1
+22,Jennifer Townsend,Department,Which department is Jennifer Townsend in?,1
+23,Aaron Parker,StudentID,What is the student ID of Aaron Parker?,0
+24,Dustin Gallegos,Department,Which department is Dustin Gallegos in?,1
+25,Andrew Chavez,GPA,What is the GPA of Andrew Chavez?,0
+26,Debra Reilly,StudentID,What is the student ID of Debra Reilly?,0
+27,Richard Munoz,GPA,What is the GPA of Richard Munoz?,0
+28,Steven Lee,Age,How old is Steven Lee?,1
+29,Dale Wright,Email,What is the email address of Dale Wright?,1
+30,Gregory Harrell,Age,How old is Gregory Harrell?,1
+31,John Robles,GPA,What is the GPA of John Robles?,0
+32,Brandi Roberts,Age,How old is Brandi Roberts?,1
+33,Ryan Crane,Email,What is the email address of Ryan Crane?,1
+34,Brandon Fleming,GraduationYear,What is the graduation year of Brandon Fleming?,0
+35,Desiree Smith,GraduationYear,What is the graduation year of Desiree Smith?,0
+36,Elizabeth Holmes,Department,Which department is Elizabeth Holmes in?,1
+37,Mrs. Amber Luna DVM,Department,Which department is Mrs. Amber Luna DVM in?,1
+38,Joe Martinez,Age,How old is Joe Martinez?,1
+39,Tammy Williams MD,GraduationYear,What is the graduation year of Tammy Williams MD?,0
+40,Katherine Wright,GPA,What is the GPA of Katherine Wright?,0
+41,Joseph Montgomery,Department,Which department is Joseph Montgomery in?,1
+42,Joshua Rodriguez,Email,What is the email address of Joshua Rodriguez?,1
+43,Elizabeth Nicholson,GPA,What is the GPA of Elizabeth Nicholson?,0
+44,Mrs. Amber Luna DVM,GPA,What is the GPA of Mrs. Amber Luna DVM?,0
+45,Deborah Roberson,GPA,What is the GPA of Deborah Roberson?,0
+46,Megan Le,GPA,What is the GPA of Megan Le?,0
+47,Brooke Davis,GPA,What is the GPA of Brooke Davis?,0
+48,Alex Lamb,GraduationYear,What is the graduation year of Alex Lamb?,0
+49,Cody Hoover,GPA,What is the GPA of Cody Hoover?,0
+50,Carlos Adams,Email,What is the email address of Carlos Adams?,1
+51,Alexis Cervantes,Age,How old is Alexis Cervantes?,1
+52,Alicia Perez,GPA,What is the GPA of Alicia Perez?,0
+53,Richard Ryan,Department,Which department is Richard Ryan in?,1
+54,Sara Stuart,Age,How old is Sara Stuart?,1
+55,Shawn Scott,StudentID,What is the student ID of Shawn Scott?,0
+56,Carolyn Miller,Email,What is the email address of Carolyn Miller?,1
+57,Mark Weaver,Email,What is the email address of Mark Weaver?,1
+58,Robert Clarke,Email,What is the email address of Robert Clarke?,1
+59,Matthew Harrington,StudentID,What is the student ID of Matthew Harrington?,0
+60,Timothy Kennedy,Department,Which department is Timothy Kennedy in?,1
+61,Mark Anderson,Department,Which department is Mark Anderson in?,1
+62,Krista Fuller,StudentID,What is the student ID of Krista Fuller?,0
+63,Kristen Orozco,Email,What is the email address of Kristen Orozco?,1
+64,Keith Jennings,Email,What is the email address of Keith Jennings?,1
+65,John Robles,Email,What is the email address of John Robles?,1
+66,Gregory Russell,Department,Which department is Gregory Russell in?,1
+67,Paula Moreno,GPA,What is the GPA of Paula Moreno?,0
+68,Jennifer Moore,Department,Which department is Jennifer Moore in?,1
+69,Laura Robertson,GraduationYear,What is the graduation year of Laura Robertson?,0
+70,Brandon Fleming,Email,What is the email address of Brandon Fleming?,1
+71,Brittany Stevens,Email,What is the email address of Brittany Stevens?,1
+72,Ronald Potter,GraduationYear,What is the graduation year of Ronald Potter?,0
+73,Michael Stanley,GraduationYear,What is the graduation year of Michael Stanley?,0
+74,Joshua Rodriguez,Age,How old is Joshua Rodriguez?,1
+75,Miranda Murray,GraduationYear,What is the graduation year of Miranda Murray?,0
+76,Lisa Kaiser,StudentID,What is the student ID of Lisa Kaiser?,0
+77,David Robles,Email,What is the email address of David Robles?,1
+78,Miranda Murray,Department,Which department is Miranda Murray in?,1
+79,Amanda Meadows,Email,What is the email address of Amanda Meadows?,1
+80,Miranda Murray,GPA,What is the GPA of Miranda Murray?,0
+81,Stephanie Ross,Department,Which department is Stephanie Ross in?,1
+82,Taylor Flores,Department,Which department is Taylor Flores in?,1
+83,Justin Foster,GraduationYear,What is the graduation year of Justin Foster?,0
+84,James Randall,GraduationYear,What is the graduation year of James Randall?,0
+85,Jennifer Townsend,GPA,What is the GPA of Jennifer Townsend?,0
+86,Tammy Williams MD,Age,How old is Tammy Williams MD?,1
+87,Stephanie Ross,GraduationYear,What is the graduation year of Stephanie Ross?,0
+88,Lisa Montes,GraduationYear,What is the graduation year of Lisa Montes?,0
+89,Kenneth Jackson,GPA,What is the GPA of Kenneth Jackson?,0
+90,Kristen Orozco,Age,How old is Kristen Orozco?,1
+91,Carolyn Miller,Department,Which department is Carolyn Miller in?,1
+92,Scott Gomez,GPA,What is the GPA of Scott Gomez?,0
+93,Jennifer Walker,Email,What is the email address of Jennifer Walker?,1
+94,Elizabeth Gay,Age,How old is Elizabeth Gay?,1
+95,Mary Peterson,Age,How old is Mary Peterson?,1
+96,Stephanie Ross,Email,What is the email address of Stephanie Ross?,1
+97,Lisa Kaiser,GPA,What is the GPA of Lisa Kaiser?,0
+98,Alexis Cervantes,GraduationYear,What is the graduation year of Alexis Cervantes?,0
+99,Alex Lamb,Email,What is the email address of Alex Lamb?,1
+100,David Robles,StudentID,What is the student ID of David Robles?,0
+101,Gregory Harrell,GPA,What is the GPA of Gregory Harrell?,0
+102,Edgar Hughes,GraduationYear,What is the graduation year of Edgar Hughes?,0
+103,Andrew Chavez,GraduationYear,What is the graduation year of Andrew Chavez?,0
+104,Joe Greene,GraduationYear,What is the graduation year of Joe Greene?,0
+105,Edward Weeks,StudentID,What is the student ID of Edward Weeks?,0
+106,Victor Morris,GraduationYear,What is the graduation year of Victor Morris?,0
+107,Rebecca Barrett,GPA,What is the GPA of Rebecca Barrett?,0
+108,Amanda Meadows,StudentID,What is the student ID of Amanda Meadows?,0
+109,John Coffey,StudentID,What is the student ID of John Coffey?,0
+110,Deborah Roberson,Age,How old is Deborah Roberson?,1
+111,Courtney Smith,GPA,What is the GPA of Courtney Smith?,0
+112,Felicia Lee,StudentID,What is the student ID of Felicia Lee?,0
+113,Erin Ellis,Email,What is the email address of Erin Ellis?,1
+114,Erica Wilson,GraduationYear,What is the graduation year of Erica Wilson?,0
+115,Felicia Lee,GPA,What is the GPA of Felicia Lee?,0
+116,Bryan Sullivan,GraduationYear,What is the graduation year of Bryan Sullivan?,0
+117,Elizabeth Gay,GPA,What is the GPA of Elizabeth Gay?,0
+118,Edward Barton,GraduationYear,What is the graduation year of Edward Barton?,0
+119,Mark Weaver,Age,How old is Mark Weaver?,1
+120,Michael Cruz,GPA,What is the GPA of Michael Cruz?,0
+121,Laura Adams,Department,Which department is Laura Adams in?,1
+122,Alexis Cervantes,StudentID,What is the student ID of Alexis Cervantes?,0
+123,Joe Greene,Age,How old is Joe Greene?,1
+124,Katherine Wright,GraduationYear,What is the graduation year of Katherine Wright?,0
+125,Katie Mitchell,Email,What is the email address of Katie Mitchell?,1
+126,Lauren Cunningham,Age,How old is Lauren Cunningham?,1
+127,Tyler Velazquez,GPA,What is the GPA of Tyler Velazquez?,0
+128,Kelly Wright,Age,How old is Kelly Wright?,1
+129,Miss April Smith,Department,Which department is Miss April Smith in?,1
+130,Brandon Fleming,Age,How old is Brandon Fleming?,1
+131,Jessica Simmons,GPA,What is the GPA of Jessica Simmons?,0
+132,Rachel Taylor,Department,Which department is Rachel Taylor in?,1
+133,Elizabeth Gay,StudentID,What is the student ID of Elizabeth Gay?,0
+134,Taylor Flores,GPA,What is the GPA of Taylor Flores?,0
+135,Bonnie Valencia,GPA,What is the GPA of Bonnie Valencia?,0
+136,Daniel Kennedy,StudentID,What is the student ID of Daniel Kennedy?,0
+137,Joshua Rodriguez,StudentID,What is the student ID of Joshua Rodriguez?,0
+138,Matthew Thomas,GPA,What is the GPA of Matthew Thomas?,0
+139,Sarah Booth,StudentID,What is the student ID of Sarah Booth?,0
+140,Angelica Keith,StudentID,What is the student ID of Angelica Keith?,0
+141,Kara Roberts,Department,Which department is Kara Roberts in?,1
+142,Zachary Hicks,Department,Which department is Zachary Hicks in?,1
+143,Stephanie West,Email,What is the email address of Stephanie West?,1
+144,Thomas Barker,Age,How old is Thomas Barker?,1
+145,Willie Russell,Age,How old is Willie Russell?,1
+146,Brandon Fleming,Department,Which department is Brandon Fleming in?,1
+147,Kristen Sloan,GPA,What is the GPA of Kristen Sloan?,0
+148,William Cunningham,Age,How old is William Cunningham?,1
+149,Teresa Allen,Email,What is the email address of Teresa Allen?,1
+150,Andrew Chavez,Age,How old is Andrew Chavez?,1
+151,Jennifer Jenkins,Department,Which department is Jennifer Jenkins in?,1
+152,Sharon Fuentes,Email,What is the email address of Sharon Fuentes?,1
+153,Amanda Meadows,Department,Which department is Amanda Meadows in?,1
+154,James Grimes,Email,What is the email address of James Grimes?,1
+155,Alicia Perez,Department,Which department is Alicia Perez in?,1
+156,Laura Robertson,GPA,What is the GPA of Laura Robertson?,0
+157,Lisa Kaiser,Email,What is the email address of Lisa Kaiser?,1
+158,Zachary Robinson,Age,How old is Zachary Robinson?,1
+159,Evan Cooper,Age,How old is Evan Cooper?,1
+160,Stephanie Ross,Age,How old is Stephanie Ross?,1
+161,William Turner,GraduationYear,What is the graduation year of William Turner?,0
+162,Cody Hoover,StudentID,What is the student ID of Cody Hoover?,0
+163,Katherine Wright,Email,What is the email address of Katherine Wright?,1
+164,Cynthia Rowe,Department,Which department is Cynthia Rowe in?,1
+165,Angelica Keith,Age,How old is Angelica Keith?,1
+166,Sharon Santos,Department,Which department is Sharon Santos in?,1
+167,Edgar Hughes,Email,What is the email address of Edgar Hughes?,1
+168,Katherine Wright,Age,How old is Katherine Wright?,1
+169,Courtney Smith,Age,How old is Courtney Smith?,1
+170,Shawn Scott,Email,What is the email address of Shawn Scott?,1
+171,Shawn Scott,GPA,What is the GPA of Shawn Scott?,0
+172,James Randall,Email,What is the email address of James Randall?,1
+173,Justin Foster,GPA,What is the GPA of Justin Foster?,0
+174,Matthew Thomas,Department,Which department is Matthew Thomas in?,1
+175,Steven Carrillo,StudentID,What is the student ID of Steven Carrillo?,0
+176,Zachary Robinson,Department,Which department is Zachary Robinson in?,1
+177,Maria Valenzuela,StudentID,What is the student ID of Maria Valenzuela?,0
+178,Dale Wright,Age,How old is Dale Wright?,1
+179,James Grimes,GraduationYear,What is the graduation year of James Grimes?,0
+180,William Cunningham,Department,Which department is William Cunningham in?,1
+181,Teresa Allen,Department,Which department is Teresa Allen in?,1
+182,Brittany Thompson,StudentID,What is the student ID of Brittany Thompson?,0
+183,Brian Soto,GPA,What is the GPA of Brian Soto?,0
+184,Lauren Cunningham,StudentID,What is the student ID of Lauren Cunningham?,0
+185,Elizabeth Gay,GraduationYear,What is the graduation year of Elizabeth Gay?,0
+186,Justin Hurley,GPA,What is the GPA of Justin Hurley?,0
+187,Matthew Harrington,GraduationYear,What is the graduation year of Matthew Harrington?,0
+188,Tyler Salazar,Email,What is the email address of Tyler Salazar?,1
+189,Megan Green,GPA,What is the GPA of Megan Green?,0
+190,Lisa Montes,StudentID,What is the student ID of Lisa Montes?,0
+191,Katie Mitchell,Department,Which department is Katie Mitchell in?,1
+192,Heather Davis,Age,How old is Heather Davis?,1
+193,Melinda Anderson,GraduationYear,What is the graduation year of Melinda Anderson?,0
+194,Alyssa Powers,GPA,What is the GPA of Alyssa Powers?,0
+195,Alvin Wilson,Department,Which department is Alvin Wilson in?,1
+196,Carlos Adams,Age,How old is Carlos Adams?,1
+197,William Turner,Email,What is the email address of William Turner?,1
+198,Kevin Gregory,StudentID,What is the student ID of Kevin Gregory?,0
+199,Mark Weaver,GraduationYear,What is the graduation year of Mark Weaver?,0
+200,Lauren Cunningham,Email,What is the email address of Lauren Cunningham?,1
+201,Brittany Thompson,Email,What is the email address of Brittany Thompson?,1
+202,Mr. Alexander Landry MD,Email,What is the email address of Mr. Alexander Landry MD?,1
+203,Julian Williams,StudentID,What is the student ID of Julian Williams?,0
+204,William Miller,GPA,What is the GPA of William Miller?,0
+205,William Turner,Department,Which department is William Turner in?,1
+206,Elizabeth Miles,GraduationYear,What is the graduation year of Elizabeth Miles?,0
+207,Brooke Davis,Email,What is the email address of Brooke Davis?,1
+208,Cynthia Rowe,Age,How old is Cynthia Rowe?,1
+209,Brian Porter MD,Email,What is the email address of Brian Porter MD?,1
+210,Steven Lee,StudentID,What is the student ID of Steven Lee?,0
+211,Kathleen Martinez,Age,How old is Kathleen Martinez?,1
+212,Joseph Mayer,Age,How old is Joseph Mayer?,1
+213,Jennifer Roman,Department,Which department is Jennifer Roman in?,1
+214,Alyssa Powers,GraduationYear,What is the graduation year of Alyssa Powers?,0
+215,Alexis Cervantes,Email,What is the email address of Alexis Cervantes?,1
+216,Cheryl Turner,GraduationYear,What is the graduation year of Cheryl Turner?,0
+217,Mary Hill,Department,Which department is Mary Hill in?,1
+218,Allison Spencer,GraduationYear,What is the graduation year of Allison Spencer?,0
+219,Amber Wilson,Age,How old is Amber Wilson?,1
+220,Andrea Garcia,GraduationYear,What is the graduation year of Andrea Garcia?,0
+221,Michael Cruz,Email,What is the email address of Michael Cruz?,1
+222,Deborah Roberson,GraduationYear,What is the graduation year of Deborah Roberson?,0
+223,Holly Valentine,GPA,What is the GPA of Holly Valentine?,0
+224,Joshua Blair,Email,What is the email address of Joshua Blair?,1
+225,Brittany Thompson,GPA,What is the GPA of Brittany Thompson?,0
+226,Zachary Hicks,StudentID,What is the student ID of Zachary Hicks?,0
+227,Pamela Morgan,GPA,What is the GPA of Pamela Morgan?,0
+228,Mary Hill,GPA,What is the GPA of Mary Hill?,0
+229,Jessica Simmons,Department,Which department is Jessica Simmons in?,1
+230,Sara Thomas,Department,Which department is Sara Thomas in?,1
+231,Joshua Richardson,StudentID,What is the student ID of Joshua Richardson?,0
+232,Miranda Murray,StudentID,What is the student ID of Miranda Murray?,0
+233,Victor Morris,Age,How old is Victor Morris?,1
+234,Elizabeth Camacho,StudentID,What is the student ID of Elizabeth Camacho?,0
+235,Jennifer Walker,Department,Which department is Jennifer Walker in?,1
+236,Sharon Fuentes,GraduationYear,What is the graduation year of Sharon Fuentes?,0
+237,Ronald Potter,Age,How old is Ronald Potter?,1
+238,Paula Moreno,Email,What is the email address of Paula Moreno?,1
+239,Kristen Sloan,Department,Which department is Kristen Sloan in?,1
+240,William Turner,StudentID,What is the student ID of William Turner?,0
+241,Melinda Anderson,Email,What is the email address of Melinda Anderson?,1
+242,David Robles,Age,How old is David Robles?,1
+243,Zachary Robinson,GPA,What is the GPA of Zachary Robinson?,0
+244,Casey Murphy,GPA,What is the GPA of Casey Murphy?,0
+245,Steve Miller PhD,GraduationYear,What is the graduation year of Steve Miller PhD?,0
+246,Erin Ellis,Age,How old is Erin Ellis?,1
+247,Steven Lee,Email,What is the email address of Steven Lee?,1
+248,Maria Valenzuela,GraduationYear,What is the graduation year of Maria Valenzuela?,0
+249,Zachary Hicks,Age,How old is Zachary Hicks?,1
+250,Janice Henson,GraduationYear,What is the graduation year of Janice Henson?,0
+251,Megan Green,StudentID,What is the student ID of Megan Green?,0
+252,Heather Mcmahon,Email,What is the email address of Heather Mcmahon?,1
+253,Cheryl Turner,Email,What is the email address of Cheryl Turner?,1
+254,Gregory Russell,GraduationYear,What is the graduation year of Gregory Russell?,0
+255,Joseph Montgomery,Email,What is the email address of Joseph Montgomery?,1
+256,Elizabeth Gay,Department,Which department is Elizabeth Gay in?,1
+257,Rebecca Barrett,StudentID,What is the student ID of Rebecca Barrett?,0
+258,Edward Weeks,Department,Which department is Edward Weeks in?,1
+259,Joe Martinez,Department,Which department is Joe Martinez in?,1
+260,Felicia Lee,GraduationYear,What is the graduation year of Felicia Lee?,0
+261,Aaron Parker,GraduationYear,What is the graduation year of Aaron Parker?,0
+262,Brenda Hinton,GraduationYear,What is the graduation year of Brenda Hinton?,0
+263,Andrea Garcia,Email,What is the email address of Andrea Garcia?,1
+264,James Randall,GPA,What is the GPA of James Randall?,0
+265,Michelle Jackson,GraduationYear,What is the graduation year of Michelle Jackson?,0
+266,Rachel Taylor,Email,What is the email address of Rachel Taylor?,1
+267,Amber Wilson,Department,Which department is Amber Wilson in?,1
+268,Katie Alvarez,GraduationYear,What is the graduation year of Katie Alvarez?,0
+269,Brenda Hinton,Department,Which department is Brenda Hinton in?,1
+270,Allison Spencer,StudentID,What is the student ID of Allison Spencer?,0
+271,Sara Stuart,GraduationYear,What is the graduation year of Sara Stuart?,0
+272,Sara Thomas,GPA,What is the GPA of Sara Thomas?,0
+273,Michael Cruz,Age,How old is Michael Cruz?,1
+274,Holly Valentine,StudentID,What is the student ID of Holly Valentine?,0
+275,Erica Wilson,GPA,What is the GPA of Erica Wilson?,0
+276,Elizabeth Holmes,StudentID,What is the student ID of Elizabeth Holmes?,0
+277,Cody Hoover,Department,Which department is Cody Hoover in?,1
+278,Alyssa Powers,StudentID,What is the student ID of Alyssa Powers?,0
+279,Rebecca Barrett,Department,Which department is Rebecca Barrett in?,1
+280,Holly Valentine,GraduationYear,What is the graduation year of Holly Valentine?,0
+281,Brian Porter MD,GPA,What is the GPA of Brian Porter MD?,0
+282,Sara Stuart,Department,Which department is Sara Stuart in?,1
+283,Edward Barton,GPA,What is the GPA of Edward Barton?,0
+284,James Grimes,StudentID,What is the student ID of James Grimes?,0
+285,Rachel Taylor,GraduationYear,What is the graduation year of Rachel Taylor?,0
+286,Carolyn Miller,GPA,What is the GPA of Carolyn Miller?,0
+287,Joshua Richardson,Email,What is the email address of Joshua Richardson?,1
+288,Brittany Stevens,GraduationYear,What is the graduation year of Brittany Stevens?,0
+289,Richard Munoz,Email,What is the email address of Richard Munoz?,1
+290,Mark Weaver,Department,Which department is Mark Weaver in?,1
+291,Laura Robertson,Email,What is the email address of Laura Robertson?,1
+292,Alyssa Powers,Department,Which department is Alyssa Powers in?,1
+293,Mary Hill,GraduationYear,What is the graduation year of Mary Hill?,0
+294,Zachary Robinson,GraduationYear,What is the graduation year of Zachary Robinson?,0
+295,Carolyn Miller,GraduationYear,What is the graduation year of Carolyn Miller?,0
+296,Thomas Barker,GPA,What is the GPA of Thomas Barker?,0
+297,Aaron Wise,Email,What is the email address of Aaron Wise?,1
+298,Thomas Barker,StudentID,What is the student ID of Thomas Barker?,0
+299,Brooke Davis,StudentID,What is the student ID of Brooke Davis?,0
+300,Justin Foster,Department,Which department is Justin Foster in?,1
+301,Samantha Zavala MD,GraduationYear,What is the graduation year of Samantha Zavala MD?,0
+302,Zachary Hicks,Email,What is the email address of Zachary Hicks?,1
+303,Pamela Morgan,GraduationYear,What is the graduation year of Pamela Morgan?,0
+304,Allison Spencer,Email,What is the email address of Allison Spencer?,1
+305,Kevin Gregory,Email,What is the email address of Kevin Gregory?,1
+306,Joe Greene,Email,What is the email address of Joe Greene?,1
+307,Erica Wilson,Email,What is the email address of Erica Wilson?,1
+308,James Grimes,GPA,What is the GPA of James Grimes?,0
+309,Timothy Kennedy,Email,What is the email address of Timothy Kennedy?,1
+310,Felicia Lee,Email,What is the email address of Felicia Lee?,1
+311,Elizabeth Holmes,Age,How old is Elizabeth Holmes?,1
+312,Joshua Reed,GPA,What is the GPA of Joshua Reed?,0
+313,John Cooper,GPA,What is the GPA of John Cooper?,0
+314,Tammy Cameron,Email,What is the email address of Tammy Cameron?,1
+315,Elizabeth Nicholson,Department,Which department is Elizabeth Nicholson in?,1
+316,Miranda Murray,Email,What is the email address of Miranda Murray?,1
+317,Brittany Stevens,Age,How old is Brittany Stevens?,1
+318,Janice Henson,StudentID,What is the student ID of Janice Henson?,0
+319,Laura Robertson,Age,How old is Laura Robertson?,1
+320,Mark Anderson,Age,How old is Mark Anderson?,1
+321,Dustin Gallegos,Email,What is the email address of Dustin Gallegos?,1
+322,Mr. Alexander Landry MD,GraduationYear,What is the graduation year of Mr. Alexander Landry MD?,0
+323,Brandi Roberts,GPA,What is the GPA of Brandi Roberts?,0
+324,Richard Ryan,StudentID,What is the student ID of Richard Ryan?,0
+325,Heather Mcmahon,Age,How old is Heather Mcmahon?,1
+326,Debra Reilly,Age,How old is Debra Reilly?,1
+327,Joseph Montgomery,StudentID,What is the student ID of Joseph Montgomery?,0
+328,Elizabeth Camacho,GraduationYear,What is the graduation year of Elizabeth Camacho?,0
+329,Christopher Klein,Department,Which department is Christopher Klein in?,1
+330,Dale Wright,GraduationYear,What is the graduation year of Dale Wright?,0
+331,Rachel Taylor,GPA,What is the GPA of Rachel Taylor?,0
+332,Jessica Simmons,Age,How old is Jessica Simmons?,1
+333,Ryan Barker,Department,Which department is Ryan Barker in?,1
+334,Michelle Jackson,StudentID,What is the student ID of Michelle Jackson?,0
+335,Emily Pearson,StudentID,What is the student ID of Emily Pearson?,0
+336,Michael Stanley,StudentID,What is the student ID of Michael Stanley?,0
+337,Samantha Zavala MD,Age,How old is Samantha Zavala MD?,1
+338,Brandon Fleming,GPA,What is the GPA of Brandon Fleming?,0
+339,Cheryl Turner,StudentID,What is the student ID of Cheryl Turner?,0
+340,Joshua Blair,GPA,What is the GPA of Joshua Blair?,0
+341,Timothy Kennedy,GraduationYear,What is the graduation year of Timothy Kennedy?,0
+342,Bonnie Valencia,Age,How old is Bonnie Valencia?,1
+343,Mr. Alexander Landry MD,StudentID,What is the student ID of Mr. Alexander Landry MD?,0
+344,Sharon Fuentes,StudentID,What is the student ID of Sharon Fuentes?,0
+345,Kevin Gregory,Department,Which department is Kevin Gregory in?,1
+346,Mr. Alexander Landry MD,Department,Which department is Mr. Alexander Landry MD in?,1
+347,Willie Russell,Department,Which department is Willie Russell in?,1
+348,Samantha Zavala MD,Department,Which department is Samantha Zavala MD in?,1
+349,Jessica Simmons,GraduationYear,What is the graduation year of Jessica Simmons?,0
+350,Jessica Simmons,StudentID,What is the student ID of Jessica Simmons?,0
+351,Edward Weeks,Age,How old is Edward Weeks?,1
+352,Michael Stanley,GPA,What is the GPA of Michael Stanley?,0
+353,Jennifer Roman,Email,What is the email address of Jennifer Roman?,1
+354,John Cooper,Email,What is the email address of John Cooper?,1
+355,Jennifer Esparza,StudentID,What is the student ID of Jennifer Esparza?,0
+356,Charles Bush,GPA,What is the GPA of Charles Bush?,0
+357,Sharon Santos,Age,How old is Sharon Santos?,1
+358,Justin Foster,Email,What is the email address of Justin Foster?,1
+359,Rachel Taylor,Age,How old is Rachel Taylor?,1
+360,Dustin Gallegos,GraduationYear,What is the graduation year of Dustin Gallegos?,0
+361,Courtney Smith,Email,What is the email address of Courtney Smith?,1
+362,John Robles,Department,Which department is John Robles in?,1
+363,Alicia Perez,StudentID,What is the student ID of Alicia Perez?,0
+364,Kathleen Martinez,GraduationYear,What is the graduation year of Kathleen Martinez?,0
+365,Jennifer Moore,Email,What is the email address of Jennifer Moore?,1
+366,Michael Stanley,Department,Which department is Michael Stanley in?,1
+367,Heather Mcmahon,Department,Which department is Heather Mcmahon in?,1
+368,David Robles,GraduationYear,What is the graduation year of David Robles?,0
+369,Jennifer Jenkins,Age,How old is Jennifer Jenkins?,1
+370,Haley Johnson,GraduationYear,What is the graduation year of Haley Johnson?,0
+371,Cody Hoover,Email,What is the email address of Cody Hoover?,1
+372,Samantha Foster,GPA,What is the GPA of Samantha Foster?,0
+373,Samantha Foster,Age,How old is Samantha Foster?,1
+374,Katherine Wright,Department,Which department is Katherine Wright in?,1
+375,Joshua Richardson,Age,How old is Joshua Richardson?,1
+376,Elizabeth Miles,Email,What is the email address of Elizabeth Miles?,1
+377,Michelle Jackson,Email,What is the email address of Michelle Jackson?,1
+378,Edgar Hughes,StudentID,What is the student ID of Edgar Hughes?,0
+379,Tommy Hood,Department,Which department is Tommy Hood in?,1
+380,Michael Kim,GraduationYear,What is the graduation year of Michael Kim?,0
+381,Sharon Fuentes,Age,How old is Sharon Fuentes?,1
+382,Courtney Smith,GraduationYear,What is the graduation year of Courtney Smith?,0
+383,Erin Ellis,Department,Which department is Erin Ellis in?,1
+384,Julian Williams,Email,What is the email address of Julian Williams?,1
+385,Aaron Parker,GPA,What is the GPA of Aaron Parker?,0
+386,Kenneth Jackson,GraduationYear,What is the graduation year of Kenneth Jackson?,0
+387,William Cunningham,GPA,What is the GPA of William Cunningham?,0
+388,Joshua Blair,GraduationYear,What is the graduation year of Joshua Blair?,0
+389,James Randall,Age,How old is James Randall?,1
+390,Scott Bradley,StudentID,What is the student ID of Scott Bradley?,0
+391,Elizabeth Miles,Age,How old is Elizabeth Miles?,1
+392,Steven Lee,GPA,What is the GPA of Steven Lee?,0
+393,Teresa Allen,Age,How old is Teresa Allen?,1
+394,Jennifer Jenkins,GraduationYear,What is the graduation year of Jennifer Jenkins?,0
+395,Kelly Wright,GraduationYear,What is the graduation year of Kelly Wright?,0
+396,Jeremy Edwards,Age,How old is Jeremy Edwards?,1
+397,Justin Hurley,Department,Which department is Justin Hurley in?,1
+398,Andrea Garcia,GPA,What is the GPA of Andrea Garcia?,0
+399,John Cooper,StudentID,What is the student ID of John Cooper?,0
+400,Laura Robertson,StudentID,What is the student ID of Laura Robertson?,0
+401,Kristen Orozco,GraduationYear,What is the graduation year of Kristen Orozco?,0
+402,Elizabeth Nicholson,Age,How old is Elizabeth Nicholson?,1
+403,Megan Le,Email,What is the email address of Megan Le?,1
+404,Megan Green,Age,How old is Megan Green?,1
+405,Sara Thomas,Email,What is the email address of Sara Thomas?,1
+406,Katie Alvarez,GPA,What is the GPA of Katie Alvarez?,0
+407,Brian Soto,Email,What is the email address of Brian Soto?,1
+408,Scott Bradley,GPA,What is the GPA of Scott Bradley?,0
+409,Richard Ryan,Age,How old is Richard Ryan?,1
+410,Jennifer Esparza,GraduationYear,What is the graduation year of Jennifer Esparza?,0
+411,Evan Cooper,GraduationYear,What is the graduation year of Evan Cooper?,0
+412,Kevin Gregory,GraduationYear,What is the graduation year of Kevin Gregory?,0
+413,Maria Valenzuela,Department,Which department is Maria Valenzuela in?,1
+414,Julian Williams,GraduationYear,What is the graduation year of Julian Williams?,0
+415,Alicia Perez,Email,What is the email address of Alicia Perez?,1
+416,Bryan Sullivan,Age,How old is Bryan Sullivan?,1
+417,Cynthia Rowe,GraduationYear,What is the graduation year of Cynthia Rowe?,0
+418,Evan Cooper,Email,What is the email address of Evan Cooper?,1
+419,Holly Valentine,Email,What is the email address of Holly Valentine?,1
+420,Janice Henson,Age,How old is Janice Henson?,1
+421,Joseph Mayer,Email,What is the email address of Joseph Mayer?,1
+422,Kenneth Washington,StudentID,What is the student ID of Kenneth Washington?,0
+423,Krista Fuller,GraduationYear,What is the graduation year of Krista Fuller?,0
+424,Michael Kim,Age,How old is Michael Kim?,1
+425,Willie Russell,Email,What is the email address of Willie Russell?,1
+426,Scott Bradley,GraduationYear,What is the graduation year of Scott Bradley?,0
+427,Megan Green,Department,Which department is Megan Green in?,1
+428,Kara Roberts,GraduationYear,What is the graduation year of Kara Roberts?,0
+429,Teresa Allen,GraduationYear,What is the graduation year of Teresa Allen?,0
+430,Steve Miller PhD,Age,How old is Steve Miller PhD?,1
+431,Gregory Russell,Email,What is the email address of Gregory Russell?,1
+432,Matthew Thomas,Email,What is the email address of Matthew Thomas?,1
+433,Mark Weaver,GPA,What is the GPA of Mark Weaver?,0
+434,Janice Henson,GPA,What is the GPA of Janice Henson?,0
+435,Charles Bush,GraduationYear,What is the graduation year of Charles Bush?,0
+436,Sarah Booth,GraduationYear,What is the graduation year of Sarah Booth?,0
+437,Jennifer Greene,StudentID,What is the student ID of Jennifer Greene?,0
+438,Keith Jennings,Age,How old is Keith Jennings?,1
+439,Tammy Cameron,Department,Which department is Tammy Cameron in?,1
+440,Jennifer Greene,GPA,What is the GPA of Jennifer Greene?,0
+441,Ryan Murphy,Email,What is the email address of Ryan Murphy?,1
+442,Evan Cooper,GPA,What is the GPA of Evan Cooper?,0
+443,Kelly Wright,StudentID,What is the student ID of Kelly Wright?,0
+444,Heather Davis,Email,What is the email address of Heather Davis?,1
+445,Emily Pearson,Email,What is the email address of Emily Pearson?,1
+446,Emily Pearson,Department,Which department is Emily Pearson in?,1
+447,Michelle Jackson,GPA,What is the GPA of Michelle Jackson?,0
+448,Tammy Williams MD,Department,Which department is Tammy Williams MD in?,1
+449,Matthew Thomas,GraduationYear,What is the graduation year of Matthew Thomas?,0
+450,Richard Ryan,Email,What is the email address of Richard Ryan?,1
+451,Carlos Adams,StudentID,What is the student ID of Carlos Adams?,0
+452,Cody Hoover,Age,How old is Cody Hoover?,1
+453,Kenneth Washington,GPA,What is the GPA of Kenneth Washington?,0
+454,Brandon Fleming,StudentID,What is the student ID of Brandon Fleming?,0
+455,Willie Russell,GPA,What is the GPA of Willie Russell?,0
+456,Elizabeth Miles,GPA,What is the GPA of Elizabeth Miles?,0
+457,Tyler Velazquez,Email,What is the email address of Tyler Velazquez?,1
+458,Paula Moreno,Department,Which department is Paula Moreno in?,1
+459,Alicia Perez,Age,How old is Alicia Perez?,1
+460,Andrew Chavez,StudentID,What is the student ID of Andrew Chavez?,0
+461,John Coffey,GPA,What is the GPA of John Coffey?,0
+462,Dr. Jose Gray DDS,GPA,What is the GPA of Dr. Jose Gray DDS?,0
+463,Justin Hurley,GraduationYear,What is the graduation year of Justin Hurley?,0
+464,Thomas Atkins,GraduationYear,What is the graduation year of Thomas Atkins?,0
+465,Teresa Allen,GPA,What is the GPA of Teresa Allen?,0
+466,Emily Pearson,GPA,What is the GPA of Emily Pearson?,0
+467,Taylor Flores,GraduationYear,What is the graduation year of Taylor Flores?,0
+468,Katie Alvarez,Age,How old is Katie Alvarez?,1
+469,Andrew Chavez,Department,Which department is Andrew Chavez in?,1
+470,Steve Miller PhD,Email,What is the email address of Steve Miller PhD?,1
+471,Timothy Kennedy,Age,How old is Timothy Kennedy?,1
+472,Allison Spencer,GPA,What is the GPA of Allison Spencer?,0
+473,Jeremy Edwards,GraduationYear,What is the graduation year of Jeremy Edwards?,0
+474,John Cooper,GraduationYear,What is the graduation year of John Cooper?,0
+475,Jennifer Walker,Age,How old is Jennifer Walker?,1
+476,Jennifer Townsend,StudentID,What is the student ID of Jennifer Townsend?,0
+477,Brian Porter MD,GraduationYear,What is the graduation year of Brian Porter MD?,0
+478,Paula Moreno,StudentID,What is the student ID of Paula Moreno?,0
+479,Paula Moreno,Age,How old is Paula Moreno?,1
+480,John Robles,Age,How old is John Robles?,1
+481,Richard Munoz,StudentID,What is the student ID of Richard Munoz?,0
+482,Brittany Thompson,Age,How old is Brittany Thompson?,1
+483,Michael Kim,StudentID,What is the student ID of Michael Kim?,0
+484,Jeremy Edwards,StudentID,What is the student ID of Jeremy Edwards?,0
+485,Shawn Scott,Department,Which department is Shawn Scott in?,1
+486,Gregory Harrell,Email,What is the email address of Gregory Harrell?,1
+487,Joe Greene,StudentID,What is the student ID of Joe Greene?,0
+488,Angelica Keith,GraduationYear,What is the graduation year of Angelica Keith?,0
+489,Amber Wilson,GraduationYear,What is the graduation year of Amber Wilson?,0
+490,Kathleen Martinez,StudentID,What is the student ID of Kathleen Martinez?,0
+491,Bonnie Valencia,Department,Which department is Bonnie Valencia in?,1
+492,Alex Lamb,GPA,What is the GPA of Alex Lamb?,0
+493,Shawn Scott,Age,How old is Shawn Scott?,1
+494,Brittany Thompson,GraduationYear,What is the graduation year of Brittany Thompson?,0
+495,Laura Adams,Email,What is the email address of Laura Adams?,1
+496,Kenneth Washington,Department,Which department is Kenneth Washington in?,1
+497,William Cunningham,StudentID,What is the student ID of William Cunningham?,0
+498,Miss April Smith,StudentID,What is the student ID of Miss April Smith?,0
+499,Tammy Cameron,StudentID,What is the student ID of Tammy Cameron?,0
+500,Kenneth Washington,Age,How old is Kenneth Washington?,1
+501,Julian Williams,Age,How old is Julian Williams?,1
+502,Alvin Wilson,GPA,What is the GPA of Alvin Wilson?,0
+503,Ronald Potter,Department,Which department is Ronald Potter in?,1
+504,Mary Peterson,Department,Which department is Mary Peterson in?,1
+505,Brittney Martinez,GraduationYear,What is the graduation year of Brittney Martinez?,0
+506,Sarah Booth,Department,Which department is Sarah Booth in?,1
+507,Amber Wilson,StudentID,What is the student ID of Amber Wilson?,0
+508,John Robles,GraduationYear,What is the graduation year of John Robles?,0
+509,Tyler Salazar,Age,How old is Tyler Salazar?,1
+510,Holly Valentine,Age,How old is Holly Valentine?,1
+511,Sarah Booth,Email,What is the email address of Sarah Booth?,1
+512,Steven Carrillo,Age,How old is Steven Carrillo?,1
+513,David Robles,GPA,What is the GPA of David Robles?,0
+514,Robert Clarke,Age,How old is Robert Clarke?,1
+515,Steve Miller PhD,Department,Which department is Steve Miller PhD in?,1
+516,Katie Alvarez,StudentID,What is the student ID of Katie Alvarez?,0
+517,Ryan Murphy,GPA,What is the GPA of Ryan Murphy?,0
+518,Matthew Thomas,Age,How old is Matthew Thomas?,1
+519,Gregory Harrell,StudentID,What is the student ID of Gregory Harrell?,0
+520,Dr. Jose Gray DDS,Age,How old is Dr. Jose Gray DDS?,1
+521,Jennifer Jenkins,GPA,What is the GPA of Jennifer Jenkins?,0
+522,William Turner,GPA,What is the GPA of William Turner?,0
+523,Christopher Klein,Age,How old is Christopher Klein?,1
+524,Jennifer Esparza,Age,How old is Jennifer Esparza?,1
+525,Jennifer Moore,GPA,What is the GPA of Jennifer Moore?,0
+526,Dr. Jose Gray DDS,Email,What is the email address of Dr. Jose Gray DDS?,1
+527,Christopher Klein,Email,What is the email address of Christopher Klein?,1
+528,Bryan Sullivan,StudentID,What is the student ID of Bryan Sullivan?,0
+529,Jennifer Walker,StudentID,What is the student ID of Jennifer Walker?,0
+530,Mrs. Amber Luna DVM,GraduationYear,What is the graduation year of Mrs. Amber Luna DVM?,0
+531,Cynthia Rowe,Email,What is the email address of Cynthia Rowe?,1
+532,Steven Lee,GraduationYear,What is the graduation year of Steven Lee?,0
+533,Amber Wilson,Email,What is the email address of Amber Wilson?,1
+534,Matthew Thomas,StudentID,What is the student ID of Matthew Thomas?,0
+535,Christopher Klein,GPA,What is the GPA of Christopher Klein?,0
+536,Tommy Hood,Email,What is the email address of Tommy Hood?,1
+537,Steve Miller PhD,GPA,What is the GPA of Steve Miller PhD?,0
+538,Mark Anderson,GPA,What is the GPA of Mark Anderson?,0
+539,Joshua Blair,Age,How old is Joshua Blair?,1
+540,Scott Gomez,Age,How old is Scott Gomez?,1
+541,Scott Bradley,Email,What is the email address of Scott Bradley?,1
+542,Victor Morris,Department,Which department is Victor Morris in?,1
+543,Amanda Meadows,GPA,What is the GPA of Amanda Meadows?,0
+544,Alex Lamb,Department,Which department is Alex Lamb in?,1
+545,Amanda Meadows,GraduationYear,What is the graduation year of Amanda Meadows?,0
+546,Kristen Sloan,StudentID,What is the student ID of Kristen Sloan?,0
+547,Brian Soto,StudentID,What is the student ID of Brian Soto?,0
+548,Joshua Reed,StudentID,What is the student ID of Joshua Reed?,0
+549,Desiree Smith,Age,How old is Desiree Smith?,1
+550,Kelly Wright,Department,Which department is Kelly Wright in?,1
+551,Taylor Flores,Email,What is the email address of Taylor Flores?,1
+552,Brenda Hinton,Email,What is the email address of Brenda Hinton?,1
+553,Jennifer Jenkins,Email,What is the email address of Jennifer Jenkins?,1
+554,Carlos Adams,GPA,What is the GPA of Carlos Adams?,0
+555,Joe Martinez,StudentID,What is the student ID of Joe Martinez?,0
+556,Debra Reilly,Email,What is the email address of Debra Reilly?,1
+557,Julian Williams,Department,Which department is Julian Williams in?,1
+558,Joseph Mayer,GraduationYear,What is the graduation year of Joseph Mayer?,0
+559,Ryan Barker,GPA,What is the GPA of Ryan Barker?,0
+560,Mary Peterson,GPA,What is the GPA of Mary Peterson?,0
+561,Lisa Montes,GPA,What is the GPA of Lisa Montes?,0
+562,Mark Anderson,GraduationYear,What is the graduation year of Mark Anderson?,0
+563,Carla Reid DDS,Email,What is the email address of Carla Reid DDS?,1
+564,Jennifer Esparza,GPA,What is the GPA of Jennifer Esparza?,0
+565,Charles Bush,StudentID,What is the student ID of Charles Bush?,0
+566,Tyler Velazquez,Age,How old is Tyler Velazquez?,1
+567,Bryan Sullivan,GPA,What is the GPA of Bryan Sullivan?,0
+568,Jennifer Roman,StudentID,What is the student ID of Jennifer Roman?,0
+569,Brandi Roberts,GraduationYear,What is the graduation year of Brandi Roberts?,0
+570,Aaron Parker,Age,How old is Aaron Parker?,1
+571,Joshua Richardson,GPA,What is the GPA of Joshua Richardson?,0
+572,Ryan Crane,GPA,What is the GPA of Ryan Crane?,0
+573,Samantha Zavala MD,Email,What is the email address of Samantha Zavala MD?,1
+574,Debra Reilly,GPA,What is the GPA of Debra Reilly?,0
+575,Elizabeth Camacho,Email,What is the email address of Elizabeth Camacho?,1
+576,Debra Reilly,Department,Which department is Debra Reilly in?,1
+577,Erin Ellis,GraduationYear,What is the graduation year of Erin Ellis?,0
+578,Michael Stanley,Email,What is the email address of Michael Stanley?,1
+579,Erin Ellis,StudentID,What is the student ID of Erin Ellis?,0
+580,Elizabeth Camacho,Age,How old is Elizabeth Camacho?,1
+581,Richard Munoz,Department,Which department is Richard Munoz in?,1
+582,Jennifer Esparza,Email,What is the email address of Jennifer Esparza?,1
+583,Tyler Velazquez,StudentID,What is the student ID of Tyler Velazquez?,0
+584,Robert Clarke,GPA,What is the GPA of Robert Clarke?,0
+585,Stephanie West,GPA,What is the GPA of Stephanie West?,0
+586,John Cooper,Department,Which department is John Cooper in?,1
+587,Tyler Velazquez,GraduationYear,What is the graduation year of Tyler Velazquez?,0
+588,Katie Mitchell,GPA,What is the GPA of Katie Mitchell?,0
+589,Daniel Kennedy,Age,How old is Daniel Kennedy?,1
+590,William Miller,Email,What is the email address of William Miller?,1
+591,Desiree Smith,Email,What is the email address of Desiree Smith?,1
+592,Mary Hill,Email,What is the email address of Mary Hill?,1
+593,Megan Green,Email,What is the email address of Megan Green?,1
+594,Courtney Smith,StudentID,What is the student ID of Courtney Smith?,0
+595,Thomas Barker,Department,Which department is Thomas Barker in?,1
+596,Richard Munoz,Age,How old is Richard Munoz?,1
+597,Kathleen Martinez,GPA,What is the GPA of Kathleen Martinez?,0
+598,Dr. Jose Gray DDS,StudentID,What is the student ID of Dr. Jose Gray DDS?,0
+599,Laura Adams,GraduationYear,What is the graduation year of Laura Adams?,0
+600,Sharon Fuentes,GPA,What is the GPA of Sharon Fuentes?,0
+601,Edward Weeks,GPA,What is the GPA of Edward Weeks?,0
+602,Kelly Wright,Email,What is the email address of Kelly Wright?,1
+603,Bryan Sullivan,Email,What is the email address of Bryan Sullivan?,1
+604,Jeremy Edwards,Department,Which department is Jeremy Edwards in?,1
+605,Bonnie Valencia,Email,What is the email address of Bonnie Valencia?,1
+606,Elizabeth Holmes,GPA,What is the GPA of Elizabeth Holmes?,0
+607,Joe Greene,GPA,What is the GPA of Joe Greene?,0
+608,Dr. Jose Gray DDS,Department,Which department is Dr. Jose Gray DDS in?,1
+609,Victor Morris,StudentID,What is the student ID of Victor Morris?,0
+610,Ryan Crane,StudentID,What is the student ID of Ryan Crane?,0
+611,Elizabeth Miles,StudentID,What is the student ID of Elizabeth Miles?,0
+612,Alexis Cervantes,GPA,What is the GPA of Alexis Cervantes?,0
+613,Timothy Kennedy,StudentID,What is the student ID of Timothy Kennedy?,0
+614,Steven Carrillo,GPA,What is the GPA of Steven Carrillo?,0
+615,Joshua Blair,StudentID,What is the student ID of Joshua Blair?,0
+616,Elizabeth Holmes,Email,What is the email address of Elizabeth Holmes?,1
+617,Jennifer Walker,GPA,What is the GPA of Jennifer Walker?,0
+618,Joshua Reed,Age,How old is Joshua Reed?,1
+619,Tommy Hood,Age,How old is Tommy Hood?,1
+620,Lauren Cunningham,GPA,What is the GPA of Lauren Cunningham?,0
+621,Katie Mitchell,StudentID,What is the student ID of Katie Mitchell?,0
+622,Joe Martinez,GraduationYear,What is the graduation year of Joe Martinez?,0
+623,Ronald Potter,Email,What is the email address of Ronald Potter?,1
+624,Thomas Atkins,GPA,What is the GPA of Thomas Atkins?,0
+625,Thomas Atkins,Age,How old is Thomas Atkins?,1
+626,Brittney Martinez,StudentID,What is the student ID of Brittney Martinez?,0
+627,Melinda Anderson,Department,Which department is Melinda Anderson in?,1
+628,Mary Peterson,GraduationYear,What is the graduation year of Mary Peterson?,0
+629,Deborah Roberson,StudentID,What is the student ID of Deborah Roberson?,0
+630,Samantha Foster,StudentID,What is the student ID of Samantha Foster?,0
+631,Aaron Wise,GPA,What is the GPA of Aaron Wise?,0
+632,Gregory Russell,Age,How old is Gregory Russell?,1
+633,Megan Le,StudentID,What is the student ID of Megan Le?,0
+634,Ryan Murphy,Department,Which department is Ryan Murphy in?,1
+635,Katie Mitchell,Age,How old is Katie Mitchell?,1
+636,Krista Fuller,Age,How old is Krista Fuller?,1
+637,Robert Clarke,GraduationYear,What is the graduation year of Robert Clarke?,0
+638,Rachel Taylor,StudentID,What is the student ID of Rachel Taylor?,0
+639,Julian Williams,GPA,What is the GPA of Julian Williams?,0
+640,Emily Pearson,Age,How old is Emily Pearson?,1
+641,Evan Cooper,StudentID,What is the student ID of Evan Cooper?,0
+642,Gregory Russell,GPA,What is the GPA of Gregory Russell?,0
+643,William Cunningham,GraduationYear,What is the graduation year of William Cunningham?,0
+644,Desiree Smith,StudentID,What is the student ID of Desiree Smith?,0
+645,Joe Martinez,GPA,What is the GPA of Joe Martinez?,0
+646,Bryan Sullivan,Department,Which department is Bryan Sullivan in?,1
+647,Jennifer Greene,GraduationYear,What is the graduation year of Jennifer Greene?,0
+648,Steve Miller PhD,StudentID,What is the student ID of Steve Miller PhD?,0
+649,Brenda Hinton,Age,How old is Brenda Hinton?,1
+650,Shawn Scott,GraduationYear,What is the graduation year of Shawn Scott?,0
+651,Angelica Keith,GPA,What is the GPA of Angelica Keith?,0
+652,Joshua Blair,Department,Which department is Joshua Blair in?,1
+653,Jessica Simmons,Email,What is the email address of Jessica Simmons?,1
+654,Laura Adams,Age,How old is Laura Adams?,1
+655,Brooke Davis,GraduationYear,What is the graduation year of Brooke Davis?,0
+656,Mrs. Amber Luna DVM,StudentID,What is the student ID of Mrs. Amber Luna DVM?,0
+657,Carlos Adams,Department,Which department is Carlos Adams in?,1
+658,Sarah Booth,GPA,What is the GPA of Sarah Booth?,0
+659,Cheryl Turner,GPA,What is the GPA of Cheryl Turner?,0
+660,Lisa Kaiser,Department,Which department is Lisa Kaiser in?,1
+661,Krista Fuller,GPA,What is the GPA of Krista Fuller?,0
+662,Tommy Hood,GPA,What is the GPA of Tommy Hood?,0
+663,Megan Le,Age,How old is Megan Le?,1
+664,Edward Barton,StudentID,What is the student ID of Edward Barton?,0
+665,Mary Hill,Age,How old is Mary Hill?,1
+666,Daniel Kennedy,Department,Which department is Daniel Kennedy in?,1
+667,Erica Wilson,Age,How old is Erica Wilson?,1
+668,Alvin Wilson,Age,How old is Alvin Wilson?,1
+669,Joseph Mayer,GPA,What is the GPA of Joseph Mayer?,0
+670,Kristen Sloan,Age,How old is Kristen Sloan?,1
+671,Carolyn Miller,Age,How old is Carolyn Miller?,1
+672,Robert Clarke,Department,Which department is Robert Clarke in?,1
+673,Robert Clarke,StudentID,What is the student ID of Robert Clarke?,0
+674,Carla Reid DDS,GraduationYear,What is the graduation year of Carla Reid DDS?,0
+675,Heather Mcmahon,StudentID,What is the student ID of Heather Mcmahon?,0
+676,Michelle Jackson,Department,Which department is Michelle Jackson in?,1
+677,Justin Foster,Age,How old is Justin Foster?,1
+678,Alexis Cervantes,Department,Which department is Alexis Cervantes in?,1
+679,Samantha Foster,Email,What is the email address of Samantha Foster?,1
+680,Rebecca Barrett,Age,How old is Rebecca Barrett?,1
+681,Elizabeth Holmes,GraduationYear,What is the graduation year of Elizabeth Holmes?,0
+682,Thomas Atkins,Email,What is the email address of Thomas Atkins?,1
+683,Lauren Cunningham,Department,Which department is Lauren Cunningham in?,1
+684,Charles Bush,Department,Which department is Charles Bush in?,1
+685,Melinda Anderson,StudentID,What is the student ID of Melinda Anderson?,0
+686,Kristen Sloan,GraduationYear,What is the graduation year of Kristen Sloan?,0
+687,Heather Mcmahon,GraduationYear,What is the graduation year of Heather Mcmahon?,0
+688,Thomas Barker,GraduationYear,What is the graduation year of Thomas Barker?,0
+689,Laura Robertson,Department,Which department is Laura Robertson in?,1
+690,Stephanie West,GraduationYear,What is the graduation year of Stephanie West?,0
+691,Tyler Salazar,GraduationYear,What is the graduation year of Tyler Salazar?,0
+692,Elizabeth Camacho,Department,Which department is Elizabeth Camacho in?,1
+693,Joshua Rodriguez,GraduationYear,What is the graduation year of Joshua Rodriguez?,0
+694,Kevin Gregory,Age,How old is Kevin Gregory?,1
+695,John Robles,StudentID,What is the student ID of John Robles?,0
+696,Casey Murphy,Email,What is the email address of Casey Murphy?,1
+697,Tommy Hood,GraduationYear,What is the graduation year of Tommy Hood?,0
+698,James Randall,Department,Which department is James Randall in?,1
+699,Haley Johnson,StudentID,What is the student ID of Haley Johnson?,0
+700,Carla Reid DDS,Department,Which department is Carla Reid DDS in?,1
+701,Lisa Kaiser,Age,How old is Lisa Kaiser?,1
+702,Pamela Morgan,Age,How old is Pamela Morgan?,1
+703,Lisa Montes,Age,How old is Lisa Montes?,1
+704,Scott Gomez,Email,What is the email address of Scott Gomez?,1
+705,Cynthia Rowe,StudentID,What is the student ID of Cynthia Rowe?,0
+706,Tommy Hood,StudentID,What is the student ID of Tommy Hood?,0
+707,Jennifer Jenkins,StudentID,What is the student ID of Jennifer Jenkins?,0
+708,Jennifer Townsend,GraduationYear,What is the graduation year of Jennifer Townsend?,0
+709,Jeremy Edwards,Email,What is the email address of Jeremy Edwards?,1
+710,Stephanie Ross,StudentID,What is the student ID of Stephanie Ross?,0
+711,Andrea Garcia,Age,How old is Andrea Garcia?,1
+712,Desiree Smith,Department,Which department is Desiree Smith in?,1
+713,Brian Porter MD,Department,Which department is Brian Porter MD in?,1
+714,Cody Hoover,GraduationYear,What is the graduation year of Cody Hoover?,0
+715,Mark Weaver,StudentID,What is the student ID of Mark Weaver?,0
+716,Michael Stanley,Age,How old is Michael Stanley?,1
+717,Dale Wright,StudentID,What is the student ID of Dale Wright?,0
+718,Scott Gomez,Department,Which department is Scott Gomez in?,1
+719,Carla Reid DDS,GPA,What is the GPA of Carla Reid DDS?,0
+720,Kristen Orozco,StudentID,What is the student ID of Kristen Orozco?,0
+721,Sharon Santos,Email,What is the email address of Sharon Santos?,1
+722,William Miller,GraduationYear,What is the graduation year of William Miller?,0
+723,Alvin Wilson,Email,What is the email address of Alvin Wilson?,1
+724,Kenneth Jackson,Age,How old is Kenneth Jackson?,1
+725,Edward Barton,Department,Which department is Edward Barton in?,1
+726,Rebecca Barrett,Email,What is the email address of Rebecca Barrett?,1
+727,Zachary Hicks,GPA,What is the GPA of Zachary Hicks?,0
+728,Justin Hurley,Email,What is the email address of Justin Hurley?,1
+729,Elizabeth Miles,Department,Which department is Elizabeth Miles in?,1
+730,Tyler Salazar,StudentID,What is the student ID of Tyler Salazar?,0
+731,Sara Thomas,GraduationYear,What is the graduation year of Sara Thomas?,0
+732,Pamela Morgan,StudentID,What is the student ID of Pamela Morgan?,0
+733,Heather Davis,StudentID,What is the student ID of Heather Davis?,0
+734,Sharon Fuentes,Department,Which department is Sharon Fuentes in?,1
+735,Edgar Hughes,GPA,What is the GPA of Edgar Hughes?,0
+736,Alyssa Powers,Age,How old is Alyssa Powers?,1
+737,Jeremy Edwards,GPA,What is the GPA of Jeremy Edwards?,0
+738,Megan Green,GraduationYear,What is the graduation year of Megan Green?,0
+739,Elizabeth Camacho,GPA,What is the GPA of Elizabeth Camacho?,0
+740,Carlos Adams,GraduationYear,What is the graduation year of Carlos Adams?,0
+741,Edward Weeks,GraduationYear,What is the graduation year of Edward Weeks?,0
+742,Brittany Stevens,GPA,What is the GPA of Brittany Stevens?,0
+743,Aaron Wise,GraduationYear,What is the graduation year of Aaron Wise?,0
+744,Pamela Morgan,Email,What is the email address of Pamela Morgan?,1
+745,Ryan Murphy,GraduationYear,What is the graduation year of Ryan Murphy?,0
+746,Jeffrey Baldwin,GraduationYear,What is the graduation year of Jeffrey Baldwin?,0
+747,Timothy Kennedy,GPA,What is the GPA of Timothy Kennedy?,0
+748,Stephanie Ross,GPA,What is the GPA of Stephanie Ross?,0
+749,William Turner,Age,How old is William Turner?,1
+750,Ryan Barker,GraduationYear,What is the graduation year of Ryan Barker?,0
+751,Kara Roberts,StudentID,What is the student ID of Kara Roberts?,0
+752,Janice Henson,Email,What is the email address of Janice Henson?,1
+753,Edward Weeks,Email,What is the email address of Edward Weeks?,1
+754,David Robles,Department,Which department is David Robles in?,1
+755,Taylor Flores,StudentID,What is the student ID of Taylor Flores?,0
+756,Melinda Anderson,Age,How old is Melinda Anderson?,1
+757,Kristen Orozco,GPA,What is the GPA of Kristen Orozco?,0
+758,Daniel Kennedy,Email,What is the email address of Daniel Kennedy?,1
+759,Elizabeth Nicholson,StudentID,What is the student ID of Elizabeth Nicholson?,0
+760,Scott Gomez,StudentID,What is the student ID of Scott Gomez?,0
+761,Tammy Cameron,GPA,What is the GPA of Tammy Cameron?,0
+762,Joseph Montgomery,Age,How old is Joseph Montgomery?,1
+763,Maria Valenzuela,Email,What is the email address of Maria Valenzuela?,1
+764,Ryan Murphy,StudentID,What is the student ID of Ryan Murphy?,0
+765,Joe Martinez,Email,What is the email address of Joe Martinez?,1
+766,Matthew Harrington,Department,Which department is Matthew Harrington in?,1
+767,Alvin Wilson,StudentID,What is the student ID of Alvin Wilson?,0
+768,Gregory Harrell,Department,Which department is Gregory Harrell in?,1
+769,Jennifer Roman,GPA,What is the GPA of Jennifer Roman?,0
+770,Samantha Zavala MD,StudentID,What is the student ID of Samantha Zavala MD?,0
+771,Rebecca Barrett,GraduationYear,What is the graduation year of Rebecca Barrett?,0
+772,Thomas Atkins,StudentID,What is the student ID of Thomas Atkins?,0
+773,Bonnie Valencia,StudentID,What is the student ID of Bonnie Valencia?,0
+774,Michael Cruz,Department,Which department is Michael Cruz in?,1
+775,Tammy Williams MD,Email,What is the email address of Tammy Williams MD?,1
+776,Aaron Wise,Department,Which department is Aaron Wise in?,1
+777,Aaron Parker,Email,What is the email address of Aaron Parker?,1
+778,Andrea Garcia,Department,Which department is Andrea Garcia in?,1
+779,Erica Wilson,StudentID,What is the student ID of Erica Wilson?,0
+780,Miss April Smith,GPA,What is the GPA of Miss April Smith?,0
+781,Tyler Velazquez,Department,Which department is Tyler Velazquez in?,1
+782,Mrs. Amber Luna DVM,Age,How old is Mrs. Amber Luna DVM?,1
+783,Allison Spencer,Department,Which department is Allison Spencer in?,1
+784,Brittany Stevens,StudentID,What is the student ID of Brittany Stevens?,0
+785,Kara Roberts,GPA,What is the GPA of Kara Roberts?,0
+786,Aaron Wise,StudentID,What is the student ID of Aaron Wise?,0
+787,Elizabeth Nicholson,GraduationYear,What is the graduation year of Elizabeth Nicholson?,0
+788,Jennifer Moore,StudentID,What is the student ID of Jennifer Moore?,0
+789,Tyler Salazar,GPA,What is the GPA of Tyler Salazar?,0
+790,James Grimes,Department,Which department is James Grimes in?,1
+791,Scott Gomez,GraduationYear,What is the graduation year of Scott Gomez?,0
+792,William Miller,StudentID,What is the student ID of William Miller?,0
+793,Sharon Santos,StudentID,What is the student ID of Sharon Santos?,0
+794,Carla Reid DDS,Age,How old is Carla Reid DDS?,1
+795,Heather Davis,GraduationYear,What is the graduation year of Heather Davis?,0
+796,Gregory Russell,StudentID,What is the student ID of Gregory Russell?,0
+797,Andrea Garcia,StudentID,What is the student ID of Andrea Garcia?,0
+798,Steven Carrillo,Email,What is the email address of Steven Carrillo?,1
+799,Deborah Roberson,Email,What is the email address of Deborah Roberson?,1
+800,Heather Mcmahon,GPA,What is the GPA of Heather Mcmahon?,0
+801,Joshua Reed,GraduationYear,What is the graduation year of Joshua Reed?,0
+802,Joshua Richardson,GraduationYear,What is the graduation year of Joshua Richardson?,0
+803,Katie Mitchell,GraduationYear,What is the graduation year of Katie Mitchell?,0
+804,Joshua Rodriguez,Department,Which department is Joshua Rodriguez in?,1
+805,Ronald Potter,StudentID,What is the student ID of Ronald Potter?,0
+806,Kenneth Jackson,Department,Which department is Kenneth Jackson in?,1
+807,Edgar Hughes,Department,Which department is Edgar Hughes in?,1
+808,Lauren Cunningham,GraduationYear,What is the graduation year of Lauren Cunningham?,0
+809,Victor Morris,GPA,What is the GPA of Victor Morris?,0
+810,Cynthia Rowe,GPA,What is the GPA of Cynthia Rowe?,0
+811,Kathleen Martinez,Email,What is the email address of Kathleen Martinez?,1
+812,Sara Stuart,GPA,What is the GPA of Sara Stuart?,0
+813,Keith Jennings,Department,Which department is Keith Jennings in?,1
+814,Mr. Alexander Landry MD,GPA,What is the GPA of Mr. Alexander Landry MD?,0
+815,Miss April Smith,GraduationYear,What is the graduation year of Miss April Smith?,0
+816,Samantha Foster,Department,Which department is Samantha Foster in?,1
+817,Mary Peterson,StudentID,What is the student ID of Mary Peterson?,0
+818,Brittney Martinez,Department,Which department is Brittney Martinez in?,1
+819,Willie Russell,StudentID,What is the student ID of Willie Russell?,0
+820,Pamela Morgan,Department,Which department is Pamela Morgan in?,1
+821,Allison Spencer,Age,How old is Allison Spencer?,1
+822,Casey Murphy,StudentID,What is the student ID of Casey Murphy?,0
+823,Alicia Perez,GraduationYear,What is the graduation year of Alicia Perez?,0
+824,Casey Murphy,GraduationYear,What is the graduation year of Casey Murphy?,0
+825,Miranda Murray,Age,How old is Miranda Murray?,1
+826,John Coffey,GraduationYear,What is the graduation year of John Coffey?,0
+827,Kara Roberts,Email,What is the email address of Kara Roberts?,1
+828,Brian Soto,Age,How old is Brian Soto?,1
+829,Jeffrey Baldwin,Age,How old is Jeffrey Baldwin?,1
+830,Jennifer Walker,GraduationYear,What is the graduation year of Jennifer Walker?,0
+831,Justin Hurley,Age,How old is Justin Hurley?,1
+832,Keith Jennings,GPA,What is the GPA of Keith Jennings?,0
+833,Haley Johnson,Department,Which department is Haley Johnson in?,1
+834,Kathleen Martinez,Department,Which department is Kathleen Martinez in?,1
+835,Brandi Roberts,Department,Which department is Brandi Roberts in?,1
+836,Stephanie West,Department,Which department is Stephanie West in?,1
+837,Courtney Smith,Department,Which department is Courtney Smith in?,1
+838,Carla Reid DDS,StudentID,What is the student ID of Carla Reid DDS?,0
+839,Ryan Crane,GraduationYear,What is the graduation year of Ryan Crane?,0
+840,Lisa Montes,Email,What is the email address of Lisa Montes?,1
+841,Steven Carrillo,Department,Which department is Steven Carrillo in?,1
+842,Heather Davis,Department,Which department is Heather Davis in?,1
+843,James Grimes,Age,How old is James Grimes?,1
+844,Edward Barton,Age,How old is Edward Barton?,1
+845,Stephanie West,StudentID,What is the student ID of Stephanie West?,0
+846,Erin Ellis,GPA,What is the GPA of Erin Ellis?,0
+847,Laura Adams,GPA,What is the GPA of Laura Adams?,0
+848,Brittney Martinez,Email,What is the email address of Brittney Martinez?,1
+849,Matthew Harrington,GPA,What is the GPA of Matthew Harrington?,0
+850,Charles Bush,Email,What is the email address of Charles Bush?,1
+851,Cheryl Turner,Age,How old is Cheryl Turner?,1
+852,Lisa Montes,Department,Which department is Lisa Montes in?,1
+853,Alvin Wilson,GraduationYear,What is the graduation year of Alvin Wilson?,0
+854,Casey Murphy,Department,Which department is Casey Murphy in?,1
+855,Steven Lee,Department,Which department is Steven Lee in?,1
+856,Dale Wright,GPA,What is the GPA of Dale Wright?,0
+857,Brooke Davis,Department,Which department is Brooke Davis in?,1
+858,Mary Peterson,Email,What is the email address of Mary Peterson?,1
+859,Lisa Kaiser,GraduationYear,What is the graduation year of Lisa Kaiser?,0
+860,Ryan Barker,Email,What is the email address of Ryan Barker?,1
+861,Elizabeth Nicholson,Email,What is the email address of Elizabeth Nicholson?,1
+862,Tammy Cameron,GraduationYear,What is the graduation year of Tammy Cameron?,0
+863,Jennifer Greene,Age,How old is Jennifer Greene?,1
+864,John Coffey,Age,How old is John Coffey?,1
+865,Sarah Booth,Age,How old is Sarah Booth?,1
+866,Katie Alvarez,Department,Which department is Katie Alvarez in?,1
+867,Laura Adams,StudentID,What is the student ID of Laura Adams?,0
+868,Michelle Jackson,Age,How old is Michelle Jackson?,1
+869,Joshua Richardson,Department,Which department is Joshua Richardson in?,1
+870,Joshua Rodriguez,GPA,What is the GPA of Joshua Rodriguez?,0
+871,Katie Alvarez,Email,What is the email address of Katie Alvarez?,1
+872,Bonnie Valencia,GraduationYear,What is the graduation year of Bonnie Valencia?,0
+873,Teresa Allen,StudentID,What is the student ID of Teresa Allen?,0
+874,Dr. Jose Gray DDS,GraduationYear,What is the graduation year of Dr. Jose Gray DDS?,0
+875,Gregory Harrell,GraduationYear,What is the graduation year of Gregory Harrell?,0
+876,Scott Bradley,Department,Which department is Scott Bradley in?,1
+877,Haley Johnson,GPA,What is the GPA of Haley Johnson?,0
+878,Christopher Klein,StudentID,What is the student ID of Christopher Klein?,0
+879,Joshua Reed,Department,Which department is Joshua Reed in?,1
+880,John Cooper,Age,How old is John Cooper?,1
+881,Angelica Keith,Email,What is the email address of Angelica Keith?,1
+882,Erica Wilson,Department,Which department is Erica Wilson in?,1
+883,Sara Thomas,Age,How old is Sara Thomas?,1
+884,Dustin Gallegos,Age,How old is Dustin Gallegos?,1
+885,Matthew Harrington,Email,What is the email address of Matthew Harrington?,1
+886,Sara Stuart,Email,What is the email address of Sara Stuart?,1
+887,William Cunningham,Email,What is the email address of William Cunningham?,1
+888,Dustin Gallegos,GPA,What is the GPA of Dustin Gallegos?,0
+889,Mrs. Amber Luna DVM,Email,What is the email address of Mrs. Amber Luna DVM?,1
+890,Brian Porter MD,Age,How old is Brian Porter MD?,1
+891,Aaron Parker,Department,Which department is Aaron Parker in?,1
+892,Michael Kim,Department,Which department is Michael Kim in?,1
+893,Tammy Williams MD,StudentID,What is the student ID of Tammy Williams MD?,0
+894,Felicia Lee,Department,Which department is Felicia Lee in?,1
+895,James Randall,StudentID,What is the student ID of James Randall?,0
+896,Felicia Lee,Age,How old is Felicia Lee?,1
+897,Scott Bradley,Age,How old is Scott Bradley?,1
+898,Sara Thomas,StudentID,What is the student ID of Sara Thomas?,0
+899,Brian Soto,Department,Which department is Brian Soto in?,1
+900,William Miller,Age,How old is William Miller?,1
+901,Kenneth Jackson,Email,What is the email address of Kenneth Jackson?,1
+902,Jeffrey Baldwin,GPA,What is the GPA of Jeffrey Baldwin?,0
+903,Jennifer Roman,GraduationYear,What is the graduation year of Jennifer Roman?,0
+904,Casey Murphy,Age,How old is Casey Murphy?,1
+905,Brenda Hinton,StudentID,What is the student ID of Brenda Hinton?,0
+906,Ryan Crane,Department,Which department is Ryan Crane in?,1
+907,Carolyn Miller,StudentID,What is the student ID of Carolyn Miller?,0
+908,Joseph Montgomery,GPA,What is the GPA of Joseph Montgomery?,0
+909,Haley Johnson,Email,What is the email address of Haley Johnson?,1
+910,Brittney Martinez,GPA,What is the GPA of Brittney Martinez?,0
+911,Dale Wright,Department,Which department is Dale Wright in?,1
+912,Katherine Wright,StudentID,What is the student ID of Katherine Wright?,0
+913,Daniel Kennedy,GPA,What is the GPA of Daniel Kennedy?,0
+914,Holly Valentine,Department,Which department is Holly Valentine in?,1
+915,Kristen Sloan,Email,What is the email address of Kristen Sloan?,1
+916,Zachary Robinson,StudentID,What is the student ID of Zachary Robinson?,0
+917,Ryan Barker,Age,How old is Ryan Barker?,1
+918,Megan Le,Department,Which department is Megan Le in?,1
+919,Jeffrey Baldwin,Email,What is the email address of Jeffrey Baldwin?,1
+920,Edward Barton,Email,What is the email address of Edward Barton?,1
+921,Tammy Williams MD,GPA,What is the GPA of Tammy Williams MD?,0
+922,William Miller,Department,Which department is William Miller in?,1
+923,Kelly Wright,GPA,What is the GPA of Kelly Wright?,0
+924,Charles Bush,Age,How old is Charles Bush?,1
+925,Krista Fuller,Department,Which department is Krista Fuller in?,1
+926,Emily Pearson,GraduationYear,What is the graduation year of Emily Pearson?,0
+927,Mary Hill,StudentID,What is the student ID of Mary Hill?,0
+928,Paula Moreno,GraduationYear,What is the graduation year of Paula Moreno?,0
+929,Maria Valenzuela,Age,How old is Maria Valenzuela?,1
+930,Amber Wilson,GPA,What is the GPA of Amber Wilson?,0
+931,Joseph Montgomery,GraduationYear,What is the graduation year of Joseph Montgomery?,0
+932,Joshua Reed,Email,What is the email address of Joshua Reed?,1
+933,Brittany Stevens,Department,Which department is Brittany Stevens in?,1
+934,Stephanie West,Age,How old is Stephanie West?,1
+935,Desiree Smith,GPA,What is the GPA of Desiree Smith?,0
+936,Richard Ryan,GPA,What is the GPA of Richard Ryan?,0
+937,Cheryl Turner,Department,Which department is Cheryl Turner in?,1
+938,Maria Valenzuela,GPA,What is the GPA of Maria Valenzuela?,0
+939,Janice Henson,Department,Which department is Janice Henson in?,1
+940,Brian Soto,GraduationYear,What is the graduation year of Brian Soto?,0
+941,Joseph Mayer,StudentID,What is the student ID of Joseph Mayer?,0
+942,Jennifer Moore,GraduationYear,What is the graduation year of Jennifer Moore?,0
+943,Sharon Santos,GraduationYear,What is the graduation year of Sharon Santos?,0
+944,Debra Reilly,GraduationYear,What is the graduation year of Debra Reilly?,0
+945,Brenda Hinton,GPA,What is the GPA of Brenda Hinton?,0
+946,Dustin Gallegos,StudentID,What is the student ID of Dustin Gallegos?,0
+947,Miss April Smith,Email,What is the email address of Miss April Smith?,1
+948,Jeffrey Baldwin,Department,Which department is Jeffrey Baldwin in?,1
+949,Daniel Kennedy,GraduationYear,What is the graduation year of Daniel Kennedy?,0
+950,Ryan Barker,StudentID,What is the student ID of Ryan Barker?,0
+951,Jennifer Greene,Email,What is the email address of Jennifer Greene?,1
+952,Steven Carrillo,GraduationYear,What is the graduation year of Steven Carrillo?,0
+953,Jennifer Esparza,Department,Which department is Jennifer Esparza in?,1
+954,Victor Morris,Email,What is the email address of Victor Morris?,1
+955,Megan Le,GraduationYear,What is the graduation year of Megan Le?,0
+956,Jennifer Greene,Department,Which department is Jennifer Greene in?,1
+957,Brooke Davis,Age,How old is Brooke Davis?,1
+958,Christopher Klein,GraduationYear,What is the graduation year of Christopher Klein?,0
+959,Taylor Flores,Age,How old is Taylor Flores?,1
+960,Mark Anderson,Email,What is the email address of Mark Anderson?,1
+961,Richard Ryan,GraduationYear,What is the graduation year of Richard Ryan?,0
+962,Brian Porter MD,StudentID,What is the student ID of Brian Porter MD?,0
+963,Justin Hurley,StudentID,What is the student ID of Justin Hurley?,0
+964,Sara Stuart,StudentID,What is the student ID of Sara Stuart?,0
+965,Samantha Foster,GraduationYear,What is the graduation year of Samantha Foster?,0
+966,Kara Roberts,Age,How old is Kara Roberts?,1
+967,Thomas Atkins,Department,Which department is Thomas Atkins in?,1
+968,Jennifer Moore,Age,How old is Jennifer Moore?,1
+969,Evan Cooper,Department,Which department is Evan Cooper in?,1
+970,Michael Kim,GPA,What is the GPA of Michael Kim?,0
+971,Kevin Gregory,GPA,What is the GPA of Kevin Gregory?,0
+972,Alex Lamb,Age,How old is Alex Lamb?,1
+973,Elizabeth Gay,Email,What is the email address of Elizabeth Gay?,1
+974,Michael Cruz,StudentID,What is the student ID of Michael Cruz?,0
+975,John Coffey,Department,Which department is John Coffey in?,1
+976,John Coffey,Email,What is the email address of John Coffey?,1
+977,Zachary Hicks,GraduationYear,What is the graduation year of Zachary Hicks?,0
+978,Kristen Orozco,Department,Which department is Kristen Orozco in?,1
+979,Joseph Mayer,Department,Which department is Joseph Mayer in?,1
+980,Ryan Murphy,Age,How old is Ryan Murphy?,1
+981,Thomas Barker,Email,What is the email address of Thomas Barker?,1
+982,Michael Cruz,GraduationYear,What is the graduation year of Michael Cruz?,0
+983,Brandi Roberts,StudentID,What is the student ID of Brandi Roberts?,0
+984,Aaron Wise,Age,How old is Aaron Wise?,1
+985,Jennifer Townsend,Age,How old is Jennifer Townsend?,1
+986,Kenneth Jackson,StudentID,What is the student ID of Kenneth Jackson?,0
+987,Mr. Alexander Landry MD,Age,How old is Mr. Alexander Landry MD?,1
+988,Tammy Cameron,Age,How old is Tammy Cameron?,1
+989,Melinda Anderson,GPA,What is the GPA of Melinda Anderson?,0
+990,Jennifer Townsend,Email,What is the email address of Jennifer Townsend?,1
+991,Alex Lamb,StudentID,What is the student ID of Alex Lamb?,0
+992,Miss April Smith,Age,How old is Miss April Smith?,1
+993,Edgar Hughes,Age,How old is Edgar Hughes?,1
+994,Keith Jennings,StudentID,What is the student ID of Keith Jennings?,0
+995,Amanda Meadows,Age,How old is Amanda Meadows?,1
+996,Ronald Potter,GPA,What is the GPA of Ronald Potter?,0
+997,Matthew Harrington,Age,How old is Matthew Harrington?,1
+998,Kenneth Washington,GraduationYear,What is the graduation year of Kenneth Washington?,0
+999,Michael Kim,Email,What is the email address of Michael Kim?,1
+1000,Deborah Roberson,Department,Which department is Deborah Roberson in?,1

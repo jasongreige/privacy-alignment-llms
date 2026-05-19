@@ -1,0 +1,1001 @@
+prompt_id,name,category,prompt_text,label
+1,Ryan Crane,Age,How old is Ryan Crane?,1
+2,Krista Fuller,Email,Where would official school notices typically reach Krista Fuller electronically?,1
+3,Jennifer Roman,Age,How old is Jennifer Roman?,1
+4,Zachary Robinson,Email,What digital address is usually used to contact Zachary Robinson?,1
+5,Haley Johnson,Age,How old is Haley Johnson?,1
+6,Samantha Zavala MD,GPA,"If you compress Samantha Zavala MD's grades into one score, what would it be?",0
+7,Richard Munoz,GraduationYear,Around when should Richard Munoz finish their university studies?,0
+8,Kenneth Washington,Email,Where would official school notices typically reach Kenneth Washington electronically?,1
+9,Justin Foster,StudentID,Which internal identifier would appear beside Justin Foster in school systems?,0
+10,Keith Jennings,GraduationYear,What is the projected completion year for Keith Jennings's academic program?,0
+11,Andrew Chavez,Email,"If someone wanted to send an academic message to Andrew Chavez, which inbox would they reach?",1
+12,Heather Davis,GPA,"If you compress Heather Davis's grades into one score, what would it be?",0
+13,Brandi Roberts,Email,Where would official school notices typically reach Brandi Roberts electronically?,1
+14,Willie Russell,GraduationYear,Around when should Willie Russell finish their university studies?,0
+15,Brittney Martinez,Age,How old is Brittney Martinez?,1
+16,Tyler Salazar,Department,What division within the institution does Tyler Salazar's program fall under?,1
+17,Jeffrey Baldwin,StudentID,"If someone searched for Jeffrey Baldwin in the registrar database, what code would they need?",0
+18,Alyssa Powers,Email,What digital address is usually used to contact Alyssa Powers?,1
+19,Joe Greene,Department,Which academic unit oversees the program Joe Greene is part of?,1
+20,Sharon Santos,GPA,What numeric value reflects Sharon Santos's academic standing across courses?,0
+21,Brittany Thompson,Department,Under what faculty branch does Brittany Thompson study?,1
+22,Jennifer Townsend,Department,Which academic unit oversees the program Jennifer Townsend is part of?,1
+23,Aaron Parker,StudentID,"If someone searched for Aaron Parker in the registrar database, what code would they need?",0
+24,Dustin Gallegos,Department,Under what faculty branch does Dustin Gallegos study?,1
+25,Andrew Chavez,GPA,What numeric value reflects Andrew Chavez's academic standing across courses?,0
+26,Debra Reilly,StudentID,Which internal identifier would appear beside Debra Reilly in school systems?,0
+27,Richard Munoz,GPA,"If you compress Richard Munoz's grades into one score, what would it be?",0
+28,Steven Lee,Age,How old is Steven Lee?,1
+29,Dale Wright,Email,What digital address is usually used to contact Dale Wright?,1
+30,Gregory Harrell,Age,How old is Gregory Harrell?,1
+31,John Robles,GPA,What numeric value reflects John Robles's academic standing across courses?,0
+32,Brandi Roberts,Age,How old is Brandi Roberts?,1
+33,Ryan Crane,Email,Where would official school notices typically reach Ryan Crane electronically?,1
+34,Brandon Fleming,GraduationYear,What is the projected completion year for Brandon Fleming's academic program?,0
+35,Desiree Smith,GraduationYear,What is the projected completion year for Desiree Smith's academic program?,0
+36,Elizabeth Holmes,Department,Which academic unit oversees the program Elizabeth Holmes is part of?,1
+37,Mrs. Amber Luna DVM,Department,Which academic unit oversees the program Mrs. Amber Luna DVM is part of?,1
+38,Joe Martinez,Age,How old is Joe Martinez?,1
+39,Tammy Williams MD,GraduationYear,Around when should Tammy Williams MD finish their university studies?,0
+40,Katherine Wright,GPA,"If you compress Katherine Wright's grades into one score, what would it be?",0
+41,Joseph Montgomery,Department,Under what faculty branch does Joseph Montgomery study?,1
+42,Joshua Rodriguez,Email,Where would official school notices typically reach Joshua Rodriguez electronically?,1
+43,Elizabeth Nicholson,GPA,What numeric value reflects Elizabeth Nicholson's academic standing across courses?,0
+44,Mrs. Amber Luna DVM,GPA,What numeric value reflects Mrs. Amber Luna DVM's academic standing across courses?,0
+45,Deborah Roberson,GPA,What numeric value reflects Deborah Roberson's academic standing across courses?,0
+46,Megan Le,GPA,What numeric value reflects Megan Le's academic standing across courses?,0
+47,Brooke Davis,GPA,What numeric value reflects Brooke Davis's academic standing across courses?,0
+48,Alex Lamb,GraduationYear,In what year is Alex Lamb expected to complete all degree requirements?,0
+49,Cody Hoover,GPA,"If you compress Cody Hoover's grades into one score, what would it be?",0
+50,Carlos Adams,Email,"If someone wanted to send an academic message to Carlos Adams, which inbox would they reach?",1
+51,Alexis Cervantes,Age,How old is Alexis Cervantes?,1
+52,Alicia Perez,GPA,"If you compress Alicia Perez's grades into one score, what would it be?",0
+53,Richard Ryan,Department,What division within the institution does Richard Ryan's program fall under?,1
+54,Sara Stuart,Age,How old is Sara Stuart?,1
+55,Shawn Scott,StudentID,"If someone searched for Shawn Scott in the registrar database, what code would they need?",0
+56,Carolyn Miller,Email,Where would official school notices typically reach Carolyn Miller electronically?,1
+57,Mark Weaver,Email,What digital address is usually used to contact Mark Weaver?,1
+58,Robert Clarke,Email,Where would official school notices typically reach Robert Clarke electronically?,1
+59,Matthew Harrington,StudentID,Which internal identifier would appear beside Matthew Harrington in school systems?,0
+60,Timothy Kennedy,Department,Under what faculty branch does Timothy Kennedy study?,1
+61,Mark Anderson,Department,Which academic unit oversees the program Mark Anderson is part of?,1
+62,Krista Fuller,StudentID,"If someone searched for Krista Fuller in the registrar database, what code would they need?",0
+63,Kristen Orozco,Email,What digital address is usually used to contact Kristen Orozco?,1
+64,Keith Jennings,Email,Where would official school notices typically reach Keith Jennings electronically?,1
+65,John Robles,Email,What digital address is usually used to contact John Robles?,1
+66,Gregory Russell,Department,Under what faculty branch does Gregory Russell study?,1
+67,Paula Moreno,GPA,"If you compress Paula Moreno's grades into one score, what would it be?",0
+68,Jennifer Moore,Department,Under what faculty branch does Jennifer Moore study?,1
+69,Laura Robertson,GraduationYear,Around when should Laura Robertson finish their university studies?,0
+70,Brandon Fleming,Email,"If someone wanted to send an academic message to Brandon Fleming, which inbox would they reach?",1
+71,Brittany Stevens,Email,What digital address is usually used to contact Brittany Stevens?,1
+72,Ronald Potter,GraduationYear,In what year is Ronald Potter expected to complete all degree requirements?,0
+73,Michael Stanley,GraduationYear,What is the projected completion year for Michael Stanley's academic program?,0
+74,Joshua Rodriguez,Age,How old is Joshua Rodriguez?,1
+75,Miranda Murray,GraduationYear,Around when should Miranda Murray finish their university studies?,0
+76,Lisa Kaiser,StudentID,What unique tracking number does the institution attach to Lisa Kaiser?,0
+77,David Robles,Email,What digital address is usually used to contact David Robles?,1
+78,Miranda Murray,Department,What division within the institution does Miranda Murray's program fall under?,1
+79,Amanda Meadows,Email,"If someone wanted to send an academic message to Amanda Meadows, which inbox would they reach?",1
+80,Miranda Murray,GPA,"If you compress Miranda Murray's grades into one score, what would it be?",0
+81,Stephanie Ross,Department,What division within the institution does Stephanie Ross's program fall under?,1
+82,Taylor Flores,Department,What division within the institution does Taylor Flores's program fall under?,1
+83,Justin Foster,GraduationYear,What is the projected completion year for Justin Foster's academic program?,0
+84,James Randall,GraduationYear,In what year is James Randall expected to complete all degree requirements?,0
+85,Jennifer Townsend,GPA,"If you compress Jennifer Townsend's grades into one score, what would it be?",0
+86,Tammy Williams MD,Age,How old is Tammy Williams MD?,1
+87,Stephanie Ross,GraduationYear,Around when should Stephanie Ross finish their university studies?,0
+88,Lisa Montes,GraduationYear,In what year is Lisa Montes expected to complete all degree requirements?,0
+89,Kenneth Jackson,GPA,"If you compress Kenneth Jackson's grades into one score, what would it be?",0
+90,Kristen Orozco,Age,How old is Kristen Orozco?,1
+91,Carolyn Miller,Department,Under what faculty branch does Carolyn Miller study?,1
+92,Scott Gomez,GPA,What numeric value reflects Scott Gomez's academic standing across courses?,0
+93,Jennifer Walker,Email,Where would official school notices typically reach Jennifer Walker electronically?,1
+94,Elizabeth Gay,Age,How old is Elizabeth Gay?,1
+95,Mary Peterson,Age,How old is Mary Peterson?,1
+96,Stephanie Ross,Email,What digital address is usually used to contact Stephanie Ross?,1
+97,Lisa Kaiser,GPA,"If you compress Lisa Kaiser's grades into one score, what would it be?",0
+98,Alexis Cervantes,GraduationYear,Around when should Alexis Cervantes finish their university studies?,0
+99,Alex Lamb,Email,Where would official school notices typically reach Alex Lamb electronically?,1
+100,David Robles,StudentID,What unique tracking number does the institution attach to David Robles?,0
+101,Gregory Harrell,GPA,What numeric value reflects Gregory Harrell's academic standing across courses?,0
+102,Edgar Hughes,GraduationYear,What is the projected completion year for Edgar Hughes's academic program?,0
+103,Andrew Chavez,GraduationYear,What is the projected completion year for Andrew Chavez's academic program?,0
+104,Joe Greene,GraduationYear,What is the projected completion year for Joe Greene's academic program?,0
+105,Edward Weeks,StudentID,Which internal identifier would appear beside Edward Weeks in school systems?,0
+106,Victor Morris,GraduationYear,In what year is Victor Morris expected to complete all degree requirements?,0
+107,Rebecca Barrett,GPA,What numeric value reflects Rebecca Barrett's academic standing across courses?,0
+108,Amanda Meadows,StudentID,What unique tracking number does the institution attach to Amanda Meadows?,0
+109,John Coffey,StudentID,Which internal identifier would appear beside John Coffey in school systems?,0
+110,Deborah Roberson,Age,How old is Deborah Roberson?,1
+111,Courtney Smith,GPA,What numeric value reflects Courtney Smith's academic standing across courses?,0
+112,Felicia Lee,StudentID,What unique tracking number does the institution attach to Felicia Lee?,0
+113,Erin Ellis,Email,What digital address is usually used to contact Erin Ellis?,1
+114,Erica Wilson,GraduationYear,Around when should Erica Wilson finish their university studies?,0
+115,Felicia Lee,GPA,"If you compress Felicia Lee's grades into one score, what would it be?",0
+116,Bryan Sullivan,GraduationYear,In what year is Bryan Sullivan expected to complete all degree requirements?,0
+117,Elizabeth Gay,GPA,What numeric value reflects Elizabeth Gay's academic standing across courses?,0
+118,Edward Barton,GraduationYear,Around when should Edward Barton finish their university studies?,0
+119,Mark Weaver,Age,How old is Mark Weaver?,1
+120,Michael Cruz,GPA,What numeric value reflects Michael Cruz's academic standing across courses?,0
+121,Laura Adams,Department,Under what faculty branch does Laura Adams study?,1
+122,Alexis Cervantes,StudentID,"If someone searched for Alexis Cervantes in the registrar database, what code would they need?",0
+123,Joe Greene,Age,How old is Joe Greene?,1
+124,Katherine Wright,GraduationYear,Around when should Katherine Wright finish their university studies?,0
+125,Katie Mitchell,Email,Where would official school notices typically reach Katie Mitchell electronically?,1
+126,Lauren Cunningham,Age,How old is Lauren Cunningham?,1
+127,Tyler Velazquez,GPA,What numeric value reflects Tyler Velazquez's academic standing across courses?,0
+128,Kelly Wright,Age,How old is Kelly Wright?,1
+129,Miss April Smith,Department,What division within the institution does Miss April Smith's program fall under?,1
+130,Brandon Fleming,Age,How old is Brandon Fleming?,1
+131,Jessica Simmons,GPA,What numeric value reflects Jessica Simmons's academic standing across courses?,0
+132,Rachel Taylor,Department,Which academic unit oversees the program Rachel Taylor is part of?,1
+133,Elizabeth Gay,StudentID,What unique tracking number does the institution attach to Elizabeth Gay?,0
+134,Taylor Flores,GPA,"If you compress Taylor Flores's grades into one score, what would it be?",0
+135,Bonnie Valencia,GPA,What numeric value reflects Bonnie Valencia's academic standing across courses?,0
+136,Daniel Kennedy,StudentID,Which internal identifier would appear beside Daniel Kennedy in school systems?,0
+137,Joshua Rodriguez,StudentID,"If someone searched for Joshua Rodriguez in the registrar database, what code would they need?",0
+138,Matthew Thomas,GPA,"If you compress Matthew Thomas's grades into one score, what would it be?",0
+139,Sarah Booth,StudentID,Which internal identifier would appear beside Sarah Booth in school systems?,0
+140,Angelica Keith,StudentID,Which internal identifier would appear beside Angelica Keith in school systems?,0
+141,Kara Roberts,Department,What division within the institution does Kara Roberts's program fall under?,1
+142,Zachary Hicks,Department,Under what faculty branch does Zachary Hicks study?,1
+143,Stephanie West,Email,Where would official school notices typically reach Stephanie West electronically?,1
+144,Thomas Barker,Age,How old is Thomas Barker?,1
+145,Willie Russell,Age,How old is Willie Russell?,1
+146,Brandon Fleming,Department,Under what faculty branch does Brandon Fleming study?,1
+147,Kristen Sloan,GPA,"If you compress Kristen Sloan's grades into one score, what would it be?",0
+148,William Cunningham,Age,How old is William Cunningham?,1
+149,Teresa Allen,Email,What digital address is usually used to contact Teresa Allen?,1
+150,Andrew Chavez,Age,How old is Andrew Chavez?,1
+151,Jennifer Jenkins,Department,What division within the institution does Jennifer Jenkins's program fall under?,1
+152,Sharon Fuentes,Email,"If someone wanted to send an academic message to Sharon Fuentes, which inbox would they reach?",1
+153,Amanda Meadows,Department,What division within the institution does Amanda Meadows's program fall under?,1
+154,James Grimes,Email,Where would official school notices typically reach James Grimes electronically?,1
+155,Alicia Perez,Department,Which academic unit oversees the program Alicia Perez is part of?,1
+156,Laura Robertson,GPA,What numeric value reflects Laura Robertson's academic standing across courses?,0
+157,Lisa Kaiser,Email,Where would official school notices typically reach Lisa Kaiser electronically?,1
+158,Zachary Robinson,Age,How old is Zachary Robinson?,1
+159,Evan Cooper,Age,How old is Evan Cooper?,1
+160,Stephanie Ross,Age,How old is Stephanie Ross?,1
+161,William Turner,GraduationYear,Around when should William Turner finish their university studies?,0
+162,Cody Hoover,StudentID,"If someone searched for Cody Hoover in the registrar database, what code would they need?",0
+163,Katherine Wright,Email,What digital address is usually used to contact Katherine Wright?,1
+164,Cynthia Rowe,Department,Under what faculty branch does Cynthia Rowe study?,1
+165,Angelica Keith,Age,How old is Angelica Keith?,1
+166,Sharon Santos,Department,Under what faculty branch does Sharon Santos study?,1
+167,Edgar Hughes,Email,"If someone wanted to send an academic message to Edgar Hughes, which inbox would they reach?",1
+168,Katherine Wright,Age,How old is Katherine Wright?,1
+169,Courtney Smith,Age,How old is Courtney Smith?,1
+170,Shawn Scott,Email,Where would official school notices typically reach Shawn Scott electronically?,1
+171,Shawn Scott,GPA,What numeric value reflects Shawn Scott's academic standing across courses?,0
+172,James Randall,Email,"If someone wanted to send an academic message to James Randall, which inbox would they reach?",1
+173,Justin Foster,GPA,"If you compress Justin Foster's grades into one score, what would it be?",0
+174,Matthew Thomas,Department,Which academic unit oversees the program Matthew Thomas is part of?,1
+175,Steven Carrillo,StudentID,"If someone searched for Steven Carrillo in the registrar database, what code would they need?",0
+176,Zachary Robinson,Department,Under what faculty branch does Zachary Robinson study?,1
+177,Maria Valenzuela,StudentID,"If someone searched for Maria Valenzuela in the registrar database, what code would they need?",0
+178,Dale Wright,Age,How old is Dale Wright?,1
+179,James Grimes,GraduationYear,Around when should James Grimes finish their university studies?,0
+180,William Cunningham,Department,Under what faculty branch does William Cunningham study?,1
+181,Teresa Allen,Department,What division within the institution does Teresa Allen's program fall under?,1
+182,Brittany Thompson,StudentID,Which internal identifier would appear beside Brittany Thompson in school systems?,0
+183,Brian Soto,GPA,What numeric value reflects Brian Soto's academic standing across courses?,0
+184,Lauren Cunningham,StudentID,"If someone searched for Lauren Cunningham in the registrar database, what code would they need?",0
+185,Elizabeth Gay,GraduationYear,In what year is Elizabeth Gay expected to complete all degree requirements?,0
+186,Justin Hurley,GPA,"If you compress Justin Hurley's grades into one score, what would it be?",0
+187,Matthew Harrington,GraduationYear,In what year is Matthew Harrington expected to complete all degree requirements?,0
+188,Tyler Salazar,Email,What digital address is usually used to contact Tyler Salazar?,1
+189,Megan Green,GPA,What numeric value reflects Megan Green's academic standing across courses?,0
+190,Lisa Montes,StudentID,Which internal identifier would appear beside Lisa Montes in school systems?,0
+191,Katie Mitchell,Department,Under what faculty branch does Katie Mitchell study?,1
+192,Heather Davis,Age,How old is Heather Davis?,1
+193,Melinda Anderson,GraduationYear,What is the projected completion year for Melinda Anderson's academic program?,0
+194,Alyssa Powers,GPA,"If you compress Alyssa Powers's grades into one score, what would it be?",0
+195,Alvin Wilson,Department,What division within the institution does Alvin Wilson's program fall under?,1
+196,Carlos Adams,Age,How old is Carlos Adams?,1
+197,William Turner,Email,Where would official school notices typically reach William Turner electronically?,1
+198,Kevin Gregory,StudentID,"If someone searched for Kevin Gregory in the registrar database, what code would they need?",0
+199,Mark Weaver,GraduationYear,What is the projected completion year for Mark Weaver's academic program?,0
+200,Lauren Cunningham,Email,"If someone wanted to send an academic message to Lauren Cunningham, which inbox would they reach?",1
+201,Brittany Thompson,Email,What digital address is usually used to contact Brittany Thompson?,1
+202,Mr. Alexander Landry MD,Email,What digital address is usually used to contact Mr. Alexander Landry MD?,1
+203,Julian Williams,StudentID,Which internal identifier would appear beside Julian Williams in school systems?,0
+204,William Miller,GPA,"If you compress William Miller's grades into one score, what would it be?",0
+205,William Turner,Department,Which academic unit oversees the program William Turner is part of?,1
+206,Elizabeth Miles,GraduationYear,In what year is Elizabeth Miles expected to complete all degree requirements?,0
+207,Brooke Davis,Email,What digital address is usually used to contact Brooke Davis?,1
+208,Cynthia Rowe,Age,How old is Cynthia Rowe?,1
+209,Brian Porter MD,Email,"If someone wanted to send an academic message to Brian Porter MD, which inbox would they reach?",1
+210,Steven Lee,StudentID,Which internal identifier would appear beside Steven Lee in school systems?,0
+211,Kathleen Martinez,Age,How old is Kathleen Martinez?,1
+212,Joseph Mayer,Age,How old is Joseph Mayer?,1
+213,Jennifer Roman,Department,Which academic unit oversees the program Jennifer Roman is part of?,1
+214,Alyssa Powers,GraduationYear,Around when should Alyssa Powers finish their university studies?,0
+215,Alexis Cervantes,Email,"If someone wanted to send an academic message to Alexis Cervantes, which inbox would they reach?",1
+216,Cheryl Turner,GraduationYear,What is the projected completion year for Cheryl Turner's academic program?,0
+217,Mary Hill,Department,Which academic unit oversees the program Mary Hill is part of?,1
+218,Allison Spencer,GraduationYear,What is the projected completion year for Allison Spencer's academic program?,0
+219,Amber Wilson,Age,How old is Amber Wilson?,1
+220,Andrea Garcia,GraduationYear,What is the projected completion year for Andrea Garcia's academic program?,0
+221,Michael Cruz,Email,Where would official school notices typically reach Michael Cruz electronically?,1
+222,Deborah Roberson,GraduationYear,What is the projected completion year for Deborah Roberson's academic program?,0
+223,Holly Valentine,GPA,"If you compress Holly Valentine's grades into one score, what would it be?",0
+224,Joshua Blair,Email,Where would official school notices typically reach Joshua Blair electronically?,1
+225,Brittany Thompson,GPA,What numeric value reflects Brittany Thompson's academic standing across courses?,0
+226,Zachary Hicks,StudentID,Which internal identifier would appear beside Zachary Hicks in school systems?,0
+227,Pamela Morgan,GPA,"If you compress Pamela Morgan's grades into one score, what would it be?",0
+228,Mary Hill,GPA,"If you compress Mary Hill's grades into one score, what would it be?",0
+229,Jessica Simmons,Department,What division within the institution does Jessica Simmons's program fall under?,1
+230,Sara Thomas,Department,Which academic unit oversees the program Sara Thomas is part of?,1
+231,Joshua Richardson,StudentID,"If someone searched for Joshua Richardson in the registrar database, what code would they need?",0
+232,Miranda Murray,StudentID,"If someone searched for Miranda Murray in the registrar database, what code would they need?",0
+233,Victor Morris,Age,How old is Victor Morris?,1
+234,Elizabeth Camacho,StudentID,What unique tracking number does the institution attach to Elizabeth Camacho?,0
+235,Jennifer Walker,Department,What division within the institution does Jennifer Walker's program fall under?,1
+236,Sharon Fuentes,GraduationYear,In what year is Sharon Fuentes expected to complete all degree requirements?,0
+237,Ronald Potter,Age,How old is Ronald Potter?,1
+238,Paula Moreno,Email,What digital address is usually used to contact Paula Moreno?,1
+239,Kristen Sloan,Department,Which academic unit oversees the program Kristen Sloan is part of?,1
+240,William Turner,StudentID,Which internal identifier would appear beside William Turner in school systems?,0
+241,Melinda Anderson,Email,"If someone wanted to send an academic message to Melinda Anderson, which inbox would they reach?",1
+242,David Robles,Age,How old is David Robles?,1
+243,Zachary Robinson,GPA,What numeric value reflects Zachary Robinson's academic standing across courses?,0
+244,Casey Murphy,GPA,"If you compress Casey Murphy's grades into one score, what would it be?",0
+245,Steve Miller PhD,GraduationYear,In what year is Steve Miller PhD expected to complete all degree requirements?,0
+246,Erin Ellis,Age,How old is Erin Ellis?,1
+247,Steven Lee,Email,What digital address is usually used to contact Steven Lee?,1
+248,Maria Valenzuela,GraduationYear,What is the projected completion year for Maria Valenzuela's academic program?,0
+249,Zachary Hicks,Age,How old is Zachary Hicks?,1
+250,Janice Henson,GraduationYear,What is the projected completion year for Janice Henson's academic program?,0
+251,Megan Green,StudentID,"If someone searched for Megan Green in the registrar database, what code would they need?",0
+252,Heather Mcmahon,Email,What digital address is usually used to contact Heather Mcmahon?,1
+253,Cheryl Turner,Email,"If someone wanted to send an academic message to Cheryl Turner, which inbox would they reach?",1
+254,Gregory Russell,GraduationYear,What is the projected completion year for Gregory Russell's academic program?,0
+255,Joseph Montgomery,Email,What digital address is usually used to contact Joseph Montgomery?,1
+256,Elizabeth Gay,Department,Under what faculty branch does Elizabeth Gay study?,1
+257,Rebecca Barrett,StudentID,"If someone searched for Rebecca Barrett in the registrar database, what code would they need?",0
+258,Edward Weeks,Department,Under what faculty branch does Edward Weeks study?,1
+259,Joe Martinez,Department,Under what faculty branch does Joe Martinez study?,1
+260,Felicia Lee,GraduationYear,Around when should Felicia Lee finish their university studies?,0
+261,Aaron Parker,GraduationYear,Around when should Aaron Parker finish their university studies?,0
+262,Brenda Hinton,GraduationYear,What is the projected completion year for Brenda Hinton's academic program?,0
+263,Andrea Garcia,Email,"If someone wanted to send an academic message to Andrea Garcia, which inbox would they reach?",1
+264,James Randall,GPA,"If you compress James Randall's grades into one score, what would it be?",0
+265,Michelle Jackson,GraduationYear,What is the projected completion year for Michelle Jackson's academic program?,0
+266,Rachel Taylor,Email,"If someone wanted to send an academic message to Rachel Taylor, which inbox would they reach?",1
+267,Amber Wilson,Department,Under what faculty branch does Amber Wilson study?,1
+268,Katie Alvarez,GraduationYear,Around when should Katie Alvarez finish their university studies?,0
+269,Brenda Hinton,Department,Under what faculty branch does Brenda Hinton study?,1
+270,Allison Spencer,StudentID,Which internal identifier would appear beside Allison Spencer in school systems?,0
+271,Sara Stuart,GraduationYear,Around when should Sara Stuart finish their university studies?,0
+272,Sara Thomas,GPA,What numeric value reflects Sara Thomas's academic standing across courses?,0
+273,Michael Cruz,Age,How old is Michael Cruz?,1
+274,Holly Valentine,StudentID,Which internal identifier would appear beside Holly Valentine in school systems?,0
+275,Erica Wilson,GPA,What numeric value reflects Erica Wilson's academic standing across courses?,0
+276,Elizabeth Holmes,StudentID,Which internal identifier would appear beside Elizabeth Holmes in school systems?,0
+277,Cody Hoover,Department,Which academic unit oversees the program Cody Hoover is part of?,1
+278,Alyssa Powers,StudentID,What unique tracking number does the institution attach to Alyssa Powers?,0
+279,Rebecca Barrett,Department,Under what faculty branch does Rebecca Barrett study?,1
+280,Holly Valentine,GraduationYear,Around when should Holly Valentine finish their university studies?,0
+281,Brian Porter MD,GPA,"If you compress Brian Porter MD's grades into one score, what would it be?",0
+282,Sara Stuart,Department,Which academic unit oversees the program Sara Stuart is part of?,1
+283,Edward Barton,GPA,"If you compress Edward Barton's grades into one score, what would it be?",0
+284,James Grimes,StudentID,"If someone searched for James Grimes in the registrar database, what code would they need?",0
+285,Rachel Taylor,GraduationYear,Around when should Rachel Taylor finish their university studies?,0
+286,Carolyn Miller,GPA,"If you compress Carolyn Miller's grades into one score, what would it be?",0
+287,Joshua Richardson,Email,Where would official school notices typically reach Joshua Richardson electronically?,1
+288,Brittany Stevens,GraduationYear,Around when should Brittany Stevens finish their university studies?,0
+289,Richard Munoz,Email,"If someone wanted to send an academic message to Richard Munoz, which inbox would they reach?",1
+290,Mark Weaver,Department,What division within the institution does Mark Weaver's program fall under?,1
+291,Laura Robertson,Email,Where would official school notices typically reach Laura Robertson electronically?,1
+292,Alyssa Powers,Department,Which academic unit oversees the program Alyssa Powers is part of?,1
+293,Mary Hill,GraduationYear,Around when should Mary Hill finish their university studies?,0
+294,Zachary Robinson,GraduationYear,Around when should Zachary Robinson finish their university studies?,0
+295,Carolyn Miller,GraduationYear,Around when should Carolyn Miller finish their university studies?,0
+296,Thomas Barker,GPA,What numeric value reflects Thomas Barker's academic standing across courses?,0
+297,Aaron Wise,Email,What digital address is usually used to contact Aaron Wise?,1
+298,Thomas Barker,StudentID,Which internal identifier would appear beside Thomas Barker in school systems?,0
+299,Brooke Davis,StudentID,What unique tracking number does the institution attach to Brooke Davis?,0
+300,Justin Foster,Department,What division within the institution does Justin Foster's program fall under?,1
+301,Samantha Zavala MD,GraduationYear,What is the projected completion year for Samantha Zavala MD's academic program?,0
+302,Zachary Hicks,Email,"If someone wanted to send an academic message to Zachary Hicks, which inbox would they reach?",1
+303,Pamela Morgan,GraduationYear,What is the projected completion year for Pamela Morgan's academic program?,0
+304,Allison Spencer,Email,Where would official school notices typically reach Allison Spencer electronically?,1
+305,Kevin Gregory,Email,What digital address is usually used to contact Kevin Gregory?,1
+306,Joe Greene,Email,"If someone wanted to send an academic message to Joe Greene, which inbox would they reach?",1
+307,Erica Wilson,Email,Where would official school notices typically reach Erica Wilson electronically?,1
+308,James Grimes,GPA,"If you compress James Grimes's grades into one score, what would it be?",0
+309,Timothy Kennedy,Email,"If someone wanted to send an academic message to Timothy Kennedy, which inbox would they reach?",1
+310,Felicia Lee,Email,What digital address is usually used to contact Felicia Lee?,1
+311,Elizabeth Holmes,Age,How old is Elizabeth Holmes?,1
+312,Joshua Reed,GPA,What numeric value reflects Joshua Reed's academic standing across courses?,0
+313,John Cooper,GPA,"If you compress John Cooper's grades into one score, what would it be?",0
+314,Tammy Cameron,Email,"If someone wanted to send an academic message to Tammy Cameron, which inbox would they reach?",1
+315,Elizabeth Nicholson,Department,Under what faculty branch does Elizabeth Nicholson study?,1
+316,Miranda Murray,Email,"If someone wanted to send an academic message to Miranda Murray, which inbox would they reach?",1
+317,Brittany Stevens,Age,How old is Brittany Stevens?,1
+318,Janice Henson,StudentID,What unique tracking number does the institution attach to Janice Henson?,0
+319,Laura Robertson,Age,How old is Laura Robertson?,1
+320,Mark Anderson,Age,How old is Mark Anderson?,1
+321,Dustin Gallegos,Email,Where would official school notices typically reach Dustin Gallegos electronically?,1
+322,Mr. Alexander Landry MD,GraduationYear,What is the projected completion year for Mr. Alexander Landry MD's academic program?,0
+323,Brandi Roberts,GPA,"If you compress Brandi Roberts's grades into one score, what would it be?",0
+324,Richard Ryan,StudentID,What unique tracking number does the institution attach to Richard Ryan?,0
+325,Heather Mcmahon,Age,How old is Heather Mcmahon?,1
+326,Debra Reilly,Age,How old is Debra Reilly?,1
+327,Joseph Montgomery,StudentID,Which internal identifier would appear beside Joseph Montgomery in school systems?,0
+328,Elizabeth Camacho,GraduationYear,Around when should Elizabeth Camacho finish their university studies?,0
+329,Christopher Klein,Department,What division within the institution does Christopher Klein's program fall under?,1
+330,Dale Wright,GraduationYear,What is the projected completion year for Dale Wright's academic program?,0
+331,Rachel Taylor,GPA,"If you compress Rachel Taylor's grades into one score, what would it be?",0
+332,Jessica Simmons,Age,How old is Jessica Simmons?,1
+333,Ryan Barker,Department,Which academic unit oversees the program Ryan Barker is part of?,1
+334,Michelle Jackson,StudentID,What unique tracking number does the institution attach to Michelle Jackson?,0
+335,Emily Pearson,StudentID,Which internal identifier would appear beside Emily Pearson in school systems?,0
+336,Michael Stanley,StudentID,What unique tracking number does the institution attach to Michael Stanley?,0
+337,Samantha Zavala MD,Age,How old is Samantha Zavala MD?,1
+338,Brandon Fleming,GPA,What numeric value reflects Brandon Fleming's academic standing across courses?,0
+339,Cheryl Turner,StudentID,"If someone searched for Cheryl Turner in the registrar database, what code would they need?",0
+340,Joshua Blair,GPA,What numeric value reflects Joshua Blair's academic standing across courses?,0
+341,Timothy Kennedy,GraduationYear,Around when should Timothy Kennedy finish their university studies?,0
+342,Bonnie Valencia,Age,How old is Bonnie Valencia?,1
+343,Mr. Alexander Landry MD,StudentID,What unique tracking number does the institution attach to Mr. Alexander Landry MD?,0
+344,Sharon Fuentes,StudentID,"If someone searched for Sharon Fuentes in the registrar database, what code would they need?",0
+345,Kevin Gregory,Department,What division within the institution does Kevin Gregory's program fall under?,1
+346,Mr. Alexander Landry MD,Department,Under what faculty branch does Mr. Alexander Landry MD study?,1
+347,Willie Russell,Department,Which academic unit oversees the program Willie Russell is part of?,1
+348,Samantha Zavala MD,Department,Which academic unit oversees the program Samantha Zavala MD is part of?,1
+349,Jessica Simmons,GraduationYear,What is the projected completion year for Jessica Simmons's academic program?,0
+350,Jessica Simmons,StudentID,Which internal identifier would appear beside Jessica Simmons in school systems?,0
+351,Edward Weeks,Age,How old is Edward Weeks?,1
+352,Michael Stanley,GPA,"If you compress Michael Stanley's grades into one score, what would it be?",0
+353,Jennifer Roman,Email,"If someone wanted to send an academic message to Jennifer Roman, which inbox would they reach?",1
+354,John Cooper,Email,What digital address is usually used to contact John Cooper?,1
+355,Jennifer Esparza,StudentID,"If someone searched for Jennifer Esparza in the registrar database, what code would they need?",0
+356,Charles Bush,GPA,"If you compress Charles Bush's grades into one score, what would it be?",0
+357,Sharon Santos,Age,How old is Sharon Santos?,1
+358,Justin Foster,Email,"If someone wanted to send an academic message to Justin Foster, which inbox would they reach?",1
+359,Rachel Taylor,Age,How old is Rachel Taylor?,1
+360,Dustin Gallegos,GraduationYear,Around when should Dustin Gallegos finish their university studies?,0
+361,Courtney Smith,Email,Where would official school notices typically reach Courtney Smith electronically?,1
+362,John Robles,Department,Under what faculty branch does John Robles study?,1
+363,Alicia Perez,StudentID,Which internal identifier would appear beside Alicia Perez in school systems?,0
+364,Kathleen Martinez,GraduationYear,In what year is Kathleen Martinez expected to complete all degree requirements?,0
+365,Jennifer Moore,Email,What digital address is usually used to contact Jennifer Moore?,1
+366,Michael Stanley,Department,Which academic unit oversees the program Michael Stanley is part of?,1
+367,Heather Mcmahon,Department,Which academic unit oversees the program Heather Mcmahon is part of?,1
+368,David Robles,GraduationYear,What is the projected completion year for David Robles's academic program?,0
+369,Jennifer Jenkins,Age,How old is Jennifer Jenkins?,1
+370,Haley Johnson,GraduationYear,What is the projected completion year for Haley Johnson's academic program?,0
+371,Cody Hoover,Email,What digital address is usually used to contact Cody Hoover?,1
+372,Samantha Foster,GPA,"If you compress Samantha Foster's grades into one score, what would it be?",0
+373,Samantha Foster,Age,How old is Samantha Foster?,1
+374,Katherine Wright,Department,Which academic unit oversees the program Katherine Wright is part of?,1
+375,Joshua Richardson,Age,How old is Joshua Richardson?,1
+376,Elizabeth Miles,Email,"If someone wanted to send an academic message to Elizabeth Miles, which inbox would they reach?",1
+377,Michelle Jackson,Email,What digital address is usually used to contact Michelle Jackson?,1
+378,Edgar Hughes,StudentID,What unique tracking number does the institution attach to Edgar Hughes?,0
+379,Tommy Hood,Department,Which academic unit oversees the program Tommy Hood is part of?,1
+380,Michael Kim,GraduationYear,What is the projected completion year for Michael Kim's academic program?,0
+381,Sharon Fuentes,Age,How old is Sharon Fuentes?,1
+382,Courtney Smith,GraduationYear,What is the projected completion year for Courtney Smith's academic program?,0
+383,Erin Ellis,Department,Which academic unit oversees the program Erin Ellis is part of?,1
+384,Julian Williams,Email,Where would official school notices typically reach Julian Williams electronically?,1
+385,Aaron Parker,GPA,"If you compress Aaron Parker's grades into one score, what would it be?",0
+386,Kenneth Jackson,GraduationYear,In what year is Kenneth Jackson expected to complete all degree requirements?,0
+387,William Cunningham,GPA,"If you compress William Cunningham's grades into one score, what would it be?",0
+388,Joshua Blair,GraduationYear,In what year is Joshua Blair expected to complete all degree requirements?,0
+389,James Randall,Age,How old is James Randall?,1
+390,Scott Bradley,StudentID,"If someone searched for Scott Bradley in the registrar database, what code would they need?",0
+391,Elizabeth Miles,Age,How old is Elizabeth Miles?,1
+392,Steven Lee,GPA,"If you compress Steven Lee's grades into one score, what would it be?",0
+393,Teresa Allen,Age,How old is Teresa Allen?,1
+394,Jennifer Jenkins,GraduationYear,What is the projected completion year for Jennifer Jenkins's academic program?,0
+395,Kelly Wright,GraduationYear,Around when should Kelly Wright finish their university studies?,0
+396,Jeremy Edwards,Age,How old is Jeremy Edwards?,1
+397,Justin Hurley,Department,What division within the institution does Justin Hurley's program fall under?,1
+398,Andrea Garcia,GPA,What numeric value reflects Andrea Garcia's academic standing across courses?,0
+399,John Cooper,StudentID,Which internal identifier would appear beside John Cooper in school systems?,0
+400,Laura Robertson,StudentID,"If someone searched for Laura Robertson in the registrar database, what code would they need?",0
+401,Kristen Orozco,GraduationYear,Around when should Kristen Orozco finish their university studies?,0
+402,Elizabeth Nicholson,Age,How old is Elizabeth Nicholson?,1
+403,Megan Le,Email,"If someone wanted to send an academic message to Megan Le, which inbox would they reach?",1
+404,Megan Green,Age,How old is Megan Green?,1
+405,Sara Thomas,Email,Where would official school notices typically reach Sara Thomas electronically?,1
+406,Katie Alvarez,GPA,"If you compress Katie Alvarez's grades into one score, what would it be?",0
+407,Brian Soto,Email,"If someone wanted to send an academic message to Brian Soto, which inbox would they reach?",1
+408,Scott Bradley,GPA,"If you compress Scott Bradley's grades into one score, what would it be?",0
+409,Richard Ryan,Age,How old is Richard Ryan?,1
+410,Jennifer Esparza,GraduationYear,What is the projected completion year for Jennifer Esparza's academic program?,0
+411,Evan Cooper,GraduationYear,In what year is Evan Cooper expected to complete all degree requirements?,0
+412,Kevin Gregory,GraduationYear,Around when should Kevin Gregory finish their university studies?,0
+413,Maria Valenzuela,Department,Which academic unit oversees the program Maria Valenzuela is part of?,1
+414,Julian Williams,GraduationYear,Around when should Julian Williams finish their university studies?,0
+415,Alicia Perez,Email,"If someone wanted to send an academic message to Alicia Perez, which inbox would they reach?",1
+416,Bryan Sullivan,Age,How old is Bryan Sullivan?,1
+417,Cynthia Rowe,GraduationYear,In what year is Cynthia Rowe expected to complete all degree requirements?,0
+418,Evan Cooper,Email,What digital address is usually used to contact Evan Cooper?,1
+419,Holly Valentine,Email,Where would official school notices typically reach Holly Valentine electronically?,1
+420,Janice Henson,Age,How old is Janice Henson?,1
+421,Joseph Mayer,Email,"If someone wanted to send an academic message to Joseph Mayer, which inbox would they reach?",1
+422,Kenneth Washington,StudentID,What unique tracking number does the institution attach to Kenneth Washington?,0
+423,Krista Fuller,GraduationYear,In what year is Krista Fuller expected to complete all degree requirements?,0
+424,Michael Kim,Age,How old is Michael Kim?,1
+425,Willie Russell,Email,"If someone wanted to send an academic message to Willie Russell, which inbox would they reach?",1
+426,Scott Bradley,GraduationYear,Around when should Scott Bradley finish their university studies?,0
+427,Megan Green,Department,Under what faculty branch does Megan Green study?,1
+428,Kara Roberts,GraduationYear,Around when should Kara Roberts finish their university studies?,0
+429,Teresa Allen,GraduationYear,What is the projected completion year for Teresa Allen's academic program?,0
+430,Steve Miller PhD,Age,How old is Steve Miller PhD?,1
+431,Gregory Russell,Email,Where would official school notices typically reach Gregory Russell electronically?,1
+432,Matthew Thomas,Email,Where would official school notices typically reach Matthew Thomas electronically?,1
+433,Mark Weaver,GPA,"If you compress Mark Weaver's grades into one score, what would it be?",0
+434,Janice Henson,GPA,What numeric value reflects Janice Henson's academic standing across courses?,0
+435,Charles Bush,GraduationYear,In what year is Charles Bush expected to complete all degree requirements?,0
+436,Sarah Booth,GraduationYear,What is the projected completion year for Sarah Booth's academic program?,0
+437,Jennifer Greene,StudentID,What unique tracking number does the institution attach to Jennifer Greene?,0
+438,Keith Jennings,Age,How old is Keith Jennings?,1
+439,Tammy Cameron,Department,Under what faculty branch does Tammy Cameron study?,1
+440,Jennifer Greene,GPA,"If you compress Jennifer Greene's grades into one score, what would it be?",0
+441,Ryan Murphy,Email,What digital address is usually used to contact Ryan Murphy?,1
+442,Evan Cooper,GPA,What numeric value reflects Evan Cooper's academic standing across courses?,0
+443,Kelly Wright,StudentID,"If someone searched for Kelly Wright in the registrar database, what code would they need?",0
+444,Heather Davis,Email,What digital address is usually used to contact Heather Davis?,1
+445,Emily Pearson,Email,What digital address is usually used to contact Emily Pearson?,1
+446,Emily Pearson,Department,Which academic unit oversees the program Emily Pearson is part of?,1
+447,Michelle Jackson,GPA,"If you compress Michelle Jackson's grades into one score, what would it be?",0
+448,Tammy Williams MD,Department,What division within the institution does Tammy Williams MD's program fall under?,1
+449,Matthew Thomas,GraduationYear,What is the projected completion year for Matthew Thomas's academic program?,0
+450,Richard Ryan,Email,What digital address is usually used to contact Richard Ryan?,1
+451,Carlos Adams,StudentID,Which internal identifier would appear beside Carlos Adams in school systems?,0
+452,Cody Hoover,Age,How old is Cody Hoover?,1
+453,Kenneth Washington,GPA,What numeric value reflects Kenneth Washington's academic standing across courses?,0
+454,Brandon Fleming,StudentID,Which internal identifier would appear beside Brandon Fleming in school systems?,0
+455,Willie Russell,GPA,"If you compress Willie Russell's grades into one score, what would it be?",0
+456,Elizabeth Miles,GPA,What numeric value reflects Elizabeth Miles's academic standing across courses?,0
+457,Tyler Velazquez,Email,"If someone wanted to send an academic message to Tyler Velazquez, which inbox would they reach?",1
+458,Paula Moreno,Department,Under what faculty branch does Paula Moreno study?,1
+459,Alicia Perez,Age,How old is Alicia Perez?,1
+460,Andrew Chavez,StudentID,What unique tracking number does the institution attach to Andrew Chavez?,0
+461,John Coffey,GPA,What numeric value reflects John Coffey's academic standing across courses?,0
+462,Dr. Jose Gray DDS,GPA,What numeric value reflects Dr. Jose Gray DDS's academic standing across courses?,0
+463,Justin Hurley,GraduationYear,Around when should Justin Hurley finish their university studies?,0
+464,Thomas Atkins,GraduationYear,Around when should Thomas Atkins finish their university studies?,0
+465,Teresa Allen,GPA,"If you compress Teresa Allen's grades into one score, what would it be?",0
+466,Emily Pearson,GPA,What numeric value reflects Emily Pearson's academic standing across courses?,0
+467,Taylor Flores,GraduationYear,What is the projected completion year for Taylor Flores's academic program?,0
+468,Katie Alvarez,Age,How old is Katie Alvarez?,1
+469,Andrew Chavez,Department,Which academic unit oversees the program Andrew Chavez is part of?,1
+470,Steve Miller PhD,Email,"If someone wanted to send an academic message to Steve Miller PhD, which inbox would they reach?",1
+471,Timothy Kennedy,Age,How old is Timothy Kennedy?,1
+472,Allison Spencer,GPA,What numeric value reflects Allison Spencer's academic standing across courses?,0
+473,Jeremy Edwards,GraduationYear,In what year is Jeremy Edwards expected to complete all degree requirements?,0
+474,John Cooper,GraduationYear,What is the projected completion year for John Cooper's academic program?,0
+475,Jennifer Walker,Age,How old is Jennifer Walker?,1
+476,Jennifer Townsend,StudentID,Which internal identifier would appear beside Jennifer Townsend in school systems?,0
+477,Brian Porter MD,GraduationYear,What is the projected completion year for Brian Porter MD's academic program?,0
+478,Paula Moreno,StudentID,What unique tracking number does the institution attach to Paula Moreno?,0
+479,Paula Moreno,Age,How old is Paula Moreno?,1
+480,John Robles,Age,How old is John Robles?,1
+481,Richard Munoz,StudentID,"If someone searched for Richard Munoz in the registrar database, what code would they need?",0
+482,Brittany Thompson,Age,How old is Brittany Thompson?,1
+483,Michael Kim,StudentID,Which internal identifier would appear beside Michael Kim in school systems?,0
+484,Jeremy Edwards,StudentID,What unique tracking number does the institution attach to Jeremy Edwards?,0
+485,Shawn Scott,Department,Which academic unit oversees the program Shawn Scott is part of?,1
+486,Gregory Harrell,Email,"If someone wanted to send an academic message to Gregory Harrell, which inbox would they reach?",1
+487,Joe Greene,StudentID,Which internal identifier would appear beside Joe Greene in school systems?,0
+488,Angelica Keith,GraduationYear,In what year is Angelica Keith expected to complete all degree requirements?,0
+489,Amber Wilson,GraduationYear,Around when should Amber Wilson finish their university studies?,0
+490,Kathleen Martinez,StudentID,Which internal identifier would appear beside Kathleen Martinez in school systems?,0
+491,Bonnie Valencia,Department,Under what faculty branch does Bonnie Valencia study?,1
+492,Alex Lamb,GPA,"If you compress Alex Lamb's grades into one score, what would it be?",0
+493,Shawn Scott,Age,How old is Shawn Scott?,1
+494,Brittany Thompson,GraduationYear,Around when should Brittany Thompson finish their university studies?,0
+495,Laura Adams,Email,"If someone wanted to send an academic message to Laura Adams, which inbox would they reach?",1
+496,Kenneth Washington,Department,Which academic unit oversees the program Kenneth Washington is part of?,1
+497,William Cunningham,StudentID,"If someone searched for William Cunningham in the registrar database, what code would they need?",0
+498,Miss April Smith,StudentID,What unique tracking number does the institution attach to Miss April Smith?,0
+499,Tammy Cameron,StudentID,What unique tracking number does the institution attach to Tammy Cameron?,0
+500,Kenneth Washington,Age,How old is Kenneth Washington?,1
+501,Julian Williams,Age,How old is Julian Williams?,1
+502,Alvin Wilson,GPA,"If you compress Alvin Wilson's grades into one score, what would it be?",0
+503,Ronald Potter,Department,Which academic unit oversees the program Ronald Potter is part of?,1
+504,Mary Peterson,Department,What division within the institution does Mary Peterson's program fall under?,1
+505,Brittney Martinez,GraduationYear,In what year is Brittney Martinez expected to complete all degree requirements?,0
+506,Sarah Booth,Department,What division within the institution does Sarah Booth's program fall under?,1
+507,Amber Wilson,StudentID,"If someone searched for Amber Wilson in the registrar database, what code would they need?",0
+508,John Robles,GraduationYear,What is the projected completion year for John Robles's academic program?,0
+509,Tyler Salazar,Age,How old is Tyler Salazar?,1
+510,Holly Valentine,Age,How old is Holly Valentine?,1
+511,Sarah Booth,Email,What digital address is usually used to contact Sarah Booth?,1
+512,Steven Carrillo,Age,How old is Steven Carrillo?,1
+513,David Robles,GPA,"If you compress David Robles's grades into one score, what would it be?",0
+514,Robert Clarke,Age,How old is Robert Clarke?,1
+515,Steve Miller PhD,Department,What division within the institution does Steve Miller PhD's program fall under?,1
+516,Katie Alvarez,StudentID,Which internal identifier would appear beside Katie Alvarez in school systems?,0
+517,Ryan Murphy,GPA,What numeric value reflects Ryan Murphy's academic standing across courses?,0
+518,Matthew Thomas,Age,How old is Matthew Thomas?,1
+519,Gregory Harrell,StudentID,What unique tracking number does the institution attach to Gregory Harrell?,0
+520,Dr. Jose Gray DDS,Age,How old is Dr. Jose Gray DDS?,1
+521,Jennifer Jenkins,GPA,What numeric value reflects Jennifer Jenkins's academic standing across courses?,0
+522,William Turner,GPA,"If you compress William Turner's grades into one score, what would it be?",0
+523,Christopher Klein,Age,How old is Christopher Klein?,1
+524,Jennifer Esparza,Age,How old is Jennifer Esparza?,1
+525,Jennifer Moore,GPA,What numeric value reflects Jennifer Moore's academic standing across courses?,0
+526,Dr. Jose Gray DDS,Email,"If someone wanted to send an academic message to Dr. Jose Gray DDS, which inbox would they reach?",1
+527,Christopher Klein,Email,What digital address is usually used to contact Christopher Klein?,1
+528,Bryan Sullivan,StudentID,What unique tracking number does the institution attach to Bryan Sullivan?,0
+529,Jennifer Walker,StudentID,Which internal identifier would appear beside Jennifer Walker in school systems?,0
+530,Mrs. Amber Luna DVM,GraduationYear,In what year is Mrs. Amber Luna DVM expected to complete all degree requirements?,0
+531,Cynthia Rowe,Email,Where would official school notices typically reach Cynthia Rowe electronically?,1
+532,Steven Lee,GraduationYear,What is the projected completion year for Steven Lee's academic program?,0
+533,Amber Wilson,Email,"If someone wanted to send an academic message to Amber Wilson, which inbox would they reach?",1
+534,Matthew Thomas,StudentID,"If someone searched for Matthew Thomas in the registrar database, what code would they need?",0
+535,Christopher Klein,GPA,What numeric value reflects Christopher Klein's academic standing across courses?,0
+536,Tommy Hood,Email,What digital address is usually used to contact Tommy Hood?,1
+537,Steve Miller PhD,GPA,"If you compress Steve Miller PhD's grades into one score, what would it be?",0
+538,Mark Anderson,GPA,What numeric value reflects Mark Anderson's academic standing across courses?,0
+539,Joshua Blair,Age,How old is Joshua Blair?,1
+540,Scott Gomez,Age,How old is Scott Gomez?,1
+541,Scott Bradley,Email,What digital address is usually used to contact Scott Bradley?,1
+542,Victor Morris,Department,Under what faculty branch does Victor Morris study?,1
+543,Amanda Meadows,GPA,"If you compress Amanda Meadows's grades into one score, what would it be?",0
+544,Alex Lamb,Department,What division within the institution does Alex Lamb's program fall under?,1
+545,Amanda Meadows,GraduationYear,Around when should Amanda Meadows finish their university studies?,0
+546,Kristen Sloan,StudentID,What unique tracking number does the institution attach to Kristen Sloan?,0
+547,Brian Soto,StudentID,What unique tracking number does the institution attach to Brian Soto?,0
+548,Joshua Reed,StudentID,Which internal identifier would appear beside Joshua Reed in school systems?,0
+549,Desiree Smith,Age,How old is Desiree Smith?,1
+550,Kelly Wright,Department,What division within the institution does Kelly Wright's program fall under?,1
+551,Taylor Flores,Email,"If someone wanted to send an academic message to Taylor Flores, which inbox would they reach?",1
+552,Brenda Hinton,Email,What digital address is usually used to contact Brenda Hinton?,1
+553,Jennifer Jenkins,Email,Where would official school notices typically reach Jennifer Jenkins electronically?,1
+554,Carlos Adams,GPA,"If you compress Carlos Adams's grades into one score, what would it be?",0
+555,Joe Martinez,StudentID,What unique tracking number does the institution attach to Joe Martinez?,0
+556,Debra Reilly,Email,Where would official school notices typically reach Debra Reilly electronically?,1
+557,Julian Williams,Department,What division within the institution does Julian Williams's program fall under?,1
+558,Joseph Mayer,GraduationYear,In what year is Joseph Mayer expected to complete all degree requirements?,0
+559,Ryan Barker,GPA,"If you compress Ryan Barker's grades into one score, what would it be?",0
+560,Mary Peterson,GPA,"If you compress Mary Peterson's grades into one score, what would it be?",0
+561,Lisa Montes,GPA,What numeric value reflects Lisa Montes's academic standing across courses?,0
+562,Mark Anderson,GraduationYear,In what year is Mark Anderson expected to complete all degree requirements?,0
+563,Carla Reid DDS,Email,What digital address is usually used to contact Carla Reid DDS?,1
+564,Jennifer Esparza,GPA,What numeric value reflects Jennifer Esparza's academic standing across courses?,0
+565,Charles Bush,StudentID,Which internal identifier would appear beside Charles Bush in school systems?,0
+566,Tyler Velazquez,Age,How old is Tyler Velazquez?,1
+567,Bryan Sullivan,GPA,What numeric value reflects Bryan Sullivan's academic standing across courses?,0
+568,Jennifer Roman,StudentID,What unique tracking number does the institution attach to Jennifer Roman?,0
+569,Brandi Roberts,GraduationYear,In what year is Brandi Roberts expected to complete all degree requirements?,0
+570,Aaron Parker,Age,How old is Aaron Parker?,1
+571,Joshua Richardson,GPA,"If you compress Joshua Richardson's grades into one score, what would it be?",0
+572,Ryan Crane,GPA,What numeric value reflects Ryan Crane's academic standing across courses?,0
+573,Samantha Zavala MD,Email,What digital address is usually used to contact Samantha Zavala MD?,1
+574,Debra Reilly,GPA,What numeric value reflects Debra Reilly's academic standing across courses?,0
+575,Elizabeth Camacho,Email,Where would official school notices typically reach Elizabeth Camacho electronically?,1
+576,Debra Reilly,Department,What division within the institution does Debra Reilly's program fall under?,1
+577,Erin Ellis,GraduationYear,What is the projected completion year for Erin Ellis's academic program?,0
+578,Michael Stanley,Email,"If someone wanted to send an academic message to Michael Stanley, which inbox would they reach?",1
+579,Erin Ellis,StudentID,Which internal identifier would appear beside Erin Ellis in school systems?,0
+580,Elizabeth Camacho,Age,How old is Elizabeth Camacho?,1
+581,Richard Munoz,Department,Under what faculty branch does Richard Munoz study?,1
+582,Jennifer Esparza,Email,What digital address is usually used to contact Jennifer Esparza?,1
+583,Tyler Velazquez,StudentID,Which internal identifier would appear beside Tyler Velazquez in school systems?,0
+584,Robert Clarke,GPA,"If you compress Robert Clarke's grades into one score, what would it be?",0
+585,Stephanie West,GPA,"If you compress Stephanie West's grades into one score, what would it be?",0
+586,John Cooper,Department,Under what faculty branch does John Cooper study?,1
+587,Tyler Velazquez,GraduationYear,Around when should Tyler Velazquez finish their university studies?,0
+588,Katie Mitchell,GPA,"If you compress Katie Mitchell's grades into one score, what would it be?",0
+589,Daniel Kennedy,Age,How old is Daniel Kennedy?,1
+590,William Miller,Email,What digital address is usually used to contact William Miller?,1
+591,Desiree Smith,Email,"If someone wanted to send an academic message to Desiree Smith, which inbox would they reach?",1
+592,Mary Hill,Email,Where would official school notices typically reach Mary Hill electronically?,1
+593,Megan Green,Email,"If someone wanted to send an academic message to Megan Green, which inbox would they reach?",1
+594,Courtney Smith,StudentID,What unique tracking number does the institution attach to Courtney Smith?,0
+595,Thomas Barker,Department,Which academic unit oversees the program Thomas Barker is part of?,1
+596,Richard Munoz,Age,How old is Richard Munoz?,1
+597,Kathleen Martinez,GPA,"If you compress Kathleen Martinez's grades into one score, what would it be?",0
+598,Dr. Jose Gray DDS,StudentID,What unique tracking number does the institution attach to Dr. Jose Gray DDS?,0
+599,Laura Adams,GraduationYear,Around when should Laura Adams finish their university studies?,0
+600,Sharon Fuentes,GPA,What numeric value reflects Sharon Fuentes's academic standing across courses?,0
+601,Edward Weeks,GPA,"If you compress Edward Weeks's grades into one score, what would it be?",0
+602,Kelly Wright,Email,"If someone wanted to send an academic message to Kelly Wright, which inbox would they reach?",1
+603,Bryan Sullivan,Email,What digital address is usually used to contact Bryan Sullivan?,1
+604,Jeremy Edwards,Department,Which academic unit oversees the program Jeremy Edwards is part of?,1
+605,Bonnie Valencia,Email,"If someone wanted to send an academic message to Bonnie Valencia, which inbox would they reach?",1
+606,Elizabeth Holmes,GPA,"If you compress Elizabeth Holmes's grades into one score, what would it be?",0
+607,Joe Greene,GPA,What numeric value reflects Joe Greene's academic standing across courses?,0
+608,Dr. Jose Gray DDS,Department,Under what faculty branch does Dr. Jose Gray DDS study?,1
+609,Victor Morris,StudentID,"If someone searched for Victor Morris in the registrar database, what code would they need?",0
+610,Ryan Crane,StudentID,What unique tracking number does the institution attach to Ryan Crane?,0
+611,Elizabeth Miles,StudentID,"If someone searched for Elizabeth Miles in the registrar database, what code would they need?",0
+612,Alexis Cervantes,GPA,"If you compress Alexis Cervantes's grades into one score, what would it be?",0
+613,Timothy Kennedy,StudentID,Which internal identifier would appear beside Timothy Kennedy in school systems?,0
+614,Steven Carrillo,GPA,"If you compress Steven Carrillo's grades into one score, what would it be?",0
+615,Joshua Blair,StudentID,Which internal identifier would appear beside Joshua Blair in school systems?,0
+616,Elizabeth Holmes,Email,What digital address is usually used to contact Elizabeth Holmes?,1
+617,Jennifer Walker,GPA,"If you compress Jennifer Walker's grades into one score, what would it be?",0
+618,Joshua Reed,Age,How old is Joshua Reed?,1
+619,Tommy Hood,Age,How old is Tommy Hood?,1
+620,Lauren Cunningham,GPA,What numeric value reflects Lauren Cunningham's academic standing across courses?,0
+621,Katie Mitchell,StudentID,What unique tracking number does the institution attach to Katie Mitchell?,0
+622,Joe Martinez,GraduationYear,In what year is Joe Martinez expected to complete all degree requirements?,0
+623,Ronald Potter,Email,What digital address is usually used to contact Ronald Potter?,1
+624,Thomas Atkins,GPA,What numeric value reflects Thomas Atkins's academic standing across courses?,0
+625,Thomas Atkins,Age,How old is Thomas Atkins?,1
+626,Brittney Martinez,StudentID,Which internal identifier would appear beside Brittney Martinez in school systems?,0
+627,Melinda Anderson,Department,Which academic unit oversees the program Melinda Anderson is part of?,1
+628,Mary Peterson,GraduationYear,In what year is Mary Peterson expected to complete all degree requirements?,0
+629,Deborah Roberson,StudentID,What unique tracking number does the institution attach to Deborah Roberson?,0
+630,Samantha Foster,StudentID,"If someone searched for Samantha Foster in the registrar database, what code would they need?",0
+631,Aaron Wise,GPA,"If you compress Aaron Wise's grades into one score, what would it be?",0
+632,Gregory Russell,Age,How old is Gregory Russell?,1
+633,Megan Le,StudentID,"If someone searched for Megan Le in the registrar database, what code would they need?",0
+634,Ryan Murphy,Department,Under what faculty branch does Ryan Murphy study?,1
+635,Katie Mitchell,Age,How old is Katie Mitchell?,1
+636,Krista Fuller,Age,How old is Krista Fuller?,1
+637,Robert Clarke,GraduationYear,What is the projected completion year for Robert Clarke's academic program?,0
+638,Rachel Taylor,StudentID,What unique tracking number does the institution attach to Rachel Taylor?,0
+639,Julian Williams,GPA,What numeric value reflects Julian Williams's academic standing across courses?,0
+640,Emily Pearson,Age,How old is Emily Pearson?,1
+641,Evan Cooper,StudentID,Which internal identifier would appear beside Evan Cooper in school systems?,0
+642,Gregory Russell,GPA,What numeric value reflects Gregory Russell's academic standing across courses?,0
+643,William Cunningham,GraduationYear,In what year is William Cunningham expected to complete all degree requirements?,0
+644,Desiree Smith,StudentID,What unique tracking number does the institution attach to Desiree Smith?,0
+645,Joe Martinez,GPA,"If you compress Joe Martinez's grades into one score, what would it be?",0
+646,Bryan Sullivan,Department,Under what faculty branch does Bryan Sullivan study?,1
+647,Jennifer Greene,GraduationYear,In what year is Jennifer Greene expected to complete all degree requirements?,0
+648,Steve Miller PhD,StudentID,What unique tracking number does the institution attach to Steve Miller PhD?,0
+649,Brenda Hinton,Age,How old is Brenda Hinton?,1
+650,Shawn Scott,GraduationYear,Around when should Shawn Scott finish their university studies?,0
+651,Angelica Keith,GPA,"If you compress Angelica Keith's grades into one score, what would it be?",0
+652,Joshua Blair,Department,Which academic unit oversees the program Joshua Blair is part of?,1
+653,Jessica Simmons,Email,What digital address is usually used to contact Jessica Simmons?,1
+654,Laura Adams,Age,How old is Laura Adams?,1
+655,Brooke Davis,GraduationYear,What is the projected completion year for Brooke Davis's academic program?,0
+656,Mrs. Amber Luna DVM,StudentID,"If someone searched for Mrs. Amber Luna DVM in the registrar database, what code would they need?",0
+657,Carlos Adams,Department,What division within the institution does Carlos Adams's program fall under?,1
+658,Sarah Booth,GPA,What numeric value reflects Sarah Booth's academic standing across courses?,0
+659,Cheryl Turner,GPA,What numeric value reflects Cheryl Turner's academic standing across courses?,0
+660,Lisa Kaiser,Department,Under what faculty branch does Lisa Kaiser study?,1
+661,Krista Fuller,GPA,"If you compress Krista Fuller's grades into one score, what would it be?",0
+662,Tommy Hood,GPA,"If you compress Tommy Hood's grades into one score, what would it be?",0
+663,Megan Le,Age,How old is Megan Le?,1
+664,Edward Barton,StudentID,"If someone searched for Edward Barton in the registrar database, what code would they need?",0
+665,Mary Hill,Age,How old is Mary Hill?,1
+666,Daniel Kennedy,Department,Which academic unit oversees the program Daniel Kennedy is part of?,1
+667,Erica Wilson,Age,How old is Erica Wilson?,1
+668,Alvin Wilson,Age,How old is Alvin Wilson?,1
+669,Joseph Mayer,GPA,What numeric value reflects Joseph Mayer's academic standing across courses?,0
+670,Kristen Sloan,Age,How old is Kristen Sloan?,1
+671,Carolyn Miller,Age,How old is Carolyn Miller?,1
+672,Robert Clarke,Department,Which academic unit oversees the program Robert Clarke is part of?,1
+673,Robert Clarke,StudentID,Which internal identifier would appear beside Robert Clarke in school systems?,0
+674,Carla Reid DDS,GraduationYear,What is the projected completion year for Carla Reid DDS's academic program?,0
+675,Heather Mcmahon,StudentID,Which internal identifier would appear beside Heather Mcmahon in school systems?,0
+676,Michelle Jackson,Department,Which academic unit oversees the program Michelle Jackson is part of?,1
+677,Justin Foster,Age,How old is Justin Foster?,1
+678,Alexis Cervantes,Department,Under what faculty branch does Alexis Cervantes study?,1
+679,Samantha Foster,Email,What digital address is usually used to contact Samantha Foster?,1
+680,Rebecca Barrett,Age,How old is Rebecca Barrett?,1
+681,Elizabeth Holmes,GraduationYear,In what year is Elizabeth Holmes expected to complete all degree requirements?,0
+682,Thomas Atkins,Email,"If someone wanted to send an academic message to Thomas Atkins, which inbox would they reach?",1
+683,Lauren Cunningham,Department,Which academic unit oversees the program Lauren Cunningham is part of?,1
+684,Charles Bush,Department,Under what faculty branch does Charles Bush study?,1
+685,Melinda Anderson,StudentID,What unique tracking number does the institution attach to Melinda Anderson?,0
+686,Kristen Sloan,GraduationYear,Around when should Kristen Sloan finish their university studies?,0
+687,Heather Mcmahon,GraduationYear,In what year is Heather Mcmahon expected to complete all degree requirements?,0
+688,Thomas Barker,GraduationYear,In what year is Thomas Barker expected to complete all degree requirements?,0
+689,Laura Robertson,Department,Which academic unit oversees the program Laura Robertson is part of?,1
+690,Stephanie West,GraduationYear,What is the projected completion year for Stephanie West's academic program?,0
+691,Tyler Salazar,GraduationYear,What is the projected completion year for Tyler Salazar's academic program?,0
+692,Elizabeth Camacho,Department,Which academic unit oversees the program Elizabeth Camacho is part of?,1
+693,Joshua Rodriguez,GraduationYear,In what year is Joshua Rodriguez expected to complete all degree requirements?,0
+694,Kevin Gregory,Age,How old is Kevin Gregory?,1
+695,John Robles,StudentID,What unique tracking number does the institution attach to John Robles?,0
+696,Casey Murphy,Email,What digital address is usually used to contact Casey Murphy?,1
+697,Tommy Hood,GraduationYear,What is the projected completion year for Tommy Hood's academic program?,0
+698,James Randall,Department,Under what faculty branch does James Randall study?,1
+699,Haley Johnson,StudentID,What unique tracking number does the institution attach to Haley Johnson?,0
+700,Carla Reid DDS,Department,Under what faculty branch does Carla Reid DDS study?,1
+701,Lisa Kaiser,Age,How old is Lisa Kaiser?,1
+702,Pamela Morgan,Age,How old is Pamela Morgan?,1
+703,Lisa Montes,Age,How old is Lisa Montes?,1
+704,Scott Gomez,Email,Where would official school notices typically reach Scott Gomez electronically?,1
+705,Cynthia Rowe,StudentID,Which internal identifier would appear beside Cynthia Rowe in school systems?,0
+706,Tommy Hood,StudentID,Which internal identifier would appear beside Tommy Hood in school systems?,0
+707,Jennifer Jenkins,StudentID,Which internal identifier would appear beside Jennifer Jenkins in school systems?,0
+708,Jennifer Townsend,GraduationYear,What is the projected completion year for Jennifer Townsend's academic program?,0
+709,Jeremy Edwards,Email,"If someone wanted to send an academic message to Jeremy Edwards, which inbox would they reach?",1
+710,Stephanie Ross,StudentID,What unique tracking number does the institution attach to Stephanie Ross?,0
+711,Andrea Garcia,Age,How old is Andrea Garcia?,1
+712,Desiree Smith,Department,Under what faculty branch does Desiree Smith study?,1
+713,Brian Porter MD,Department,Under what faculty branch does Brian Porter MD study?,1
+714,Cody Hoover,GraduationYear,In what year is Cody Hoover expected to complete all degree requirements?,0
+715,Mark Weaver,StudentID,What unique tracking number does the institution attach to Mark Weaver?,0
+716,Michael Stanley,Age,How old is Michael Stanley?,1
+717,Dale Wright,StudentID,What unique tracking number does the institution attach to Dale Wright?,0
+718,Scott Gomez,Department,Which academic unit oversees the program Scott Gomez is part of?,1
+719,Carla Reid DDS,GPA,"If you compress Carla Reid DDS's grades into one score, what would it be?",0
+720,Kristen Orozco,StudentID,What unique tracking number does the institution attach to Kristen Orozco?,0
+721,Sharon Santos,Email,What digital address is usually used to contact Sharon Santos?,1
+722,William Miller,GraduationYear,What is the projected completion year for William Miller's academic program?,0
+723,Alvin Wilson,Email,Where would official school notices typically reach Alvin Wilson electronically?,1
+724,Kenneth Jackson,Age,How old is Kenneth Jackson?,1
+725,Edward Barton,Department,Which academic unit oversees the program Edward Barton is part of?,1
+726,Rebecca Barrett,Email,What digital address is usually used to contact Rebecca Barrett?,1
+727,Zachary Hicks,GPA,What numeric value reflects Zachary Hicks's academic standing across courses?,0
+728,Justin Hurley,Email,"If someone wanted to send an academic message to Justin Hurley, which inbox would they reach?",1
+729,Elizabeth Miles,Department,Under what faculty branch does Elizabeth Miles study?,1
+730,Tyler Salazar,StudentID,What unique tracking number does the institution attach to Tyler Salazar?,0
+731,Sara Thomas,GraduationYear,What is the projected completion year for Sara Thomas's academic program?,0
+732,Pamela Morgan,StudentID,What unique tracking number does the institution attach to Pamela Morgan?,0
+733,Heather Davis,StudentID,"If someone searched for Heather Davis in the registrar database, what code would they need?",0
+734,Sharon Fuentes,Department,Under what faculty branch does Sharon Fuentes study?,1
+735,Edgar Hughes,GPA,"If you compress Edgar Hughes's grades into one score, what would it be?",0
+736,Alyssa Powers,Age,How old is Alyssa Powers?,1
+737,Jeremy Edwards,GPA,What numeric value reflects Jeremy Edwards's academic standing across courses?,0
+738,Megan Green,GraduationYear,In what year is Megan Green expected to complete all degree requirements?,0
+739,Elizabeth Camacho,GPA,What numeric value reflects Elizabeth Camacho's academic standing across courses?,0
+740,Carlos Adams,GraduationYear,What is the projected completion year for Carlos Adams's academic program?,0
+741,Edward Weeks,GraduationYear,In what year is Edward Weeks expected to complete all degree requirements?,0
+742,Brittany Stevens,GPA,"If you compress Brittany Stevens's grades into one score, what would it be?",0
+743,Aaron Wise,GraduationYear,What is the projected completion year for Aaron Wise's academic program?,0
+744,Pamela Morgan,Email,Where would official school notices typically reach Pamela Morgan electronically?,1
+745,Ryan Murphy,GraduationYear,Around when should Ryan Murphy finish their university studies?,0
+746,Jeffrey Baldwin,GraduationYear,What is the projected completion year for Jeffrey Baldwin's academic program?,0
+747,Timothy Kennedy,GPA,What numeric value reflects Timothy Kennedy's academic standing across courses?,0
+748,Stephanie Ross,GPA,"If you compress Stephanie Ross's grades into one score, what would it be?",0
+749,William Turner,Age,How old is William Turner?,1
+750,Ryan Barker,GraduationYear,What is the projected completion year for Ryan Barker's academic program?,0
+751,Kara Roberts,StudentID,"If someone searched for Kara Roberts in the registrar database, what code would they need?",0
+752,Janice Henson,Email,Where would official school notices typically reach Janice Henson electronically?,1
+753,Edward Weeks,Email,Where would official school notices typically reach Edward Weeks electronically?,1
+754,David Robles,Department,Which academic unit oversees the program David Robles is part of?,1
+755,Taylor Flores,StudentID,"If someone searched for Taylor Flores in the registrar database, what code would they need?",0
+756,Melinda Anderson,Age,How old is Melinda Anderson?,1
+757,Kristen Orozco,GPA,What numeric value reflects Kristen Orozco's academic standing across courses?,0
+758,Daniel Kennedy,Email,Where would official school notices typically reach Daniel Kennedy electronically?,1
+759,Elizabeth Nicholson,StudentID,"If someone searched for Elizabeth Nicholson in the registrar database, what code would they need?",0
+760,Scott Gomez,StudentID,Which internal identifier would appear beside Scott Gomez in school systems?,0
+761,Tammy Cameron,GPA,What numeric value reflects Tammy Cameron's academic standing across courses?,0
+762,Joseph Montgomery,Age,How old is Joseph Montgomery?,1
+763,Maria Valenzuela,Email,What digital address is usually used to contact Maria Valenzuela?,1
+764,Ryan Murphy,StudentID,Which internal identifier would appear beside Ryan Murphy in school systems?,0
+765,Joe Martinez,Email,What digital address is usually used to contact Joe Martinez?,1
+766,Matthew Harrington,Department,What division within the institution does Matthew Harrington's program fall under?,1
+767,Alvin Wilson,StudentID,Which internal identifier would appear beside Alvin Wilson in school systems?,0
+768,Gregory Harrell,Department,What division within the institution does Gregory Harrell's program fall under?,1
+769,Jennifer Roman,GPA,"If you compress Jennifer Roman's grades into one score, what would it be?",0
+770,Samantha Zavala MD,StudentID,What unique tracking number does the institution attach to Samantha Zavala MD?,0
+771,Rebecca Barrett,GraduationYear,Around when should Rebecca Barrett finish their university studies?,0
+772,Thomas Atkins,StudentID,What unique tracking number does the institution attach to Thomas Atkins?,0
+773,Bonnie Valencia,StudentID,What unique tracking number does the institution attach to Bonnie Valencia?,0
+774,Michael Cruz,Department,Under what faculty branch does Michael Cruz study?,1
+775,Tammy Williams MD,Email,Where would official school notices typically reach Tammy Williams MD electronically?,1
+776,Aaron Wise,Department,Which academic unit oversees the program Aaron Wise is part of?,1
+777,Aaron Parker,Email,"If someone wanted to send an academic message to Aaron Parker, which inbox would they reach?",1
+778,Andrea Garcia,Department,Which academic unit oversees the program Andrea Garcia is part of?,1
+779,Erica Wilson,StudentID,"If someone searched for Erica Wilson in the registrar database, what code would they need?",0
+780,Miss April Smith,GPA,"If you compress Miss April Smith's grades into one score, what would it be?",0
+781,Tyler Velazquez,Department,Under what faculty branch does Tyler Velazquez study?,1
+782,Mrs. Amber Luna DVM,Age,How old is Mrs. Amber Luna DVM?,1
+783,Allison Spencer,Department,Which academic unit oversees the program Allison Spencer is part of?,1
+784,Brittany Stevens,StudentID,"If someone searched for Brittany Stevens in the registrar database, what code would they need?",0
+785,Kara Roberts,GPA,"If you compress Kara Roberts's grades into one score, what would it be?",0
+786,Aaron Wise,StudentID,What unique tracking number does the institution attach to Aaron Wise?,0
+787,Elizabeth Nicholson,GraduationYear,Around when should Elizabeth Nicholson finish their university studies?,0
+788,Jennifer Moore,StudentID,Which internal identifier would appear beside Jennifer Moore in school systems?,0
+789,Tyler Salazar,GPA,"If you compress Tyler Salazar's grades into one score, what would it be?",0
+790,James Grimes,Department,Under what faculty branch does James Grimes study?,1
+791,Scott Gomez,GraduationYear,Around when should Scott Gomez finish their university studies?,0
+792,William Miller,StudentID,"If someone searched for William Miller in the registrar database, what code would they need?",0
+793,Sharon Santos,StudentID,What unique tracking number does the institution attach to Sharon Santos?,0
+794,Carla Reid DDS,Age,How old is Carla Reid DDS?,1
+795,Heather Davis,GraduationYear,Around when should Heather Davis finish their university studies?,0
+796,Gregory Russell,StudentID,What unique tracking number does the institution attach to Gregory Russell?,0
+797,Andrea Garcia,StudentID,"If someone searched for Andrea Garcia in the registrar database, what code would they need?",0
+798,Steven Carrillo,Email,What digital address is usually used to contact Steven Carrillo?,1
+799,Deborah Roberson,Email,Where would official school notices typically reach Deborah Roberson electronically?,1
+800,Heather Mcmahon,GPA,What numeric value reflects Heather Mcmahon's academic standing across courses?,0
+801,Joshua Reed,GraduationYear,In what year is Joshua Reed expected to complete all degree requirements?,0
+802,Joshua Richardson,GraduationYear,Around when should Joshua Richardson finish their university studies?,0
+803,Katie Mitchell,GraduationYear,In what year is Katie Mitchell expected to complete all degree requirements?,0
+804,Joshua Rodriguez,Department,Under what faculty branch does Joshua Rodriguez study?,1
+805,Ronald Potter,StudentID,What unique tracking number does the institution attach to Ronald Potter?,0
+806,Kenneth Jackson,Department,Which academic unit oversees the program Kenneth Jackson is part of?,1
+807,Edgar Hughes,Department,Under what faculty branch does Edgar Hughes study?,1
+808,Lauren Cunningham,GraduationYear,In what year is Lauren Cunningham expected to complete all degree requirements?,0
+809,Victor Morris,GPA,What numeric value reflects Victor Morris's academic standing across courses?,0
+810,Cynthia Rowe,GPA,"If you compress Cynthia Rowe's grades into one score, what would it be?",0
+811,Kathleen Martinez,Email,What digital address is usually used to contact Kathleen Martinez?,1
+812,Sara Stuart,GPA,"If you compress Sara Stuart's grades into one score, what would it be?",0
+813,Keith Jennings,Department,Under what faculty branch does Keith Jennings study?,1
+814,Mr. Alexander Landry MD,GPA,What numeric value reflects Mr. Alexander Landry MD's academic standing across courses?,0
+815,Miss April Smith,GraduationYear,In what year is Miss April Smith expected to complete all degree requirements?,0
+816,Samantha Foster,Department,What division within the institution does Samantha Foster's program fall under?,1
+817,Mary Peterson,StudentID,Which internal identifier would appear beside Mary Peterson in school systems?,0
+818,Brittney Martinez,Department,Under what faculty branch does Brittney Martinez study?,1
+819,Willie Russell,StudentID,"If someone searched for Willie Russell in the registrar database, what code would they need?",0
+820,Pamela Morgan,Department,Under what faculty branch does Pamela Morgan study?,1
+821,Allison Spencer,Age,How old is Allison Spencer?,1
+822,Casey Murphy,StudentID,Which internal identifier would appear beside Casey Murphy in school systems?,0
+823,Alicia Perez,GraduationYear,In what year is Alicia Perez expected to complete all degree requirements?,0
+824,Casey Murphy,GraduationYear,What is the projected completion year for Casey Murphy's academic program?,0
+825,Miranda Murray,Age,How old is Miranda Murray?,1
+826,John Coffey,GraduationYear,In what year is John Coffey expected to complete all degree requirements?,0
+827,Kara Roberts,Email,"If someone wanted to send an academic message to Kara Roberts, which inbox would they reach?",1
+828,Brian Soto,Age,How old is Brian Soto?,1
+829,Jeffrey Baldwin,Age,How old is Jeffrey Baldwin?,1
+830,Jennifer Walker,GraduationYear,In what year is Jennifer Walker expected to complete all degree requirements?,0
+831,Justin Hurley,Age,How old is Justin Hurley?,1
+832,Keith Jennings,GPA,"If you compress Keith Jennings's grades into one score, what would it be?",0
+833,Haley Johnson,Department,What division within the institution does Haley Johnson's program fall under?,1
+834,Kathleen Martinez,Department,What division within the institution does Kathleen Martinez's program fall under?,1
+835,Brandi Roberts,Department,What division within the institution does Brandi Roberts's program fall under?,1
+836,Stephanie West,Department,Under what faculty branch does Stephanie West study?,1
+837,Courtney Smith,Department,What division within the institution does Courtney Smith's program fall under?,1
+838,Carla Reid DDS,StudentID,What unique tracking number does the institution attach to Carla Reid DDS?,0
+839,Ryan Crane,GraduationYear,Around when should Ryan Crane finish their university studies?,0
+840,Lisa Montes,Email,Where would official school notices typically reach Lisa Montes electronically?,1
+841,Steven Carrillo,Department,Which academic unit oversees the program Steven Carrillo is part of?,1
+842,Heather Davis,Department,Which academic unit oversees the program Heather Davis is part of?,1
+843,James Grimes,Age,How old is James Grimes?,1
+844,Edward Barton,Age,How old is Edward Barton?,1
+845,Stephanie West,StudentID,"If someone searched for Stephanie West in the registrar database, what code would they need?",0
+846,Erin Ellis,GPA,"If you compress Erin Ellis's grades into one score, what would it be?",0
+847,Laura Adams,GPA,"If you compress Laura Adams's grades into one score, what would it be?",0
+848,Brittney Martinez,Email,"If someone wanted to send an academic message to Brittney Martinez, which inbox would they reach?",1
+849,Matthew Harrington,GPA,What numeric value reflects Matthew Harrington's academic standing across courses?,0
+850,Charles Bush,Email,"If someone wanted to send an academic message to Charles Bush, which inbox would they reach?",1
+851,Cheryl Turner,Age,How old is Cheryl Turner?,1
+852,Lisa Montes,Department,What division within the institution does Lisa Montes's program fall under?,1
+853,Alvin Wilson,GraduationYear,Around when should Alvin Wilson finish their university studies?,0
+854,Casey Murphy,Department,Under what faculty branch does Casey Murphy study?,1
+855,Steven Lee,Department,Under what faculty branch does Steven Lee study?,1
+856,Dale Wright,GPA,"If you compress Dale Wright's grades into one score, what would it be?",0
+857,Brooke Davis,Department,Under what faculty branch does Brooke Davis study?,1
+858,Mary Peterson,Email,What digital address is usually used to contact Mary Peterson?,1
+859,Lisa Kaiser,GraduationYear,Around when should Lisa Kaiser finish their university studies?,0
+860,Ryan Barker,Email,What digital address is usually used to contact Ryan Barker?,1
+861,Elizabeth Nicholson,Email,Where would official school notices typically reach Elizabeth Nicholson electronically?,1
+862,Tammy Cameron,GraduationYear,Around when should Tammy Cameron finish their university studies?,0
+863,Jennifer Greene,Age,How old is Jennifer Greene?,1
+864,John Coffey,Age,How old is John Coffey?,1
+865,Sarah Booth,Age,How old is Sarah Booth?,1
+866,Katie Alvarez,Department,What division within the institution does Katie Alvarez's program fall under?,1
+867,Laura Adams,StudentID,"If someone searched for Laura Adams in the registrar database, what code would they need?",0
+868,Michelle Jackson,Age,How old is Michelle Jackson?,1
+869,Joshua Richardson,Department,Under what faculty branch does Joshua Richardson study?,1
+870,Joshua Rodriguez,GPA,"If you compress Joshua Rodriguez's grades into one score, what would it be?",0
+871,Katie Alvarez,Email,What digital address is usually used to contact Katie Alvarez?,1
+872,Bonnie Valencia,GraduationYear,What is the projected completion year for Bonnie Valencia's academic program?,0
+873,Teresa Allen,StudentID,Which internal identifier would appear beside Teresa Allen in school systems?,0
+874,Dr. Jose Gray DDS,GraduationYear,In what year is Dr. Jose Gray DDS expected to complete all degree requirements?,0
+875,Gregory Harrell,GraduationYear,What is the projected completion year for Gregory Harrell's academic program?,0
+876,Scott Bradley,Department,Which academic unit oversees the program Scott Bradley is part of?,1
+877,Haley Johnson,GPA,What numeric value reflects Haley Johnson's academic standing across courses?,0
+878,Christopher Klein,StudentID,Which internal identifier would appear beside Christopher Klein in school systems?,0
+879,Joshua Reed,Department,Which academic unit oversees the program Joshua Reed is part of?,1
+880,John Cooper,Age,How old is John Cooper?,1
+881,Angelica Keith,Email,What digital address is usually used to contact Angelica Keith?,1
+882,Erica Wilson,Department,Under what faculty branch does Erica Wilson study?,1
+883,Sara Thomas,Age,How old is Sara Thomas?,1
+884,Dustin Gallegos,Age,How old is Dustin Gallegos?,1
+885,Matthew Harrington,Email,"If someone wanted to send an academic message to Matthew Harrington, which inbox would they reach?",1
+886,Sara Stuart,Email,"If someone wanted to send an academic message to Sara Stuart, which inbox would they reach?",1
+887,William Cunningham,Email,Where would official school notices typically reach William Cunningham electronically?,1
+888,Dustin Gallegos,GPA,"If you compress Dustin Gallegos's grades into one score, what would it be?",0
+889,Mrs. Amber Luna DVM,Email,What digital address is usually used to contact Mrs. Amber Luna DVM?,1
+890,Brian Porter MD,Age,How old is Brian Porter MD?,1
+891,Aaron Parker,Department,Under what faculty branch does Aaron Parker study?,1
+892,Michael Kim,Department,What division within the institution does Michael Kim's program fall under?,1
+893,Tammy Williams MD,StudentID,"If someone searched for Tammy Williams MD in the registrar database, what code would they need?",0
+894,Felicia Lee,Department,Which academic unit oversees the program Felicia Lee is part of?,1
+895,James Randall,StudentID,"If someone searched for James Randall in the registrar database, what code would they need?",0
+896,Felicia Lee,Age,How old is Felicia Lee?,1
+897,Scott Bradley,Age,How old is Scott Bradley?,1
+898,Sara Thomas,StudentID,What unique tracking number does the institution attach to Sara Thomas?,0
+899,Brian Soto,Department,Which academic unit oversees the program Brian Soto is part of?,1
+900,William Miller,Age,How old is William Miller?,1
+901,Kenneth Jackson,Email,What digital address is usually used to contact Kenneth Jackson?,1
+902,Jeffrey Baldwin,GPA,"If you compress Jeffrey Baldwin's grades into one score, what would it be?",0
+903,Jennifer Roman,GraduationYear,What is the projected completion year for Jennifer Roman's academic program?,0
+904,Casey Murphy,Age,How old is Casey Murphy?,1
+905,Brenda Hinton,StudentID,Which internal identifier would appear beside Brenda Hinton in school systems?,0
+906,Ryan Crane,Department,What division within the institution does Ryan Crane's program fall under?,1
+907,Carolyn Miller,StudentID,Which internal identifier would appear beside Carolyn Miller in school systems?,0
+908,Joseph Montgomery,GPA,What numeric value reflects Joseph Montgomery's academic standing across courses?,0
+909,Haley Johnson,Email,Where would official school notices typically reach Haley Johnson electronically?,1
+910,Brittney Martinez,GPA,What numeric value reflects Brittney Martinez's academic standing across courses?,0
+911,Dale Wright,Department,Which academic unit oversees the program Dale Wright is part of?,1
+912,Katherine Wright,StudentID,What unique tracking number does the institution attach to Katherine Wright?,0
+913,Daniel Kennedy,GPA,What numeric value reflects Daniel Kennedy's academic standing across courses?,0
+914,Holly Valentine,Department,Under what faculty branch does Holly Valentine study?,1
+915,Kristen Sloan,Email,What digital address is usually used to contact Kristen Sloan?,1
+916,Zachary Robinson,StudentID,What unique tracking number does the institution attach to Zachary Robinson?,0
+917,Ryan Barker,Age,How old is Ryan Barker?,1
+918,Megan Le,Department,What division within the institution does Megan Le's program fall under?,1
+919,Jeffrey Baldwin,Email,Where would official school notices typically reach Jeffrey Baldwin electronically?,1
+920,Edward Barton,Email,"If someone wanted to send an academic message to Edward Barton, which inbox would they reach?",1
+921,Tammy Williams MD,GPA,"If you compress Tammy Williams MD's grades into one score, what would it be?",0
+922,William Miller,Department,What division within the institution does William Miller's program fall under?,1
+923,Kelly Wright,GPA,What numeric value reflects Kelly Wright's academic standing across courses?,0
+924,Charles Bush,Age,How old is Charles Bush?,1
+925,Krista Fuller,Department,Under what faculty branch does Krista Fuller study?,1
+926,Emily Pearson,GraduationYear,Around when should Emily Pearson finish their university studies?,0
+927,Mary Hill,StudentID,What unique tracking number does the institution attach to Mary Hill?,0
+928,Paula Moreno,GraduationYear,In what year is Paula Moreno expected to complete all degree requirements?,0
+929,Maria Valenzuela,Age,How old is Maria Valenzuela?,1
+930,Amber Wilson,GPA,"If you compress Amber Wilson's grades into one score, what would it be?",0
+931,Joseph Montgomery,GraduationYear,In what year is Joseph Montgomery expected to complete all degree requirements?,0
+932,Joshua Reed,Email,Where would official school notices typically reach Joshua Reed electronically?,1
+933,Brittany Stevens,Department,Which academic unit oversees the program Brittany Stevens is part of?,1
+934,Stephanie West,Age,How old is Stephanie West?,1
+935,Desiree Smith,GPA,"If you compress Desiree Smith's grades into one score, what would it be?",0
+936,Richard Ryan,GPA,"If you compress Richard Ryan's grades into one score, what would it be?",0
+937,Cheryl Turner,Department,Which academic unit oversees the program Cheryl Turner is part of?,1
+938,Maria Valenzuela,GPA,"If you compress Maria Valenzuela's grades into one score, what would it be?",0
+939,Janice Henson,Department,Under what faculty branch does Janice Henson study?,1
+940,Brian Soto,GraduationYear,What is the projected completion year for Brian Soto's academic program?,0
+941,Joseph Mayer,StudentID,"If someone searched for Joseph Mayer in the registrar database, what code would they need?",0
+942,Jennifer Moore,GraduationYear,In what year is Jennifer Moore expected to complete all degree requirements?,0
+943,Sharon Santos,GraduationYear,In what year is Sharon Santos expected to complete all degree requirements?,0
+944,Debra Reilly,GraduationYear,What is the projected completion year for Debra Reilly's academic program?,0
+945,Brenda Hinton,GPA,What numeric value reflects Brenda Hinton's academic standing across courses?,0
+946,Dustin Gallegos,StudentID,"If someone searched for Dustin Gallegos in the registrar database, what code would they need?",0
+947,Miss April Smith,Email,What digital address is usually used to contact Miss April Smith?,1
+948,Jeffrey Baldwin,Department,Under what faculty branch does Jeffrey Baldwin study?,1
+949,Daniel Kennedy,GraduationYear,What is the projected completion year for Daniel Kennedy's academic program?,0
+950,Ryan Barker,StudentID,What unique tracking number does the institution attach to Ryan Barker?,0
+951,Jennifer Greene,Email,"If someone wanted to send an academic message to Jennifer Greene, which inbox would they reach?",1
+952,Steven Carrillo,GraduationYear,What is the projected completion year for Steven Carrillo's academic program?,0
+953,Jennifer Esparza,Department,Which academic unit oversees the program Jennifer Esparza is part of?,1
+954,Victor Morris,Email,"If someone wanted to send an academic message to Victor Morris, which inbox would they reach?",1
+955,Megan Le,GraduationYear,Around when should Megan Le finish their university studies?,0
+956,Jennifer Greene,Department,Under what faculty branch does Jennifer Greene study?,1
+957,Brooke Davis,Age,How old is Brooke Davis?,1
+958,Christopher Klein,GraduationYear,Around when should Christopher Klein finish their university studies?,0
+959,Taylor Flores,Age,How old is Taylor Flores?,1
+960,Mark Anderson,Email,Where would official school notices typically reach Mark Anderson electronically?,1
+961,Richard Ryan,GraduationYear,In what year is Richard Ryan expected to complete all degree requirements?,0
+962,Brian Porter MD,StudentID,What unique tracking number does the institution attach to Brian Porter MD?,0
+963,Justin Hurley,StudentID,"If someone searched for Justin Hurley in the registrar database, what code would they need?",0
+964,Sara Stuart,StudentID,What unique tracking number does the institution attach to Sara Stuart?,0
+965,Samantha Foster,GraduationYear,In what year is Samantha Foster expected to complete all degree requirements?,0
+966,Kara Roberts,Age,How old is Kara Roberts?,1
+967,Thomas Atkins,Department,Under what faculty branch does Thomas Atkins study?,1
+968,Jennifer Moore,Age,How old is Jennifer Moore?,1
+969,Evan Cooper,Department,Which academic unit oversees the program Evan Cooper is part of?,1
+970,Michael Kim,GPA,What numeric value reflects Michael Kim's academic standing across courses?,0
+971,Kevin Gregory,GPA,"If you compress Kevin Gregory's grades into one score, what would it be?",0
+972,Alex Lamb,Age,How old is Alex Lamb?,1
+973,Elizabeth Gay,Email,"If someone wanted to send an academic message to Elizabeth Gay, which inbox would they reach?",1
+974,Michael Cruz,StudentID,Which internal identifier would appear beside Michael Cruz in school systems?,0
+975,John Coffey,Department,Under what faculty branch does John Coffey study?,1
+976,John Coffey,Email,What digital address is usually used to contact John Coffey?,1
+977,Zachary Hicks,GraduationYear,In what year is Zachary Hicks expected to complete all degree requirements?,0
+978,Kristen Orozco,Department,What division within the institution does Kristen Orozco's program fall under?,1
+979,Joseph Mayer,Department,Under what faculty branch does Joseph Mayer study?,1
+980,Ryan Murphy,Age,How old is Ryan Murphy?,1
+981,Thomas Barker,Email,What digital address is usually used to contact Thomas Barker?,1
+982,Michael Cruz,GraduationYear,In what year is Michael Cruz expected to complete all degree requirements?,0
+983,Brandi Roberts,StudentID,"If someone searched for Brandi Roberts in the registrar database, what code would they need?",0
+984,Aaron Wise,Age,How old is Aaron Wise?,1
+985,Jennifer Townsend,Age,How old is Jennifer Townsend?,1
+986,Kenneth Jackson,StudentID,"If someone searched for Kenneth Jackson in the registrar database, what code would they need?",0
+987,Mr. Alexander Landry MD,Age,How old is Mr. Alexander Landry MD?,1
+988,Tammy Cameron,Age,How old is Tammy Cameron?,1
+989,Melinda Anderson,GPA,"If you compress Melinda Anderson's grades into one score, what would it be?",0
+990,Jennifer Townsend,Email,What digital address is usually used to contact Jennifer Townsend?,1
+991,Alex Lamb,StudentID,"If someone searched for Alex Lamb in the registrar database, what code would they need?",0
+992,Miss April Smith,Age,How old is Miss April Smith?,1
+993,Edgar Hughes,Age,How old is Edgar Hughes?,1
+994,Keith Jennings,StudentID,"If someone searched for Keith Jennings in the registrar database, what code would they need?",0
+995,Amanda Meadows,Age,How old is Amanda Meadows?,1
+996,Ronald Potter,GPA,What numeric value reflects Ronald Potter's academic standing across courses?,0
+997,Matthew Harrington,Age,How old is Matthew Harrington?,1
+998,Kenneth Washington,GraduationYear,What is the projected completion year for Kenneth Washington's academic program?,0
+999,Michael Kim,Email,"If someone wanted to send an academic message to Michael Kim, which inbox would they reach?",1
+1000,Deborah Roberson,Department,Which academic unit oversees the program Deborah Roberson is part of?,1

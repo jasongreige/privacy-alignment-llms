@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# IDE files
+**/.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large model/checkpoint outputs
+checkpoints/
+models/
+outputs/
+runs/
+wandb/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
+
